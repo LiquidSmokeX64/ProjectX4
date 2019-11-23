@@ -25,10 +25,10 @@
 		<t id="99805">(Beam Emitter){77770201,99803}</t>
     </page>
 	<page id="77770301" title="PX4Shields" descr="Text for new Shields" voice="no">
-		<t id="1001">Prototype Shield Generator Mk1</t>
-		<t id="1002">{20006,102}(No information available)</t>
-		<t id="1003">ProtoShield Mk1</t>
-		<t id="1004">(ARG S ProtoShield Generator Mk1){20202,103} {20111,5011} {77770301,99801} {20111,101}</t>
-		<t id="1005">(ProtoShield Mk1){77770301,99803} {20111,101}</t>
+		<t id="99801">Prototype Shield Generator Mk1</t>
+		<t id="99802">{20006,102}(No information available)</t>
+		<t id="99803">ProtoShield Mk1</t>
+		<t id="99804">(ARG S ProtoShield Generator Mk1){20202,103} {20111,5011} {77770301,99801} {20111,101}</t>
+		<t id="99805">(ProtoShield Mk1){77770301,99803} {20111,101}</t>
     </page>
 </language>
