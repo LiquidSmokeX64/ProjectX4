@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <diff>
     <add sel="/index">
-        <entry name="engine_arg_s_prototype_01_mk1_macro" value="extensions\ProjectX4\arg_s_engine_macros\engine_arg_s_prototype_01_mk1_macro" />
-		<entry name="engine_arg_s_prototype_01_mk2_macro" value="extensions\ProjectX4\arg_s_engine_macros\engine_arg_s_prototype_01_mk2_macro" />
-		<entry name="engine_arg_s_prototype_01_mk3_macro" value="extensions\ProjectX4\arg_s_engine_macros\engine_arg_s_prototype_01_mk3_macro" />
+        <entry name="engine_arg_s_prototype_01_mk1_macro" value="extensions\ProjectX4\engine_macros\arg\small\engine_arg_s_prototype_01_mk1_macro" />
+		<entry name="engine_arg_s_prototype_01_mk2_macro" value="extensions\ProjectX4\engine_macros\arg\small\engine_arg_s_prototype_01_mk2_macro" />
+		<entry name="engine_arg_s_prototype_01_mk3_macro" value="extensions\ProjectX4\engine_macros\arg\small\engine_arg_s_prototype_01_mk3_macro" />
+		<entry name="weapon_gen_s_prototype_beam_01_mk1_macro" value="extensions\ProjectX4\weapon_macros\weapons\small\weapon_gen_s_prototype_beam_01_mk1_macro" />
+		<entry name="bullet_gen_s_prototype_beam_01_mk1_macro" value="extensions\ProjectX4\weapon_macros\projectiles\small\bullet_gen_s_prototype_beam_01_mk1_macro" />
+		<entry name="shield_arg_s_prototype_01_mk1_macro" value="extensions\ProjectX4\shield_macros\arg\small\shield_arg_s_prototype_01_mk1_macro" />
     </add>
 </diff>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Exported by: nick (192.168.3.120) at 30.11.2018_10-42-59-->
+<macros>
+  <macro name="weapon_gen_s_prototype_beam_01_mk1_macro" class="weapon">
+    <component ref="weapon_gen_s_beam_01_mk2" />
+    <properties>
+      <identification name="{77770201,99804}" basename="{77770201,99801}" shortname="{77770201,99803}" description="{77770201,99802}" mk="1" />
+      <bullet class="bullet_gen_s_prototype_beam_01_mk1_macro" />
+      <heat overheat="15000" cooldelay="1.00" coolrate="2500" reenable="6500" />
+      <rotationspeed max="60" />
+      <rotationacceleration max="30" />
+      <reload />
+      <hull max="750" hittable="0" />
+      <effects>
+        <firing start="startshooting_gen_s_beam_01_mk1" stop="stopshooting_gen_s_beam_01_mk1" />
+      </effects>
+      <sounds>
+        <firing ref="wpn_beam_gen_01" />
+      </sounds>
+    </properties>
+  </macro>
+</macros>
