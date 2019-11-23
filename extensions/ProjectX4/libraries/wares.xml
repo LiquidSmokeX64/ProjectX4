@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?> 
+	<!-- NewShipParts - Wares - Created by: ManDaxi -->
+<diff>
+	<add sel="/wares">
+		<ware id="engine_arg_s_prototype_01_mk1" name="{77770101,99804}" description="{77770101,99802}" group="engines" transport="equipment" volume="1" tags="engine equipment projectx4">
+			<price min="328116" average="379017" max="449919" />
+			<production time="10" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="20" />
+					<ware ware="engineparts" amount="12" />
+				</primary>
+			</production>
+			<component ref="engine_arg_s_prototype_01_mk1_macro" amount="1" />
+			<restriction licence="generaluseequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="hatikvah" />
+		</ware>
+	</add>
+</diff>
