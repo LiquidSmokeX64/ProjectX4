@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <language>
-    <page id="77770101" title="ProjectX4" descr="Text for new Engines" voice="no">
+    <page id="77770101" title="PX4Engines" descr="Text for new Engines" voice="no">
         <t id="99801">Prototype Engine MK1</t>
         <t id="99802">{20006,102}(This is a Project X Prototype MK1 Engine)</t>
         <t id="99803">Prototype MK1</t>
         <t id="99804">(ARG S Prototype Engine MK1){20202,103} {20111,5011} {77770101,99801} {20111,101}</t>
-        <t id="99805">(Prototype PX4){77770101,99803} {20111,101}</t>
+        <t id="99805">(Prototype MK1){77770101,99803} {20111,101}</t>
+		<t id="99701">Prototype Engine MK2</t>
+        <t id="99702">{20006,102}(This is a Project X Prototype MK2 Engine)</t>
+        <t id="99703">Prototype MK2</t>
+        <t id="99704">(ARG S Prototype Engine MK2){20202,103} {20111,5011} {77770101,99701} {20111,101}</t>
+        <t id="99705">(Prototype MK2){77770101,99703} {20111,101}</t>
+		<t id="99601">Prototype Engine MK3</t>
+        <t id="99602">{20006,102}(This is a Project X Prototype MK3 Engine)</t>
+        <t id="99603">Prototype MK3</t>
+        <t id="99604">(ARG S Prototype Engine MK3){20202,103} {20111,5011} {77770101,99601} {20111,101}</t>
+        <t id="99605">(Prototype MK3){77770101,99603} {20111,101}</t>
     </page>
 </language>

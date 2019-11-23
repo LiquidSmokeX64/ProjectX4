@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <diff>
     <add sel="/index">
-        <entry name="engine_arg_s_prototype_01_mk1_macro" value="extensions\ProjectX4\engine_macros\engine_arg_s_prototype_01_mk1_macro" />
+        <entry name="engine_arg_s_prototype_01_mk1_macro" value="extensions\ProjectX4\arg_s_engine_macros\engine_arg_s_prototype_01_mk1_macro" />
+		<entry name="engine_arg_s_prototype_01_mk2_macro" value="extensions\ProjectX4\arg_s_engine_macros\engine_arg_s_prototype_01_mk2_macro" />
+		<entry name="engine_arg_s_prototype_01_mk3_macro" value="extensions\ProjectX4\arg_s_engine_macros\engine_arg_s_prototype_01_mk3_macro" />
     </add>
 </diff>

@@ -2,7 +2,7 @@
 <diff>
     <add sel="/wares">
         <ware id="engine_arg_s_prototype_01_mk1" name="{77770101,99804}" description="{77770101,99802}" group="engines" transport="equipment" volume="1" tags="engine equipment">
-            <price min="328116" average="379017" max="449919" />
+            <price min="300000" average="350000" max="400000" />
             <production time="10" amount="1" method="default" name="{20206,101}">
                 <primary>
                     <ware ware="energycells" amount="20" />
@@ -10,6 +10,38 @@
                 </primary>
             </production>
             <component ref="engine_arg_s_prototype_01_mk1_macro" amount="1" />
+            <restriction licence="generaluseequipment" />
+            <use threshold="0" />
+            <owner faction="alliance" />
+            <owner faction="antigone" />
+            <owner faction="argon" />
+            <owner faction="hatikvah" />
+        </ware>
+		<ware id="engine_arg_s_prototype_01_mk2" name="{77770101,99704}" description="{77770101,99702}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+            <price min="350000" average="400000" max="450000" />
+            <production time="10" amount="1" method="default" name="{20206,101}">
+                <primary>
+                    <ware ware="energycells" amount="23" />
+                    <ware ware="engineparts" amount="14" />
+                </primary>
+            </production>
+            <component ref="engine_arg_s_prototype_01_mk2_macro" amount="1" />
+            <restriction licence="generaluseequipment" />
+            <use threshold="0" />
+            <owner faction="alliance" />
+            <owner faction="antigone" />
+            <owner faction="argon" />
+            <owner faction="hatikvah" />
+        </ware>
+		<ware id="engine_arg_s_prototype_01_mk3" name="{77770101,99604}" description="{77770101,99602}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+            <price min="400000" average="450000" max="500000" />
+            <production time="10" amount="1" method="default" name="{20206,101}">
+                <primary>
+                    <ware ware="energycells" amount="25" />
+                    <ware ware="engineparts" amount="16" />
+                </primary>
+            </production>
+            <component ref="engine_arg_s_prototype_01_mk3_macro" amount="1" />
             <restriction licence="generaluseequipment" />
             <use threshold="0" />
             <owner faction="alliance" />
