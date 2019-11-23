@@ -85,5 +85,25 @@
 			<owner faction="argon" />
 			<owner faction="hatikvah" />
 		</ware>
+		<ware id="weapon_gen_s_prototype_gatling_01_mk1" name="{77770401,99804}" description="{77770401,99802}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
+			<price min="250000" average="300000" max="350000" />
+				<production time="10" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="advancedelectronics" amount="45" />
+						<ware ware="energycells" amount="13" />
+						<ware ware="weaponcomponents" amount="20" />
+					</primary>
+				</production>
+			<component ref="weapon_gen_s_prototype_gatling_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.95" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="holyorder" />
+			<owner faction="ministry" />
+			<owner faction="paranid" />
+			<owner faction="teladi" />
+		</ware>
     </add>
 </diff>

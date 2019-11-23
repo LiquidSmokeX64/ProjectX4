@@ -6,6 +6,8 @@
 		<entry name="engine_arg_s_prototype_01_mk3_macro" value="extensions\ProjectX4\engine_macros\arg\small\engine_arg_s_prototype_01_mk3_macro" />
 		<entry name="weapon_gen_s_prototype_beam_01_mk1_macro" value="extensions\ProjectX4\weapon_macros\weapons\small\beamguns\weapon_gen_s_prototype_beam_01_mk1_macro" />
 		<entry name="bullet_gen_s_prototype_beam_01_mk1_macro" value="extensions\ProjectX4\weapon_macros\projectiles\small\beamguns\bullet_gen_s_prototype_beam_01_mk1_macro" />
+		<entry name="weapon_gen_s_prototype_gatling_01_mk1_macro" value="extensions\ProjectX4\weapon_macros\weapons\small\boltrepeater\weapon_gen_s_prototype_gatling_01_mk1_macro" />
+		<entry name="bullet_gen_s_prototype_gatling_01_mk1_macro" value="extensions\ProjectX4\weapon_macros\projectiles\small\boltrepeater\bullet_gen_s_prototype_gatling_01_mk1_macro" />
 		<entry name="shield_arg_s_prototype_01_mk1_macro" value="extensions\ProjectX4\shield_macros\arg\small\shield_arg_s_prototype_01_mk1_macro" />
     </add>
 </diff>
