@@ -30,6 +30,20 @@
 		<t id="99504">(PAR S ProtoEngine Mk1){20202,403} {20111,5011} {77770101,99501} {20111,301}</t>
 		<t id="99505">(PAR ProtoEngine Mk1){77770101,99503} {20111,301}</t>
 		<t id="99506">PAR ProtoEngine MK1</t>
+		<!--PAR S ProtoEngine Mk2-->
+		<t id="99401">(PAR ProtoEngine Mk2){77770101,99403}</t>
+		<t id="99402">{20006,102}(This is a Project X Prototype MK2 Engine)</t>
+		<t id="99403">(PAR Prototype){77770101,99406}</t>
+		<t id="99404">(PAR S ProtoEngine Mk2){20202,403} {20111,5011} {77770101,99401} {20111,301}</t>
+		<t id="99405">(PAR ProtoEngine Mk2){77770101,99403} {20111,301}</t>
+		<t id="99406">PAR ProtoEngine MK2</t>
+		<!--PAR S ProtoEngine Mk3-->
+		<t id="99301">(PAR ProtoEngine Mk3){77770101,99303}</t>
+		<t id="99302">{20006,102}(This is a Project X Prototype MK3 Engine)</t>
+		<t id="99303">(PAR Prototype){77770101,99306}</t>
+		<t id="99304">(PAR S ProtoEngine Mk3){20202,403} {20111,5011} {77770101,99301} {20111,301}</t>
+		<t id="99305">(PAR ProtoEngine Mk3){77770101,99303} {20111,301}</t>
+		<t id="99306">PAR ProtoEngine MK3</t>
 		<!--TEL S ProtoEngine Mk1-->
 		<t id="99201">(TEL ProtoEngine Mk1){77770101,99203}</t>
 		<t id="99202">{20006,102}(This is a Project X Prototype MK1 Engine)</t>
@@ -37,6 +51,20 @@
 		<t id="99204">(TEL S ProtoEngine Mk1){20202,503} {20111,5011} {77770101,99201} {20111,301}</t>
 		<t id="99205">(TEL ProtoEngine Mk1){77770101,99203} {20111,301}</t>
 		<t id="99206">TEL ProtoEngine MK1</t>
+		<!--TEL S ProtoEngine Mk2-->
+		<t id="99101">(TEL ProtoEngine Mk2){77770101,99103}</t>
+		<t id="99102">{20006,102}(This is a Project X Prototype MK2 Engine)</t>
+		<t id="99103">(TEL Prototype){77770101,99106}</t>
+		<t id="99104">(TEL S ProtoEngine Mk1){20202,503} {20111,5011} {77770101,99101} {20111,301}</t>
+		<t id="99105">(TEL ProtoEngine Mk2){77770101,99103} {20111,301}</t>
+		<t id="99106">TEL ProtoEngine MK2</t>
+		<!--TEL S ProtoEngine Mk3-->
+		<t id="99001">(TEL ProtoEngine Mk3){77770101,99003}</t>
+		<t id="99002">{20006,102}(This is a Project X Prototype MK3 Engine)</t>
+		<t id="99003">(TEL Prototype){77770101,99006}</t>
+		<t id="99004">(TEL S ProtoEngine Mk3){20202,503} {20111,5011} {77770101,99001} {20111,301}</t>
+		<t id="99005">(TEL ProtoEngine Mk3){77770101,99003} {20111,301}</t>
+		<t id="99006">TEL ProtoEngine MK3</t>
     </page>
 	<page id="77770201" title="PX4BeamWeapons" descr="Text for new Weapons" voice="no">
 		<!--ARG S ProtoBeam Mk1-->

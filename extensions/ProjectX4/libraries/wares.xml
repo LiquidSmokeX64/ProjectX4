@@ -66,6 +66,38 @@
 			<owner faction="holyorder" />
 			<owner faction="paranid" />
 		</ware>
+		<ware id="engine_par_s_prototype_01_mk2" name="{77770101,99404}" description="{77770101,99402}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="250000" average="300000" max="350000" />
+			<production time="10" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="antimatterconverters" amount="52" />
+					<ware ware="energycells" amount="49" />
+					<ware ware="engineparts" amount="56" />
+				</primary>
+			</production>
+			<component ref="engine_par_s_prototype_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.55" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="engine_par_s_prototype_01_mk3" name="{77770101,99304}" description="{77770101,99302}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="350000" average="400000" max="450000" />
+			<production time="10" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="antimatterconverters" amount="57" />
+					<ware ware="energycells" amount="56" />
+					<ware ware="engineparts" amount="61" />
+				</primary>
+			</production>
+			<component ref="engine_par_s_prototype_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.55" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
 		<ware id="engine_tel_s_prototype_01_mk1" name="{77770101,99204}" description="{77770101,99202}" group="engines" transport="equipment" volume="1" tags="engine equipment">
 			<price min="150000" average="200000" max="250000" />
 			<production time="10" amount="1" method="default" name="{20206,101}">
@@ -76,6 +108,38 @@
 				</primary>
 			</production>
 			<component ref="engine_tel_s_prototype_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.7" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="engine_tel_s_prototype_01_mk2" name="{77770101,99104}" description="{77770101,99102}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="250000" average="300000" max="350000" />
+			<production time="10" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="antimatterconverters" amount="50" />
+					<ware ware="energycells" amount="49" />
+					<ware ware="engineparts" amount="56" />
+				</primary>
+			</production>
+			<component ref="engine_tel_s_prototype_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.7" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="engine_tel_s_prototype_01_mk3" name="{77770101,99004}" description="{77770101,99002}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="350000" average="400000" max="450000" />
+			<production time="10" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="antimatterconverters" amount="55" />
+					<ware ware="energycells" amount="54" />
+					<ware ware="engineparts" amount="61" />
+				</primary>
+			</production>
+			<component ref="engine_tel_s_prototype_01_mk3_macro" amount="1" />
 			<restriction licence="militaryequipment" />
 			<use threshold="0.7" />
 			<owner faction="alliance" />

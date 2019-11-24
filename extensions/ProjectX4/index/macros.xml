@@ -8,8 +8,12 @@
 		<entry name="engine_arg_s_prototype_01_mk3_macro" value="extensions\ProjectX4\engine_macros\arg\engines\small\engine_arg_s_prototype_01_mk3_macro" />
 		<!--PAR S Engines-->
         <entry name="engine_par_s_prototype_01_mk1_macro" value="extensions\ProjectX4\engine_macros\par\engines\small\engine_par_s_prototype_01_mk1_macro" />
+		<entry name="engine_par_s_prototype_01_mk2_macro" value="extensions\ProjectX4\engine_macros\par\engines\small\engine_par_s_prototype_01_mk2_macro" />
+		<entry name="engine_par_s_prototype_01_mk3_macro" value="extensions\ProjectX4\engine_macros\par\engines\small\engine_par_s_prototype_01_mk3_macro" />
 		<!--TEL S Engines-->
         <entry name="engine_tel_s_prototype_01_mk1_macro" value="extensions\ProjectX4\engine_macros\tel\engines\small\engine_tel_s_prototype_01_mk1_macro" />
+		<entry name="engine_tel_s_prototype_01_mk2_macro" value="extensions\ProjectX4\engine_macros\tel\engines\small\engine_tel_s_prototype_01_mk2_macro" />
+		<entry name="engine_tel_s_prototype_01_mk3_macro" value="extensions\ProjectX4\engine_macros\tel\engines\small\engine_tel_s_prototype_01_mk3_macro" />
 		<!--ARG S Thrusters-->
 		<entry name="thruster_gen_s_arg_prototype_01_mk1_macro" value="extensions\ProjectX4\engine_macros\arg\thrusters\small\thruster_gen_s_arg_prototype_01_mk1_macro" />
 		<entry name="thruster_gen_s_arg_prototype_01_mk2_macro" value="extensions\ProjectX4\engine_macros\arg\thrusters\small\thruster_gen_s_arg_prototype_01_mk2_macro" />

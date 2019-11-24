@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
+  <macro name="engine_par_s_prototype_01_mk3_macro" class="engine">
+    <component ref="engine_par_s_travel_01_mk3" />
+    <properties>
+      <identification name="{77770101,99304}" basename="{77770101,99301}" shortname="{77770101,99303}" makerrace="paranid" description="{77770101,99302}" mk="3" />
+      <boost duration="4.7" thrust="4.3" attack="0.40" release="1" />
+      <travel charge="0" thrust="32" attack="18" release="40" />
+      <thrust forward="812" reverse="853" />
+      <angular />
+      <hull integrated="1" />
+      <effects>
+        <boosting ref="arg_boost_fx_s" />
+      </effects>
+      <sounds>
+        <enginedetail ref="enginedetail_ship_02" />
+      </sounds>
+    </properties>
+  </macro>
+</macros>
