@@ -50,6 +50,38 @@
             <owner faction="argon" />
             <owner faction="hatikvah" />
         </ware>
+		<ware id="engine_par_s_prototype_01_mk1" name="{77770101,99504}" description="{77770101,99502}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="150000" average="200000" max="250000" />
+			<production time="10" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="antimatterconverters" amount="45" />
+					<ware ware="energycells" amount="44" />
+					<ware ware="engineparts" amount="51" />
+				</primary>
+			</production>
+			<component ref="engine_par_s_prototype_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.55" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="engine_tel_s_prototype_01_mk1" name="{77770101,99204}" description="{77770101,99202}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="150000" average="200000" max="250000" />
+			<production time="10" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="antimatterconverters" amount="45" />
+					<ware ware="energycells" amount="44" />
+					<ware ware="engineparts" amount="51" />
+				</primary>
+			</production>
+			<component ref="engine_tel_s_prototype_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.7" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
 		<ware id="weapon_gen_s_arg_prototype_beam_01_mk1" name="{77770201,99804}" description="{77770201,99802}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
 			<price min="150000" average="200000" max="250000" />
 			<production time="10" amount="1" method="default" name="{20206,101}">

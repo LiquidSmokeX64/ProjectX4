@@ -23,6 +23,20 @@
         <t id="99604">(ARG S ProtoEngine MK3){20202,103} {20111,5011} {77770101,99601} {20111,101}</t>
         <t id="99605">(ARG ProtoEngine MK3){77770101,99603} {20111,101}</t>
 		<t id="99606">ARG ProtoEngine MK3</t>
+		<!--PAR S ProtoEngine Mk1-->
+		<t id="99501">(PAR ProtoEngine Mk1){77770101,99503}</t>
+		<t id="99502">{20006,102}(This is a Project X Prototype MK1 Engine)</t>
+		<t id="99503">(PAR Prototype){77770101,99506}</t>
+		<t id="99504">(PAR S ProtoEngine Mk1){20202,403} {20111,5011} {77770101,99501} {20111,301}</t>
+		<t id="99505">(PAR ProtoEngine Mk1){77770101,99503} {20111,301}</t>
+		<t id="99506">PAR ProtoEngine MK1</t>
+		<!--TEL S ProtoEngine Mk1-->
+		<t id="99201">(TEL ProtoEngine Mk1){77770101,99203}</t>
+		<t id="99202">{20006,102}(This is a Project X Prototype MK1 Engine)</t>
+		<t id="99203">(TEL Prototype){77770101,99206}</t>
+		<t id="99204">(TEL S ProtoEngine Mk1){20202,503} {20111,5011} {77770101,99201} {20111,301}</t>
+		<t id="99205">(TEL ProtoEngine Mk1){77770101,99203} {20111,301}</t>
+		<t id="99206">TEL ProtoEngine MK1</t>
     </page>
 	<page id="77770201" title="PX4BeamWeapons" descr="Text for new Weapons" voice="no">
 		<!--ARG S ProtoBeam Mk1-->
