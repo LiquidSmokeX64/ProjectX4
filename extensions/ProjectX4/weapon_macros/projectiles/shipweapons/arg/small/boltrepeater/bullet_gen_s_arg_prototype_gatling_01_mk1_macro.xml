@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Exported by: Alexei (192.168.3.58) at 08.11.2019_12-32-24-->
 <macros>
-  <macro name="bullet_gen_s_prototype_gatling_01_mk1_macro" class="bullet">
+  <macro name="bullet_gen_s_arg_prototype_gatling_01_mk1_macro" class="bullet">
     <component ref="bullet_gen_s_gatling_01_mk2" />
     <properties>
       <ammunition value="25" reload="1" />

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Exported by: nick (192.168.3.120) at 30.11.2018_11-12-08-->
 <macros>
-  <macro name="weapon_gen_s_prototype_gatling_01_mk1_macro" class="weapon">
+  <macro name="weapon_gen_s_arg_prototype_gatling_01_mk1_macro" class="weapon">
     <component ref="weapon_gen_s_gatling_01_mk2" />
     <properties>
       <identification name="{77770401,99804}" basename="{77770401,99801}" shortname="{77770401,99803}" description="{77770401,99802}" mk="1" />
-      <bullet class="bullet_gen_s_prototype_gatling_01_mk1_macro" />
+      <bullet class="bullet_gen_s_arg_prototype_gatling_01_mk1_macro" />
       <heat overheat="15000" cooldelay="1.00" coolrate="2200" reenable="9500" />
       <rotationspeed max="123.9" />
       <rotationacceleration max="61.95" />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Exported by: Alexei (192.168.3.58) at 08.11.2019_12-32-07-->
 <macros>
-  <macro name="bullet_gen_s_prototype_beam_01_mk1_macro" class="bullet">
+  <macro name="bullet_gen_s_arg_prototype_beam_01_mk1_macro" class="bullet">
     <component ref="bullet_gen_s_beam_01_mk2" />
     <properties>
       <bullet speed="7500" lifetime="5" range="3500" amount="1" barrelamount="1" icon="weapon_beam_mk2" maxhits="1" ricochet="0" scale="1" attach="1" />
