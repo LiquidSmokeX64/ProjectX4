@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Exported by: nick (192.168.3.120) at 30.11.2018_11-12-08-->
+<!--Created by: ManDaxi-->
 <macros>
   <macro name="weapon_gen_s_arg_prototype_gatling_01_mk1_macro" class="weapon">
     <component ref="weapon_gen_s_gatling_01_mk2" />

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
+<!--Created by: ManDaxi-->
 <diff>
     <add sel="/wares">
         <ware id="engine_arg_s_prototype_01_mk1" name="{77770101,99804}" description="{77770101,99802}" group="engines" transport="equipment" volume="1" tags="engine equipment">
@@ -10,7 +11,7 @@
                 </primary>
             </production>
             <component ref="engine_arg_s_prototype_01_mk1_macro" amount="1" />
-            <restriction licence="generaluseequipment" />
+            <restriction licence="militaryequipment" />
             <use threshold="0" />
             <owner faction="alliance" />
             <owner faction="antigone" />
@@ -26,7 +27,7 @@
                 </primary>
             </production>
             <component ref="engine_arg_s_prototype_01_mk2_macro" amount="1" />
-            <restriction licence="generaluseequipment" />
+            <restriction licence="militaryequipment" />
             <use threshold="0" />
             <owner faction="alliance" />
             <owner faction="antigone" />
@@ -42,7 +43,7 @@
                 </primary>
             </production>
             <component ref="engine_arg_s_prototype_01_mk3_macro" amount="1" />
-            <restriction licence="generaluseequipment" />
+            <restriction licence="militaryequipment" />
             <use threshold="0" />
             <owner faction="alliance" />
             <owner faction="antigone" />
@@ -75,7 +76,7 @@
 					</primary>
 				</production>
 			<component ref="shield_arg_s_prototype_01_mk1_macro" amount="1" />
-			<restriction licence="generaluseequipment" />
+			<restriction licence="militaryequipment" />
 			<use threshold="0" />
 			<owner faction="alliance" />
 			<owner faction="antigone" />
@@ -94,6 +95,30 @@
 			<component ref="weapon_gen_s_arg_prototype_gatling_01_mk1_macro" amount="1" />
 			<restriction licence="militaryequipment" />
 			<use threshold="0.95" />
+			<owner faction="alliance" />
+            <owner faction="antigone" />
+            <owner faction="argon" />
+            <owner faction="hatikvah" />
+		</ware>
+		<ware id="thruster_gen_s_arg_prototype_01_mk1" name="{77770501, 99804}" description="{77770501, 99802}" group="thrusters" transport="equipment" volume="1" tags="equipment thruster">
+			<price min="250000" average="300000" max="350000" />
+				<production time="5" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="64" />
+						<ware ware="energycells" amount="23" />
+						<ware ware="engineparts" amount="85" />
+					</primary>
+				</production>
+			<production time="10" amount="1" method="xenon" name="{20206,601}">
+			<primary>
+				<ware ware="energycells" amount="23" />
+				<ware ware="ore" amount="36" />
+				<ware ware="silicon" amount="40" />
+			</primary>
+			</production>
+			<component ref="thruster_gen_s_arg_prototype_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.7" />
 			<owner faction="alliance" />
             <owner faction="antigone" />
             <owner faction="argon" />

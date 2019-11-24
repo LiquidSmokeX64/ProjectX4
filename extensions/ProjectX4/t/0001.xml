@@ -1,41 +1,56 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<!--Created by: ManDaxi-->
 <language>
     <page id="77770101" title="PX4Engines" descr="Text for new Engines" voice="no">
         <t id="99801">(ARG ProtoEngine MK1){77770101,99803}</t>
         <t id="99802">{20006,102}(This is a Project X Prototype MK1 Engine)</t>
-        <t id="99803">ARG ProtoEngine MK1</t>
+		<t id="99803">(ARG Prototype){77770101,99806}</t>
         <t id="99804">(ARG S ProtoEngine MK1){20202,103} {20111,5011} {77770101,99801} {20111,101}</t>
         <t id="99805">(ARG ProtoEngine MK1){77770101,99803} {20111,101}</t>
+		<t id="99806">ARG ProtoEngine MK1</t>
 		<t id="99701">(ARG ProtoEngine MK2){77770101,99703}</t>
         <t id="99702">{20006,102}(This is a Project X Prototype MK2 Engine)</t>
-        <t id="99703">ARG ProtoEngine MK2</t>
+		<t id="99703">(ARG Prototype){77770101,99706}</t>
         <t id="99704">(ARG S ProtoEngine MK2){20202,103} {20111,5011} {77770101,99701} {20111,101}</t>
         <t id="99705">(ARG ProtoEngine MK2){77770101,99703} {20111,101}</t>
+		<t id="99706">ARG ProtoEngine MK2</t>
 		<t id="99601">(ARG ProtoEngine MK3){77770101,99603}</t>
         <t id="99602">{20006,102}(This is a Project X Prototype MK3 Engine)</t>
-        <t id="99603">ARG ProtoEngine MK3</t>
+		<t id="99603">(ARG Prototype){77770101,99606}</t>
         <t id="99604">(ARG S ProtoEngine MK3){20202,103} {20111,5011} {77770101,99601} {20111,101}</t>
         <t id="99605">(ARG ProtoEngine MK3){77770101,99603} {20111,101}</t>
+		<t id="99606">ARG ProtoEngine MK3</t>
     </page>
 	<page id="77770201" title="PX4BeamWeapons" descr="Text for new Weapons" voice="no">
 		<t id="99801">(ARG ProtoBeam Mk1){77770201,99803}</t>
 		<t id="99802">{20006,102}(This is a Project X Prototype MK1 Beam Weapon)</t>
-		<t id="99803">ARG ProtoBeam Mk1</t>
+		<t id="99803">(ARG Prototype){77770201,99806}</t>
 		<t id="99804">(ARG S ProtoBeam Mk1){20111,5011} {77770201,99801} {20111,201}</t>
 		<t id="99805">(ARG ProtoBeam Mk1){77770201,99803}</t>
+		<t id="99806">ARG ProtoBeam Mk1</t>
     </page>
 	<page id="77770401" title="PX4BoltWeapons" descr="Text for new Weapons" voice="no">
 		<t id="99801">(ARG ProtoBolt Mk1){77770401,99803}</t>
         <t id="99802">{20006,102}(This is a Project X Prototype MK1 Bolt Weapon)</t>
-		<t id="99803">ARG ProtoBolt Mk1</t>
+		<t id="99803">(ARG Prototype){77770401,99806}</t>
         <t id="99804">(ARG S ProtoBolt Mk1){20111,5011} {77770401,99801} {20111,201}</t>
         <t id="99805">(ARG ProtoBolt Mk1){77770401,99803}</t>
+		<t id="99806">ARG ProtoBolt Mk1</t>
     </page>
 	<page id="77770301" title="PX4Shields" descr="Text for new Shields" voice="no">
 		<t id="99801">(ARG ProtoShield Mk1){77770301,99803}</t>
 		<t id="99802">{20006,102}(This is a Project X Prototype MK1 Shield)</t>
-		<t id="99803">ARG ProtoShield Mk1</t>
+		<t id="99803">(ARG Prototype){77770301,99806}</t>
 		<t id="99804">(ARG S ProtoShield Mk1){20202,103} {20111,5011} {77770301,99801} {20111,101}</t>
 		<t id="99805">(ARG ProtoShield Mk1){77770301,99803} {20111,101}</t>
+		<t id="99806">ARG ProtoShield Mk1</t>
+    </page>
+	<page id="77770501" title="PX4Thrusters" descr="Text for new Thrusters" voice="no">
+		<t id="99801">(ARG ProtoJets Mk1){77770301,99803}</t>
+		<t id="99802">{20006,102}(This is a Project X Prototype MK1 Thruster)</t>
+		<t id="99803">(ARG Prototype){77770501,99806}</t>
+		<t id="99804">(ARG S ProtoJets Mk1){20111,5011} {77770501,99801} {20111,301}</t>
+		<t id="99805">(ARG ProtoJets Mk1){77770501,99803} {20111,301}</t>
+		<t id="99806">ARG ProtoJets Mk1</t>
     </page>
 </language>

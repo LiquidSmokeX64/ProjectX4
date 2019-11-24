@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
+<!--Created by: ManDaxi-->
 <diff>
     <add sel="/index">
-        <entry name="engine_arg_s_prototype_01_mk1_macro" value="extensions\ProjectX4\engine_macros\arg\small\engine_arg_s_prototype_01_mk1_macro" />
-		<entry name="engine_arg_s_prototype_01_mk2_macro" value="extensions\ProjectX4\engine_macros\arg\small\engine_arg_s_prototype_01_mk2_macro" />
-		<entry name="engine_arg_s_prototype_01_mk3_macro" value="extensions\ProjectX4\engine_macros\arg\small\engine_arg_s_prototype_01_mk3_macro" />
+        <entry name="engine_arg_s_prototype_01_mk1_macro" value="extensions\ProjectX4\engine_macros\arg\engines\small\engine_arg_s_prototype_01_mk1_macro" />
+		<entry name="engine_arg_s_prototype_01_mk2_macro" value="extensions\ProjectX4\engine_macros\arg\engines\small\engine_arg_s_prototype_01_mk2_macro" />
+		<entry name="engine_arg_s_prototype_01_mk3_macro" value="extensions\ProjectX4\engine_macros\arg\engines\small\engine_arg_s_prototype_01_mk3_macro" />
+		<entry name="thruster_gen_s_arg_prototype_01_mk1_macro" value="extensions\ProjectX4\engine_macros\arg\thrusters\small\thruster_gen_s_arg_prototype_01_mk1_macro" />
 		<entry name="weapon_gen_s_arg_prototype_beam_01_mk1_macro" value="extensions\ProjectX4\weapon_macros\weapons\arg\small\beamguns\weapon_gen_s_arg_prototype_beam_01_mk1_macro" />
 		<entry name="bullet_gen_s_arg_prototype_beam_01_mk1_macro" value="extensions\ProjectX4\weapon_macros\projectiles\shipweapons\arg\small\beamguns\bullet_gen_s_arg_prototype_beam_01_mk1_macro" />
 		<entry name="weapon_gen_s_arg_prototype_gatling_01_mk1_macro" value="extensions\ProjectX4\weapon_macros\weapons\arg\small\boltrepeater\weapon_gen_s_arg_prototype_gatling_01_mk1_macro" />
