@@ -32,6 +32,20 @@
 		<t id="99804">(ARG S ProtoBeam Mk1){20111,5011} {77770201,99801} {20111,201}</t>
 		<t id="99805">(ARG ProtoBeam Mk1){77770201,99803}</t>
 		<t id="99806">ARG ProtoBeam Mk1</t>
+		<!--ARG S ProtoBeam Mk2-->
+		<t id="99701">(ARG ProtoBeam Mk2){77770201,99703}</t>
+		<t id="99702">{20006,102}(This is a Project X Prototype MK2 Beam Weapon)</t>
+		<t id="99703">(ARG Prototype){77770201,99706}</t>
+		<t id="99704">(ARG S ProtoBeam Mk2){20111,5011} {77770201,99701} {20111,201}</t>
+		<t id="99705">(ARG ProtoBeam Mk2){77770201,99703}</t>
+		<t id="99706">ARG ProtoBeam Mk2</t>
+		<!--ARG S ProtoBeam Mk3-->
+		<t id="99601">(ARG ProtoBeam Mk3){77770201,99603}</t>
+		<t id="99602">{20006,102}(This is a Project X Prototype MK3 Beam Weapon)</t>
+		<t id="99603">(ARG Prototype){77770201,99606}</t>
+		<t id="99604">(ARG S ProtoBeam Mk3){20111,5011} {77770201,99601} {20111,201}</t>
+		<t id="99605">(ARG ProtoBeam Mk3){77770201,99603}</t>
+		<t id="99606">ARG ProtoBeam Mk3</t>
     </page>
 	<page id="77770401" title="PX4BoltWeapons" descr="Text for new Weapons" voice="no">
 		<!--ARG S ProtoBolt Mk1-->
@@ -41,6 +55,20 @@
         <t id="99804">(ARG S ProtoBolt Mk1){20111,5011} {77770401,99801} {20111,201}</t>
         <t id="99805">(ARG ProtoBolt Mk1){77770401,99803}</t>
 		<t id="99806">ARG ProtoBolt Mk1</t>
+		<!--ARG S ProtoBolt Mk2-->
+		<t id="99701">(ARG ProtoBolt Mk2){77770401,99703}</t>
+        <t id="99702">{20006,102}(This is a Project X Prototype MK2 Bolt Weapon)</t>
+		<t id="99703">(ARG Prototype){77770401,99706}</t>
+        <t id="99704">(ARG S ProtoBolt Mk2){20111,5011} {77770401,99701} {20111,201}</t>
+        <t id="99705">(ARG ProtoBolt Mk2){77770401,99703}</t>
+		<t id="99706">ARG ProtoBolt Mk2</t>
+		<!--ARG S ProtoBolt Mk1-->
+		<t id="99601">(ARG ProtoBolt Mk3){77770401,99603}</t>
+        <t id="99602">{20006,102}(This is a Project X Prototype MK3 Bolt Weapon)</t>
+		<t id="99603">(ARG Prototype){77770401,99606}</t>
+        <t id="99604">(ARG S ProtoBolt Mk3){20111,5011} {77770401,99601} {20111,201}</t>
+        <t id="99605">(ARG ProtoBolt Mk3){77770401,99603}</t>
+		<t id="99606">ARG ProtoBolt Mk3</t>
     </page>
 	<page id="77770301" title="PX4Shields" descr="Text for new Shields" voice="no">
 		<!--ARG S ProtoShield Mk1-->
