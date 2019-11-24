@@ -125,5 +125,53 @@
             <owner faction="argon" />
             <owner faction="hatikvah" />
 		</ware>
+		<ware id="thruster_gen_s_arg_prototype_01_mk2" name="{77770501, 99704}" description="{77770501, 99702}" group="thrusters" transport="equipment" volume="1" tags="equipment thruster">
+			<price min="350000" average="400000" max="450000" />
+				<production time="5" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="68" />
+						<ware ware="energycells" amount="27" />
+						<ware ware="engineparts" amount="89" />
+					</primary>
+				</production>
+			<production time="10" amount="1" method="xenon" name="{20206,601}">
+			<primary>
+				<ware ware="energycells" amount="27" />
+				<ware ware="ore" amount="41" />
+				<ware ware="silicon" amount="44" />
+			</primary>
+			</production>
+			<component ref="thruster_gen_s_arg_prototype_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.7" />
+			<owner faction="alliance" />
+            <owner faction="antigone" />
+            <owner faction="argon" />
+            <owner faction="hatikvah" />
+		</ware>
+		<ware id="thruster_gen_s_arg_prototype_01_mk3" name="{77770501, 99604}" description="{77770501, 99602}" group="thrusters" transport="equipment" volume="1" tags="equipment thruster">
+			<price min="450000" average="500000" max="550000" />
+				<production time="5" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="72" />
+						<ware ware="energycells" amount="33" />
+						<ware ware="engineparts" amount="91" />
+					</primary>
+				</production>
+			<production time="10" amount="1" method="xenon" name="{20206,601}">
+			<primary>
+				<ware ware="energycells" amount="34" />
+				<ware ware="ore" amount="48" />
+				<ware ware="silicon" amount="49" />
+			</primary>
+			</production>
+			<component ref="thruster_gen_s_arg_prototype_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.7" />
+			<owner faction="alliance" />
+            <owner faction="antigone" />
+            <owner faction="argon" />
+            <owner faction="hatikvah" />
+		</ware>
     </add>
 </diff>

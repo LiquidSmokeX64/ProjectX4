@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
+  <macro name="thruster_gen_s_arg_prototype_01_mk2_macro" class="engine">
+    <component ref="thruster_gen_s_allround_01_mk3" />
+    <properties>
+      <identification name="{77770501, 99704}" basename="{77770501, 99701}" shortname="{77770501, 99703}" description="{77770501, 99702}" unique="0" mk="2" />
+      <component virtual="1" />
+      <thrust strafe="365" pitch="377" yaw="315" roll="393" />
+      <angular />
+      <hull integrated="1" />
+    </properties>
+  </macro>
+</macros>
