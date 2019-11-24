@@ -50,6 +50,20 @@
 		<t id="99804">(ARG S ProtoShield Mk1){20202,103} {20111,5011} {77770301,99801} {20111,101}</t>
 		<t id="99805">(ARG ProtoShield Mk1){77770301,99803} {20111,101}</t>
 		<t id="99806">ARG ProtoShield Mk1</t>
+		<!--ARG S ProtoShield Mk2-->
+		<t id="99701">(ARG ProtoShield Mk2){77770301,99703}</t>
+		<t id="99702">{20006,102}(This is a Project X Prototype MK2 Shield)</t>
+		<t id="99703">(ARG Prototype){77770301,99706}</t>
+		<t id="99704">(ARG S ProtoShield Mk2){20202,103} {20111,5011} {77770301,99701} {20111,101}</t>
+		<t id="99705">(ARG ProtoShield Mk2){77770301,99703} {20111,101}</t>
+		<t id="99706">ARG ProtoShield Mk2</t>
+		<!--ARG S ProtoShield Mk3-->
+		<t id="99601">(ARG ProtoShield Mk3){77770301,99603}</t>
+		<t id="99602">{20006,102}(This is a Project X Prototype MK3 Shield)</t>
+		<t id="99603">(ARG Prototype){77770301,99606}</t>
+		<t id="99604">(ARG S ProtoShield Mk3){20202,103} {20111,5011} {77770301,99601} {20111,101}</t>
+		<t id="99605">(ARG ProtoShield Mk3){77770301,99603} {20111,101}</t>
+		<t id="99606">ARG ProtoShield Mk3</t>
     </page>
 	<page id="77770501" title="PX4Thrusters" descr="Text for new Thrusters" voice="no">
 		<!--ARG S ProtoThruster Mk1-->

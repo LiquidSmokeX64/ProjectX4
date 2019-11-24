@@ -173,5 +173,39 @@
             <owner faction="argon" />
             <owner faction="hatikvah" />
 		</ware>
+		<ware id="shield_arg_s_prototype_01_mk2" name="{77770301,99704}" description="{77770301,99702}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="75000" average="80000" max="85000" />
+				<production time="10" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="28" />
+						<ware ware="fieldcoils" amount="17" />
+						<ware ware="shieldcomponents" amount="38" />
+					</primary>
+				</production>
+			<component ref="shield_arg_s_prototype_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="hatikvah" />
+		</ware>
+		<ware id="shield_arg_s_prototype_01_mk3" name="{77770301,99604}" description="{77770301,99602}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="85000" average="85000" max="90000" />
+				<production time="10" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="32" />
+						<ware ware="fieldcoils" amount="21" />
+						<ware ware="shieldcomponents" amount="43" />
+					</primary>
+				</production>
+			<component ref="shield_arg_s_prototype_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="hatikvah" />
+		</ware>
     </add>
 </diff>
