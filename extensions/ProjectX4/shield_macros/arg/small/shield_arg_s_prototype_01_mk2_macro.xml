@@ -5,7 +5,7 @@
     <component ref="shield_arg_s_standard_01_mk3" />
     <properties>
       <identification name="{77770301,99704}" basename="{77770301,99701}" shortname="{77770301,99703}" makerrace="argon" description="{77770301,99702}" mk="2" />
-      <recharge max="2500" rate="275" delay="7.4" />
+      <recharge max="2200" rate="275" delay="7.4" />
       <hull integrated="1" />
     </properties>
   </macro>

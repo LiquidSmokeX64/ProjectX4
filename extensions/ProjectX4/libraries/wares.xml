@@ -159,9 +159,14 @@
 			<restriction licence="militaryequipment" />
 			<use threshold="0.49" />
 			<owner faction="alliance" />
-            <owner faction="antigone" />
-            <owner faction="argon" />
-            <owner faction="hatikvah" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="hatikvah" />
+			<owner faction="holyorder" />
+			<owner faction="ministry" />
+			<owner faction="paranid" />
+			<owner faction="scaleplate" />
+			<owner faction="teladi" />
 		</ware>
 		<ware id="weapon_gen_s_arg_prototype_beam_01_mk2" name="{77770201,99704}" description="{77770201,99702}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
 			<price min="250000" average="300000" max="350000" />
@@ -176,9 +181,14 @@
 			<restriction licence="militaryequipment" />
 			<use threshold="0.49" />
 			<owner faction="alliance" />
-            <owner faction="antigone" />
-            <owner faction="argon" />
-            <owner faction="hatikvah" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="hatikvah" />
+			<owner faction="holyorder" />
+			<owner faction="ministry" />
+			<owner faction="paranid" />
+			<owner faction="scaleplate" />
+			<owner faction="teladi" />
 		</ware>
 		<ware id="weapon_gen_s_arg_prototype_beam_01_mk3" name="{77770201,99604}" description="{77770201,99602}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
 			<price min="350000" average="400000" max="450000" />
@@ -193,9 +203,14 @@
 			<restriction licence="militaryequipment" />
 			<use threshold="0.49" />
 			<owner faction="alliance" />
-            <owner faction="antigone" />
-            <owner faction="argon" />
-            <owner faction="hatikvah" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="hatikvah" />
+			<owner faction="holyorder" />
+			<owner faction="ministry" />
+			<owner faction="paranid" />
+			<owner faction="scaleplate" />
+			<owner faction="teladi" />
 		</ware>
 		<ware id="weapon_gen_s_arg_prototype_gatling_01_mk1" name="{77770401,99804}" description="{77770401,99802}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
 			<price min="250000" average="300000" max="350000" />
@@ -210,9 +225,14 @@
 			<restriction licence="militaryequipment" />
 			<use threshold="0.95" />
 			<owner faction="alliance" />
-            <owner faction="antigone" />
-            <owner faction="argon" />
-            <owner faction="hatikvah" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="hatikvah" />
+			<owner faction="holyorder" />
+			<owner faction="ministry" />
+			<owner faction="paranid" />
+			<owner faction="scaleplate" />
+			<owner faction="teladi" />
 		</ware>
 		<ware id="weapon_gen_s_arg_prototype_gatling_01_mk2" name="{77770401,99704}" description="{77770401,99702}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
 			<price min="350000" average="400000" max="450000" />
@@ -227,9 +247,14 @@
 			<restriction licence="militaryequipment" />
 			<use threshold="0.95" />
 			<owner faction="alliance" />
-            <owner faction="antigone" />
-            <owner faction="argon" />
-            <owner faction="hatikvah" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="hatikvah" />
+			<owner faction="holyorder" />
+			<owner faction="ministry" />
+			<owner faction="paranid" />
+			<owner faction="scaleplate" />
+			<owner faction="teladi" />
 		</ware>
 		<ware id="weapon_gen_s_arg_prototype_gatling_01_mk3" name="{77770401,99604}" description="{77770401,99602}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
 			<price min="450000" average="500000" max="550000" />
@@ -244,9 +269,14 @@
 			<restriction licence="militaryequipment" />
 			<use threshold="0.95" />
 			<owner faction="alliance" />
-            <owner faction="antigone" />
-            <owner faction="argon" />
-            <owner faction="hatikvah" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="hatikvah" />
+			<owner faction="holyorder" />
+			<owner faction="ministry" />
+			<owner faction="paranid" />
+			<owner faction="scaleplate" />
+			<owner faction="teladi" />
 		</ware>
 		<ware id="thruster_gen_s_arg_prototype_01_mk1" name="{77770501, 99804}" description="{77770501, 99802}" group="thrusters" transport="equipment" volume="1" tags="equipment thruster">
 			<price min="250000" average="300000" max="350000" />
@@ -268,9 +298,14 @@
 			<restriction licence="militaryequipment" />
 			<use threshold="0.7" />
 			<owner faction="alliance" />
-            <owner faction="antigone" />
-            <owner faction="argon" />
-            <owner faction="hatikvah" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="hatikvah" />
+			<owner faction="holyorder" />
+			<owner faction="ministry" />
+			<owner faction="paranid" />
+			<owner faction="scaleplate" />
+			<owner faction="teladi" />
 		</ware>
 		<ware id="thruster_gen_s_arg_prototype_01_mk2" name="{77770501, 99704}" description="{77770501, 99702}" group="thrusters" transport="equipment" volume="1" tags="equipment thruster">
 			<price min="350000" average="400000" max="450000" />
@@ -292,9 +327,14 @@
 			<restriction licence="militaryequipment" />
 			<use threshold="0.7" />
 			<owner faction="alliance" />
-            <owner faction="antigone" />
-            <owner faction="argon" />
-            <owner faction="hatikvah" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="hatikvah" />
+			<owner faction="holyorder" />
+			<owner faction="ministry" />
+			<owner faction="paranid" />
+			<owner faction="scaleplate" />
+			<owner faction="teladi" />
 		</ware>
 		<ware id="thruster_gen_s_arg_prototype_01_mk3" name="{77770501, 99604}" description="{77770501, 99602}" group="thrusters" transport="equipment" volume="1" tags="equipment thruster">
 			<price min="450000" average="500000" max="550000" />
@@ -316,9 +356,14 @@
 			<restriction licence="militaryequipment" />
 			<use threshold="0.7" />
 			<owner faction="alliance" />
-            <owner faction="antigone" />
-            <owner faction="argon" />
-            <owner faction="hatikvah" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="hatikvah" />
+			<owner faction="holyorder" />
+			<owner faction="ministry" />
+			<owner faction="paranid" />
+			<owner faction="scaleplate" />
+			<owner faction="teladi" />
 		</ware>
 		<ware id="shield_arg_s_prototype_01_mk1" name="{77770301,99804}" description="{77770301,99802}" group="shields" transport="equipment" volume="1" tags="equipment shield">
 			<price min="60000" average="65000" max="75000" />
@@ -336,6 +381,11 @@
 			<owner faction="antigone" />
 			<owner faction="argon" />
 			<owner faction="hatikvah" />
+			<owner faction="holyorder" />
+			<owner faction="ministry" />
+			<owner faction="paranid" />
+			<owner faction="scaleplate" />
+			<owner faction="teladi" />
 		</ware>
 		<ware id="shield_arg_s_prototype_01_mk2" name="{77770301,99704}" description="{77770301,99702}" group="shields" transport="equipment" volume="1" tags="equipment shield">
 			<price min="75000" average="80000" max="85000" />
@@ -353,6 +403,11 @@
 			<owner faction="antigone" />
 			<owner faction="argon" />
 			<owner faction="hatikvah" />
+			<owner faction="holyorder" />
+			<owner faction="ministry" />
+			<owner faction="paranid" />
+			<owner faction="scaleplate" />
+			<owner faction="teladi" />
 		</ware>
 		<ware id="shield_arg_s_prototype_01_mk3" name="{77770301,99604}" description="{77770301,99602}" group="shields" transport="equipment" volume="1" tags="equipment shield">
 			<price min="85000" average="85000" max="90000" />
@@ -370,6 +425,11 @@
 			<owner faction="antigone" />
 			<owner faction="argon" />
 			<owner faction="hatikvah" />
+			<owner faction="holyorder" />
+			<owner faction="ministry" />
+			<owner faction="paranid" />
+			<owner faction="scaleplate" />
+			<owner faction="teladi" />
 		</ware>
     </add>
 </diff>
