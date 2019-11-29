@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!--Created by: ManDaxi-->
-<content id="PJX4" name="ProjectX4" description="Adds many new Ship parts: Engines, Thrusters, Shields, and Weapons." author="ManDaxi" version="200" date="2019-24-11" save="0" enabled="1">
+<content id="PJX4" name="ProjectX4" description="Adds many new Ship parts: Engines, Thrusters, Shields, and Weapons." author="ManDaxi" version="205" date="2019-24-11" save="0" enabled="1">
     <text language="44" name="ProjectX4" description="Adds many new Ship parts: Engines, Shields, Thrusters and Weapons." author="ManDaxi" />
 </content>

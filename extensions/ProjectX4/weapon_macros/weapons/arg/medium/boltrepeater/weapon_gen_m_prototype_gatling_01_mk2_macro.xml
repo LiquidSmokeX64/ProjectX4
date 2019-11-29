@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
+  <macro name="weapon_gen_m_prototype_gatling_01_mk2_macro" class="weapon">
+    <component ref="weapon_gen_m_gatling_01_mk2" />
+    <properties>
+      <identification name="{77770401,99404}" basename="{77770401,99401}" shortname="{77770401,99403}" description="{77770401,99402}" mk="2" />
+      <bullet class="bullet_gen_m_prototype_gatling_01_mk2_macro" />
+      <heat overheat="16000" cooldelay="0.90" coolrate="2600" reenable="9000" />
+      <rotationspeed max="77.0" />
+      <rotationacceleration max="42.3" />
+      <reload />
+      <hull max="1601" hittable="0" />
+      <effects>
+        <firing start="startshooting_gen_m_gatling_01_mk1" stop="stopshooting_gen_m_gatling_01_mk1" />
+      </effects>
+      <sounds>
+        <firing ref="mg_firing" />
+      </sounds>
+    </properties>
+  </macro>
+</macros>

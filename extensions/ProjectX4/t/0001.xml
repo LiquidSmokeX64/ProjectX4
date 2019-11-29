@@ -111,6 +111,27 @@
         <t id="99604">(S ProtoBolt Mk3){20111,5011} {77770401,99601} {20111,201}</t>
         <t id="99605">(ProtoBolt Mk3){77770401,99603}</t>
 		<t id="99606">ProtoBolt Mk3</t>
+		<!--M ProtoBolt Mk1-->
+		<t id="99501">(ProtoBolt Mk1){77770401,99703}</t>
+		<t id="99502">{20006,102}(This is a Project X Prototype MK1 Bolt Weapon)</t>
+		<t id="99503">(Prototype){77770401,99706}</t>
+		<t id="99504">(M ProtoBolt Mk1){20111,5011} {77770401,99701} {20111,201}</t>
+		<t id="99505">(ProtoBolt Mk1){77770401,99703}</t>
+		<t id="99506">ProtoBolt Mk1</t>
+		<!--M ProtoBolt Mk2-->
+		<t id="99401">(ProtoBolt Mk2){77770401,99603}</t>
+		<t id="99402">{20006,102}(This is a Project X Prototype MK2 Bolt Weapon)</t>
+		<t id="99403">(Prototype){77770401,99606}</t>
+		<t id="99404">(M ProtoBolt Mk2){20111,5011} {77770401,99601} {20111,201}</t>
+		<t id="99405">(ProtoBolt Mk2){77770401,99603}</t>
+		<t id="99406">ProtoBolt Mk2</t>
+		<!--M ProtoBolt Mk3-->
+		<t id="99301">(ProtoBolt Mk3){77770401,99703}</t>
+		<t id="99302">{20006,102}(This is a Project X Prototype MK3 Bolt Weapon)</t>
+		<t id="99303">(Prototype){77770401,99706}</t>
+		<t id="99304">(M ProtoBeam Mk3){20111,5011} {77770401,99701} {20111,201}</t>
+		<t id="99305">(ProtoBolt Mk3){77770401,99703}</t>
+		<t id="99306">ProtoBolt Mk3</t>
     </page>
 	<page id="77770301" title="PX4Shields" descr="Text for new Shields" voice="no">
 		<!--S ProtoShield Mk1-->

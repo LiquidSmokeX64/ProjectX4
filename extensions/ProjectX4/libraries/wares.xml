@@ -278,6 +278,66 @@
 			<owner faction="scaleplate" />
 			<owner faction="teladi" />
 		</ware>
+		<ware id="weapon_gen_m_prototype_gatling_01_mk1" name="{77770401,99504}" description="{77770401,99502}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
+			<price min="250000" average="300000" max="350000" />
+				<production time="10" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="advancedelectronics" amount="45" />
+						<ware ware="energycells" amount="15" />
+						<ware ware="weaponcomponents" amount="20" />
+					</primary>
+				</production>
+			<component ref="weapon_gen_m_prototype_gatling_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.95" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="holyorder" />
+			<owner faction="ministry" />
+			<owner faction="paranid" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="weapon_gen_m_prototype_gatling_01_mk2" name="{77770401,99404}" description="{77770401,99402}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
+			<price min="350000" average="400000" max="450000" />
+				<production time="10" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="advancedelectronics" amount="55" />
+						<ware ware="energycells" amount="25" />
+						<ware ware="weaponcomponents" amount="25" />
+					</primary>
+				</production>
+			<component ref="weapon_gen_m_prototype_gatling_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.95" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="holyorder" />
+			<owner faction="ministry" />
+			<owner faction="paranid" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="weapon_gen_m_prototype_gatling_01_mk3" name="{77770401,99304}" description="{77770401,99302}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
+			<price min="450000" average="500000" max="550000" />
+				<production time="10" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="advancedelectronics" amount="60" />
+						<ware ware="energycells" amount="30" />
+						<ware ware="weaponcomponents" amount="30" />
+					</primary>
+				</production>
+			<component ref="weapon_gen_m_prototype_gatling_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.95" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="holyorder" />
+			<owner faction="ministry" />
+			<owner faction="paranid" />
+			<owner faction="teladi" />
+		</ware>
 		<ware id="thruster_gen_s_arg_prototype_01_mk1" name="{77770501, 99804}" description="{77770501, 99802}" group="thrusters" transport="equipment" volume="1" tags="equipment thruster">
 			<price min="250000" average="300000" max="350000" />
 				<production time="5" amount="1" method="default" name="{20206,101}">

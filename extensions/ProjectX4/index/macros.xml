@@ -32,6 +32,14 @@
 		<entry name="bullet_gen_s_arg_prototype_gatling_01_mk2_macro" value="extensions\ProjectX4\weapon_macros\projectiles\shipweapons\arg\small\boltrepeater\bullet_gen_s_arg_prototype_gatling_01_mk2_macro" />
 		<entry name="weapon_gen_s_arg_prototype_gatling_01_mk3_macro" value="extensions\ProjectX4\weapon_macros\weapons\arg\small\boltrepeater\weapon_gen_s_arg_prototype_gatling_01_mk3_macro" />
 		<entry name="bullet_gen_s_arg_prototype_gatling_01_mk3_macro" value="extensions\ProjectX4\weapon_macros\projectiles\shipweapons\arg\small\boltrepeater\bullet_gen_s_arg_prototype_gatling_01_mk3_macro" />
+		<!--ARG M BoltRepeaters-->
+		<entry name="weapon_gen_m_prototype_gatling_01_mk1_macro" value="extensions\ProjectX4\weapon_macros\weapons\arg\medium\boltrepeater\weapon_gen_m_prototype_gatling_01_mk1_macro" />
+		<entry name="bullet_gen_m_prototype_gatling_01_mk1_macro" value="extensions\ProjectX4\weapon_macros\projectiles\shipweapons\arg\medium\boltrepeater\bullet_gen_m_prototype_gatling_01_mk1_macro" />
+		<entry name="weapon_gen_m_prototype_gatling_01_mk2_macro" value="extensions\ProjectX4\weapon_macros\weapons\arg\medium\boltrepeater\weapon_gen_m_prototype_gatling_01_mk2_macro" />
+		<entry name="bullet_gen_m_prototype_gatling_01_mk2_macro" value="extensions\ProjectX4\weapon_macros\projectiles\shipweapons\arg\medium\boltrepeater\bullet_gen_m_prototype_gatling_01_mk2_macro" />
+		<entry name="weapon_gen_m_prototype_gatling_01_mk3_macro" value="extensions\ProjectX4\weapon_macros\weapons\arg\medium\boltrepeater\weapon_gen_m_prototype_gatling_01_mk3_macro" />
+		<entry name="bullet_gen_m_prototype_gatling_01_mk3_macro" value="extensions\ProjectX4\weapon_macros\projectiles\shipweapons\arg\medium\boltrepeater\bullet_gen_m_prototype_gatling_01_mk3_macro" />
+		
 		<!--ARG S Shields-->
 		<entry name="shield_arg_s_prototype_01_mk1_macro" value="extensions\ProjectX4\shield_macros\arg\small\shield_arg_s_prototype_01_mk1_macro" />
 		<entry name="shield_arg_s_prototype_01_mk2_macro" value="extensions\ProjectX4\shield_macros\arg\small\shield_arg_s_prototype_01_mk2_macro" />
