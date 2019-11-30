@@ -61,5 +61,50 @@
 		<entry name="shield_tel_s_prototype_01_mk1_macro" value="extensions\ProjectX4\shield_macros\tel\small\shield_tel_s_prototype_01_mk1_macro" />
 		<entry name="shield_tel_s_prototype_01_mk2_macro" value="extensions\ProjectX4\shield_macros\tel\small\shield_tel_s_prototype_01_mk2_macro" />
 		<entry name="shield_tel_s_prototype_01_mk3_macro" value="extensions\ProjectX4\shield_macros\tel\small\shield_tel_s_prototype_01_mk3_macro" />
+		<!--ARG M Shields-->
+		<entry name="shield_arg_m_prototype_standard_01_mk1_macro" value="extensions\ProjectX4\shield_macros\arg\medium\shield_arg_m_prototype_standard_01_mk1_macro" />
+		<entry name="shield_arg_m_prototype_standard_02_mk1_macro" value="extensions\ProjectX4\shield_macros\arg\medium\shield_arg_m_prototype_standard_02_mk1_macro" />
+		<entry name="shield_arg_m_prototype_standard_01_mk2_macro" value="extensions\ProjectX4\shield_macros\arg\medium\shield_arg_m_prototype_standard_01_mk2_macro" />
+		<entry name="shield_arg_m_prototype_standard_02_mk2_macro" value="extensions\ProjectX4\shield_macros\arg\medium\shield_arg_m_prototype_standard_02_mk2_macro" />
+		<entry name="shield_arg_m_prototype_standard_01_mk3_macro" value="extensions\ProjectX4\shield_macros\arg\medium\shield_arg_m_prototype_standard_01_mk3_macro" />
+		<entry name="shield_arg_m_prototype_standard_02_mk3_macro" value="extensions\ProjectX4\shield_macros\arg\medium\shield_arg_m_prototype_standard_02_mk3_macro" />
+		<!--PAR M Shields-->
+		<entry name="shield_par_m_prototype_standard_01_mk1_macro" value="extensions\ProjectX4\shield_macros\par\medium\shield_par_m_prototype_standard_01_mk1_macro" />
+		<entry name="shield_par_m_prototype_standard_02_mk1_macro" value="extensions\ProjectX4\shield_macros\par\medium\shield_par_m_prototype_standard_02_mk1_macro" />
+		<entry name="shield_par_m_prototype_standard_01_mk2_macro" value="extensions\ProjectX4\shield_macros\par\medium\shield_par_m_prototype_standard_01_mk2_macro" />
+		<entry name="shield_par_m_prototype_standard_02_mk2_macro" value="extensions\ProjectX4\shield_macros\par\medium\shield_par_m_prototype_standard_02_mk2_macro" />
+		<entry name="shield_par_m_prototype_standard_01_mk3_macro" value="extensions\ProjectX4\shield_macros\par\medium\shield_par_m_prototype_standard_01_mk3_macro" />
+		<entry name="shield_par_m_prototype_standard_02_mk3_macro" value="extensions\ProjectX4\shield_macros\par\medium\shield_par_m_prototype_standard_02_mk3_macro" />
+		<!--TEL M Shields-->
+		<entry name="shield_tel_m_prototype_standard_01_mk1_macro" value="extensions\ProjectX4\shield_macros\tel\medium\shield_tel_m_prototype_standard_01_mk1_macro" />
+		<entry name="shield_tel_m_prototype_standard_02_mk1_macro" value="extensions\ProjectX4\shield_macros\tel\medium\shield_tel_m_prototype_standard_02_mk1_macro" />
+		<entry name="shield_tel_m_prototype_standard_01_mk2_macro" value="extensions\ProjectX4\shield_macros\tel\medium\shield_tel_m_prototype_standard_01_mk2_macro" />
+		<entry name="shield_tel_m_prototype_standard_02_mk2_macro" value="extensions\ProjectX4\shield_macros\tel\medium\shield_tel_m_prototype_standard_02_mk2_macro" />
+		<entry name="shield_tel_m_prototype_standard_01_mk3_macro" value="extensions\ProjectX4\shield_macros\tel\medium\shield_tel_m_prototype_standard_01_mk3_macro" />
+		<entry name="shield_tel_m_prototype_standard_02_mk3_macro" value="extensions\ProjectX4\shield_macros\tel\medium\shield_tel_m_prototype_standard_02_mk3_macro" />
+		<!--ARG L Shields-->
+		<entry name="shield_arg_l_prototype_standard_01_mk1_macro" value="extensions\ProjectX4\shield_macros\arg\large\shield_arg_l_prototype_standard_01_mk1_macro" />
+		<entry name="shield_arg_l_prototype_standard_01_mk2_macro" value="extensions\ProjectX4\shield_macros\arg\large\shield_arg_l_prototype_standard_01_mk2_macro" />
+		<entry name="shield_arg_l_prototype_standard_01_mk3_macro" value="extensions\ProjectX4\shield_macros\arg\large\shield_arg_l_prototype_standard_01_mk3_macro" />
+		<!--PAR L Shields-->
+		<entry name="shield_par_l_prototype_standard_01_mk1_macro" value="extensions\ProjectX4\shield_macros\par\large\shield_par_l_prototype_standard_01_mk1_macro" />
+		<entry name="shield_par_l_prototype_standard_01_mk2_macro" value="extensions\ProjectX4\shield_macros\par\large\shield_par_l_prototype_standard_01_mk2_macro" />
+		<entry name="shield_par_l_prototype_standard_01_mk3_macro" value="extensions\ProjectX4\shield_macros\par\large\shield_par_l_prototype_standard_01_mk3_macro" />
+		<!--TEL L Shields-->
+		<entry name="shield_tel_l_prototype_standard_01_mk1_macro" value="extensions\ProjectX4\shield_macros\tel\large\shield_tel_l_prototype_standard_01_mk1_macro" />
+		<entry name="shield_tel_l_prototype_standard_01_mk2_macro" value="extensions\ProjectX4\shield_macros\tel\large\shield_tel_l_prototype_standard_01_mk2_macro" />
+		<entry name="shield_tel_l_prototype_standard_01_mk3_macro" value="extensions\ProjectX4\shield_macros\tel\large\shield_tel_l_prototype_standard_01_mk3_macro" />
+		<!--ARG XL Shields-->
+		<entry name="shield_arg_xl_prototype_standard_01_mk1_macro" value="extensions\ProjectX4\shield_macros\arg\extralarge\shield_arg_xl_prototype_standard_01_mk1_macro" />
+		<entry name="shield_arg_xl_prototype_standard_01_mk2_macro" value="extensions\ProjectX4\shield_macros\arg\extralarge\shield_arg_xl_prototype_standard_01_mk2_macro" />
+		<entry name="shield_arg_xl_prototype_standard_01_mk3_macro" value="extensions\ProjectX4\shield_macros\arg\extralarge\shield_arg_xl_prototype_standard_01_mk3_macro" />
+		<!--PAR XL Shields-->
+		<entry name="shield_par_xl_prototype_standard_01_mk1_macro" value="extensions\ProjectX4\shield_macros\par\extralarge\shield_par_xl_prototype_standard_01_mk1_macro" />
+		<entry name="shield_par_xl_prototype_standard_01_mk2_macro" value="extensions\ProjectX4\shield_macros\par\extralarge\shield_par_xl_prototype_standard_01_mk2_macro" />
+		<entry name="shield_par_xl_prototype_standard_01_mk3_macro" value="extensions\ProjectX4\shield_macros\par\extralarge\shield_par_xl_prototype_standard_01_mk3_macro" />
+		<!--TEL XL Shields-->
+		<entry name="shield_tel_xl_prototype_standard_01_mk1_macro" value="extensions\ProjectX4\shield_macros\tel\extralarge\shield_tel_xl_prototype_standard_01_mk1_macro" />
+		<entry name="shield_tel_xl_prototype_standard_01_mk2_macro" value="extensions\ProjectX4\shield_macros\tel\extralarge\shield_tel_xl_prototype_standard_01_mk2_macro" />
+		<entry name="shield_tel_xl_prototype_standard_01_mk3_macro" value="extensions\ProjectX4\shield_macros\tel\extralarge\shield_tel_xl_prototype_standard_01_mk3_macro" />
     </add>
 </diff>

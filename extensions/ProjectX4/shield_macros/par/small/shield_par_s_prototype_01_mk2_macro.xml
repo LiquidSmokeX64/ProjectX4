@@ -5,7 +5,7 @@
     <component ref="shield_arg_s_standard_01_mk3" />
     <properties>
       <identification name="{77770301,99404}" basename="{77770301,99401}" shortname="{77770301,99403}" makerrace="paranid" description="{77770301,99402}" mk="2" />
-      <recharge max="2150" rate="265" delay="6.1" />
+      <recharge max="1750" rate="265" delay="6.1" />
       <hull integrated="1" />
     </properties>
   </macro>

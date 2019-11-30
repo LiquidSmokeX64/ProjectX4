@@ -5,7 +5,7 @@
     <component ref="shield_arg_s_standard_01_mk3" />
     <properties>
       <identification name="{77770301,99104}" basename="{77770301,99101}" shortname="{77770301,99103}" makerrace="teladi" description="{77770301,99102}" mk="2" />
-      <recharge max="2300" rate="285" delay="7.9" />
+      <recharge max="1900" rate="285" delay="7.9" />
       <hull integrated="1" />
     </properties>
   </macro>

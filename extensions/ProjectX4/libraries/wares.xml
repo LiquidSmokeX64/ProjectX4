@@ -668,5 +668,584 @@
 			<owner faction="ministry" />
 			<owner faction="teladi" />
 		</ware>
+		<ware id="shield_arg_m_prototype_standard_01_mk1" name="{77770301,98804}" description="{77770301,98802}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="70000" average="75000" max="80000" />
+				<production time="13" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="45" />
+						<ware ware="fieldcoils" amount="20" />
+						<ware ware="shieldcomponents" amount="30" />
+					</primary>
+				</production>
+			<component ref="shield_arg_m_prototype_standard_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.25" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="shield_arg_m_prototype_standard_02_mk1" name="{77770301,98804}" description="{77770301,98802}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="70000" average="75000" max="80000" />
+				<production time="23" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="25" />
+						<ware ware="fieldcoils" amount="7" />
+						<ware ware="shieldcomponents" amount="10" />
+					</primary>
+				</production>
+			<component ref="shield_arg_m_prototype_standard_02_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="hatikvah" />
+		</ware>
+		<ware id="shield_arg_m_prototype_standard_01_mk2" name="{77770301,98704}" description="{77770301,98702}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="80000" average="85000" max="90000" />
+				<production time="13" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="55" />
+						<ware ware="fieldcoils" amount="30" />
+						<ware ware="shieldcomponents" amount="40" />
+					</primary>
+				</production>
+			<component ref="shield_arg_m_prototype_standard_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.25" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="shield_arg_m_prototype_standard_02_mk2" name="{77770301,98704}" description="{77770301,98702}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="80000" average="85000" max="90000" />
+				<production time="23" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="35" />
+						<ware ware="fieldcoils" amount="17" />
+						<ware ware="shieldcomponents" amount="20" />
+					</primary>
+				</production>
+			<component ref="shield_arg_m_prototype_standard_02_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="hatikvah" />
+		</ware>
+		<ware id="shield_arg_m_prototype_standard_01_mk3" name="{77770301,98604}" description="{77770301,98602}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="90000" average="95000" max="100000" />
+				<production time="16" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="65" />
+						<ware ware="fieldcoils" amount="40" />
+						<ware ware="shieldcomponents" amount="50" />
+					</primary>
+				</production>
+			<component ref="shield_arg_m_prototype_standard_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.25" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="shield_arg_m_prototype_standard_02_mk3" name="{77770301,98604}" description="{77770301,98602}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="90000" average="95000" max="100000" />
+				<production time="26" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="45" />
+						<ware ware="fieldcoils" amount="27" />
+						<ware ware="shieldcomponents" amount="30" />
+					</primary>
+				</production>
+			<component ref="shield_arg_m_prototype_standard_02_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="hatikvah" />
+		</ware>
+		<ware id="shield_par_m_prototype_standard_01_mk1" name="{77770301,88804}" description="{77770301,88802}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="70000" average="75000" max="80000" />
+				<production time="13" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="45" />
+						<ware ware="fieldcoils" amount="20" />
+						<ware ware="shieldcomponents" amount="30" />
+					</primary>
+				</production>
+			<component ref="shield_par_m_prototype_standard_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.25" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="shield_par_m_prototype_standard_02_mk1" name="{77770301,88804}" description="{77770301,88802}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="70000" average="75000" max="80000" />
+				<production time="23" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="25" />
+						<ware ware="fieldcoils" amount="7" />
+						<ware ware="shieldcomponents" amount="10" />
+					</primary>
+				</production>
+			<component ref="shield_par_m_prototype_standard_02_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="shield_par_m_prototype_standard_01_mk2" name="{77770301,88704}" description="{77770301,88702}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="80000" average="85000" max="90000" />
+				<production time="13" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="55" />
+						<ware ware="fieldcoils" amount="30" />
+						<ware ware="shieldcomponents" amount="40" />
+					</primary>
+				</production>
+			<component ref="shield_par_m_prototype_standard_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.25" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="shield_par_m_prototype_standard_02_mk2" name="{77770301,88704}" description="{77770301,88702}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="80000" average="85000" max="90000" />
+				<production time="23" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="35" />
+						<ware ware="fieldcoils" amount="17" />
+						<ware ware="shieldcomponents" amount="20" />
+					</primary>
+				</production>
+			<component ref="shield_par_m_prototype_standard_02_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="shield_par_m_prototype_standard_01_mk3" name="{77770301,88604}" description="{77770301,88602}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="90000" average="95000" max="100000" />
+				<production time="16" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="65" />
+						<ware ware="fieldcoils" amount="40" />
+						<ware ware="shieldcomponents" amount="50" />
+					</primary>
+				</production>
+			<component ref="shield_par_m_prototype_standard_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.25" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="shield_par_m_prototype_standard_02_mk3" name="{77770301,88604}" description="{77770301,88602}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="90000" average="95000" max="100000" />
+				<production time="26" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="45" />
+						<ware ware="fieldcoils" amount="27" />
+						<ware ware="shieldcomponents" amount="30" />
+					</primary>
+				</production>
+			<component ref="shield_par_m_prototype_standard_02_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="shield_tel_m_prototype_standard_01_mk1" name="{77770301,78804}" description="{77770301,78802}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="70000" average="75000" max="80000" />
+				<production time="13" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="45" />
+						<ware ware="fieldcoils" amount="20" />
+						<ware ware="shieldcomponents" amount="30" />
+					</primary>
+				</production>
+			<component ref="shield_tel_m_prototype_standard_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.25" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="shield_tel_m_prototype_standard_02_mk1" name="{77770301,78804}" description="{77770301,78802}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="70000" average="75000" max="80000" />
+				<production time="23" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="25" />
+						<ware ware="fieldcoils" amount="7" />
+						<ware ware="shieldcomponents" amount="10" />
+					</primary>
+				</production>
+			<component ref="shield_tel_m_prototype_standard_02_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="shield_tel_m_prototype_standard_01_mk2" name="{77770301,78704}" description="{77770301,78702}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="80000" average="85000" max="90000" />
+				<production time="13" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="55" />
+						<ware ware="fieldcoils" amount="30" />
+						<ware ware="shieldcomponents" amount="40" />
+					</primary>
+				</production>
+			<component ref="shield_tel_m_prototype_standard_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.25" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="shield_tel_m_prototype_standard_02_mk2" name="{77770301,78704}" description="{77770301,78702}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="80000" average="85000" max="90000" />
+				<production time="13" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="35" />
+						<ware ware="fieldcoils" amount="17" />
+						<ware ware="shieldcomponents" amount="20" />
+					</primary>
+				</production>
+			<component ref="shield_tel_m_prototype_standard_02_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="shield_tel_m_prototype_standard_01_mk3" name="{77770301,78604}" description="{77770301,78602}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="90000" average="95000" max="100000" />
+				<production time="16" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="65" />
+						<ware ware="fieldcoils" amount="40" />
+						<ware ware="shieldcomponents" amount="50" />
+					</primary>
+				</production>
+			<component ref="shield_tel_m_prototype_standard_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.25" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="shield_tel_m_prototype_standard_02_mk3" name="{77770301,78604}" description="{77770301,78602}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="90000" average="95000" max="100000" />
+				<production time="26" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="45" />
+						<ware ware="fieldcoils" amount="27" />
+						<ware ware="shieldcomponents" amount="30" />
+					</primary>
+				</production>
+			<component ref="shield_tel_m_prototype_standard_02_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="shield_arg_l_prototype_standard_01_mk1" name="{77770301,97804}" description="{77770301,97802}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="450000" average="500000" max="550000" />
+				<production time="23" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="60" />
+						<ware ware="fieldcoils" amount="23" />
+						<ware ware="shieldcomponents" amount="20" />
+					</primary>
+				</production>
+			<component ref="shield_arg_l_prototype_standard_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="shield_arg_l_prototype_standard_01_mk2" name="{77770301,97704}" description="{77770301,97702}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="550000" average="600000" max="650000" />
+				<production time="25" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="70" />
+						<ware ware="fieldcoils" amount="33" />
+						<ware ware="shieldcomponents" amount="30" />
+					</primary>
+				</production>
+			<component ref="shield_arg_l_prototype_standard_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="shield_arg_l_prototype_standard_01_mk3" name="{77770301,97604}" description="{77770301,97602}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="650000" average="700000" max="750000" />
+				<production time="27" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="60" />
+						<ware ware="fieldcoils" amount="43" />
+						<ware ware="shieldcomponents" amount="40" />
+					</primary>
+				</production>
+			<component ref="shield_arg_l_prototype_standard_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="shield_par_l_prototype_standard_01_mk1" name="{77770301,87804}" description="{77770301,87802}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="450000" average="500000" max="550000" />
+				<production time="23" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="60" />
+						<ware ware="fieldcoils" amount="23" />
+						<ware ware="shieldcomponents" amount="20" />
+					</primary>
+				</production>
+			<component ref="shield_par_l_prototype_standard_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="shield_par_l_prototype_standard_01_mk2" name="{77770301,87704}" description="{77770301,87702}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="550000" average="600000" max="650000" />
+				<production time="25" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="70" />
+						<ware ware="fieldcoils" amount="33" />
+						<ware ware="shieldcomponents" amount="30" />
+					</primary>
+				</production>
+			<component ref="shield_par_l_prototype_standard_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="shield_par_l_prototype_standard_01_mk3" name="{77770301,87604}" description="{77770301,87602}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="650000" average="700000" max="750000" />
+				<production time="27" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="60" />
+						<ware ware="fieldcoils" amount="43" />
+						<ware ware="shieldcomponents" amount="40" />
+					</primary>
+				</production>
+			<component ref="shield_par_l_prototype_standard_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="shield_tel_l_prototype_standard_01_mk1" name="{77770301,77804}" description="{77770301,77802}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="450000" average="500000" max="550000" />
+				<production time="23" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="60" />
+						<ware ware="fieldcoils" amount="23" />
+						<ware ware="shieldcomponents" amount="20" />
+					</primary>
+				</production>
+			<component ref="shield_tel_l_prototype_standard_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="shield_tel_l_prototype_standard_01_mk2" name="{77770301,77704}" description="{77770301,77702}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="550000" average="600000" max="650000" />
+				<production time="25" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="70" />
+						<ware ware="fieldcoils" amount="33" />
+						<ware ware="shieldcomponents" amount="30" />
+					</primary>
+				</production>
+			<component ref="shield_tel_l_prototype_standard_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="shield_tel_l_prototype_standard_01_mk3" name="{77770301,77604}" description="{77770301,77602}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="650000" average="700000" max="750000" />
+				<production time="27" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="60" />
+						<ware ware="fieldcoils" amount="43" />
+						<ware ware="shieldcomponents" amount="40" />
+					</primary>
+				</production>
+			<component ref="shield_tel_l_prototype_standard_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="shield_arg_xl_prototype_standard_01_mk1" name="{77770301,96804}" description="{77770301,96802}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="250000" average="300000" max="350000" />
+				<production time="23" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="160" />
+						<ware ware="fieldcoils" amount="92" />
+						<ware ware="shieldcomponents" amount="40" />
+					</primary>
+				</production>
+			<component ref="shield_arg_xl_prototype_standard_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="shield_arg_xl_prototype_standard_01_mk2" name="{77770301,96704}" description="{77770301,96702}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="350000" average="400000" max="450000" />
+				<production time="25" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="170" />
+						<ware ware="fieldcoils" amount="102" />
+						<ware ware="shieldcomponents" amount="50" />
+					</primary>
+				</production>
+			<component ref="shield_arg_xl_prototype_standard_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="shield_arg_xl_prototype_standard_01_mk3" name="{77770301,96604}" description="{77770301,96602}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="450000" average="500000" max="550000" />
+				<production time="27" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="180" />
+						<ware ware="fieldcoils" amount="112" />
+						<ware ware="shieldcomponents" amount="60" />
+					</primary>
+				</production>
+			<component ref="shield_arg_xl_prototype_standard_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="shield_par_xl_prototype_standard_01_mk1" name="{77770301,86804}" description="{77770301,86802}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="250000" average="300000" max="350000" />
+				<production time="23" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="160" />
+						<ware ware="fieldcoils" amount="92" />
+						<ware ware="shieldcomponents" amount="40" />
+					</primary>
+				</production>
+			<component ref="shield_par_xl_prototype_standard_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="shield_par_xl_prototype_standard_01_mk2" name="{77770301,86704}" description="{77770301,86702}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="350000" average="400000" max="450000" />
+				<production time="25" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="170" />
+						<ware ware="fieldcoils" amount="102" />
+						<ware ware="shieldcomponents" amount="50" />
+					</primary>
+				</production>
+			<component ref="shield_par_xl_prototype_standard_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="shield_par_xl_prototype_standard_01_mk3" name="{77770301,86604}" description="{77770301,86602}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="450000" average="500000" max="550000" />
+				<production time="27" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="180" />
+						<ware ware="fieldcoils" amount="112" />
+						<ware ware="shieldcomponents" amount="60" />
+					</primary>
+				</production>
+			<component ref="shield_par_xl_prototype_standard_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="shield_tel_xl_prototype_standard_01_mk1" name="{77770301,76804}" description="{77770301,76802}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="250000" average="300000" max="350000" />
+				<production time="23" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="160" />
+						<ware ware="fieldcoils" amount="92" />
+						<ware ware="shieldcomponents" amount="40" />
+					</primary>
+				</production>
+			<component ref="shield_tel_xl_prototype_standard_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="shield_tel_xl_prototype_standard_01_mk2" name="{77770301,76704}" description="{77770301,76702}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="350000" average="400000" max="450000" />
+				<production time="25" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="170" />
+						<ware ware="fieldcoils" amount="102" />
+						<ware ware="shieldcomponents" amount="50" />
+					</primary>
+				</production>
+			<component ref="shield_tel_xl_prototype_standard_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="shield_tel_xl_prototype_standard_01_mk3" name="{77770301,76604}" description="{77770301,76602}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="450000" average="500000" max="550000" />
+				<production time="27" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="180" />
+						<ware ware="fieldcoils" amount="112" />
+						<ware ware="shieldcomponents" amount="60" />
+					</primary>
+				</production>
+			<component ref="shield_tel_xl_prototype_standard_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
     </add>
 </diff>

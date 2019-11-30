@@ -111,27 +111,30 @@
         <t id="99604">(S ProtoBolt Mk3){20111,5011} {77770401,99601} {20111,201}</t>
         <t id="99605">(ProtoBolt Mk3){77770401,99603}</t>
 		<t id="99606">ProtoBolt Mk3</t>
+		<!--Meduim Sized Weapons-->
 		<!--M ProtoBolt Mk1-->
 		<t id="99501">(ProtoBolt Mk1){77770401,99503}</t>
 		<t id="99502">{20006,102}(This is a Project X Prototype MK1 Bolt Weapon)</t>
 		<t id="99503">(Prototype){77770401,99506}</t>
-		<t id="99504">(M ProtoBolt Mk1){20111,5011} {77770401,99501} {20111,201}</t>
+		<t id="99504">(M ProtoBolt Mk1){20111,5021} {77770401,99501} {20111,201}</t>
 		<t id="99505">(ProtoBolt Mk1){77770401,99503}</t>
 		<t id="99506">ProtoBolt Mk1</t>
 		<!--M ProtoBolt Mk2-->
 		<t id="99401">(ProtoBolt Mk2){77770401,99403}</t>
 		<t id="99402">{20006,102}(This is a Project X Prototype MK2 Bolt Weapon)</t>
 		<t id="99403">(Prototype){77770401,99406}</t>
-		<t id="99404">(M ProtoBolt Mk2){20111,5011} {77770401,99401} {20111,201}</t>
+		<t id="99404">(M ProtoBolt Mk2){20111,5021} {77770401,99401} {20111,201}</t>
 		<t id="99405">(ProtoBolt Mk2){77770401,99403}</t>
 		<t id="99406">ProtoBolt Mk2</t>
 		<!--M ProtoBolt Mk3-->
 		<t id="99301">(ProtoBolt Mk3){77770401,99303}</t>
 		<t id="99302">{20006,102}(This is a Project X Prototype MK3 Bolt Weapon)</t>
 		<t id="99303">(Prototype){77770401,99306}</t>
-		<t id="99304">(M ProtoBolt Mk3){20111,5011} {77770401,99301} {20111,201}</t>
+		<t id="99304">(M ProtoBolt Mk3){20111,5021} {77770401,99301} {20111,201}</t>
 		<t id="99305">(ProtoBolt Mk3){77770401,99303}</t>
 		<t id="99306">ProtoBolt Mk3</t>
+		<!--Large Sized Weapons-->
+		<!--Medium Sized Turrets-->
 		<!--M ARG ProtoBolt Turret Mk1-->
 		<t id="99201">(ProtoBolt Turret Mk1){77770401,99203}</t>
 		<t id="99202">{20006,102}(This is a Project X Prototype MK1 Bolt Turret Weapon)</t>
@@ -153,6 +156,8 @@
 		<t id="99004">(TEL M ProtoBolt Turret Mk1){20111,5011} {77770401,99001} {20111,201}</t>
 		<t id="99005">(ProtoBolt Turret Mk1){77770401,99003}</t>
 		<t id="99006">ProtoBolt Turret Mk1</t>
+		<!--Large Sized Turrets-->
+		<!--Extra Large Sized Turrets-->
     </page>
 	<page id="77770301" title="PX4Shields" descr="Text for new Shields" voice="no">
 		<!--ARG S ProtoShield Mk1-->
@@ -160,21 +165,21 @@
 		<t id="99802">{20006,102}(This is a Project X Prototype MK1 Shield)</t>
 		<t id="99803">(Prototype){77770301,99806}</t>
 		<t id="99804">(ARG S ProtoShield Mk1){20202,103} {20111,5011} {77770301,99801} {20111,301}</t>
-		<t id="99805">(ProtoShield Mk1){77770301,99803} {20111,101}</t>
+		<t id="99805">(ProtoShield Mk1){77770301,99803} {20111,301}</t>
 		<t id="99806">ProtoShield Mk1</t>
 		<!--ARG S ProtoShield Mk2-->
 		<t id="99701">(ProtoShield Mk2){77770301,99703}</t>
 		<t id="99702">{20006,102}(This is a Project X Prototype MK2 Shield)</t>
 		<t id="99703">(Prototype){77770301,99706}</t>
 		<t id="99704">(ARG S ProtoShield Mk2){20202,103} {20111,5011} {77770301,99701} {20111,301}</t>
-		<t id="99705">(ProtoShield Mk2){77770301,99703} {20111,101}</t>
+		<t id="99705">(ProtoShield Mk2){77770301,99703} {20111,301}</t>
 		<t id="99706">ProtoShield Mk2</t>
 		<!--ARG S ProtoShield Mk3-->
 		<t id="99601">(ProtoShield Mk3){77770301,99603}</t>
 		<t id="99602">{20006,102}(This is a Project X Prototype MK3 Shield)</t>
 		<t id="99603">(Prototype){77770301,99606}</t>
 		<t id="99604">(ARG S ProtoShield Mk3){20202,103} {20111,5011} {77770301,99601} {20111,301}</t>
-		<t id="99605">(ProtoShield Mk3){77770301,99603} {20111,101}</t>
+		<t id="99605">(ProtoShield Mk3){77770301,99603} {20111,301}</t>
 		<t id="99606">ProtoShield Mk3</t>
 		<!--PAR S ProtoShield Mk1-->
 		<t id="99501">(ProtoShield Mk1){77770301,99503}</t>
@@ -218,6 +223,198 @@
 		<t id="99004">(TEL S ProtoShield Mk3){20202,503} {20111,5011} {77770301,99001} {20111,301}</t>
 		<t id="99005">(ProtoShield Mk3){77770301,99003} {20111,301}</t>
 		<t id="99006">ProtoShield Mk3</t>
+		<!--Meduim Sized Shields-->
+		<!--ARG M ProtoShield Mk1-->
+		<t id="98801">(ProtoShield Mk1){77770301,98803}</t>
+		<t id="98802">{20006,102}(This is a Project X Prototype MK1 Shield)</t>
+		<t id="98803">(Prototype){77770301,98806}</t>
+		<t id="98804">(ARG M ProtoShield Mk1){20202,103} {20111,5021} {77770301,98801} {20111,201}</t>
+		<t id="98805">(ProtoShield Mk1){77770301,98803} {20111,201}</t>
+		<t id="98806">ProtoShield Mk1</t>
+		<!--ARG M ProtoShield Mk2-->
+		<t id="98701">(ProtoShield Mk2){77770301,98703}</t>
+		<t id="98702">{20006,102}(This is a Project X Prototype MK2 Shield)</t>
+		<t id="98703">(Prototype){77770301,98706}</t>
+		<t id="98704">(ARG M ProtoShield Mk2){20202,103} {20111,5021} {77770301,98701} {20111,201}</t>
+		<t id="98705">(ProtoShield Mk2){77770301,98703} {20111,201}</t>
+		<t id="98706">ProtoShield Mk2</t>
+		<!--ARG M ProtoShield Mk3-->
+		<t id="98601">(ProtoShield Mk3){77770301,98603}</t>
+		<t id="98602">{20006,102}(This is a Project X Prototype MK3 Shield)</t>
+		<t id="98603">(Prototype){77770301,98606}</t>
+		<t id="98604">(ARG M ProtoShield Mk3){20202,103} {20111,5021} {77770301,98601} {20111,201}</t>
+		<t id="98605">(ProtoShield Mk3){77770301,98603} {20111,201}</t>
+		<t id="98606">ProtoShield Mk3</t>
+		<!--PAR M ProtoShield Mk1-->
+		<t id="88801">(ProtoShield Mk1){77770301,88803}</t>
+		<t id="88802">{20006,102}(This is a Project X Prototype MK1 Shield)</t>
+		<t id="88803">(Prototype){77770301,88806}</t>
+		<t id="88804">(PAR M ProtoShield Mk1){20202,403} {20111,5021} {77770301,88801} {20111,201}</t>
+		<t id="88805">(ProtoShield Mk1){77770301,88803} {20111,201}</t>
+		<t id="88806">ProtoShield Mk1</t>
+		<!--PAR M ProtoShield Mk2-->
+		<t id="88701">(ProtoShield Mk2){77770301,88703}</t>
+		<t id="88702">{20006,102}(This is a Project X Prototype MK2 Shield)</t>
+		<t id="88703">(Prototype){77770301,88706}</t>
+		<t id="88704">(PAR M ProtoShield Mk2){20202,403} {20111,5021} {77770301,88701} {20111,201}</t>
+		<t id="88705">(ProtoShield Mk2){77770301,88703} {20111,201}</t>
+		<t id="88706">ProtoShield Mk2</t>
+		<!--PAR M ProtoShield Mk3-->
+		<t id="88601">(ProtoShield Mk3){77770301,88603}</t>
+		<t id="88602">{20006,102}(This is a Project X Prototype MK3 Shield)</t>
+		<t id="88603">(Prototype){77770301,88606}</t>
+		<t id="88604">(PAR M ProtoShield Mk3){20202,403} {20111,5021} {77770301,88601} {20111,201}</t>
+		<t id="88605">(ProtoShield Mk3){77770301,88603} {20111,201}</t>
+		<t id="88606">ProtoShield Mk3</t>
+		<!--TEL M ProtoShield Mk1-->
+		<t id="78801">(ProtoShield Mk1){77770301,78803}</t>
+		<t id="78802">{20006,102}(This is a Project X Prototype MK1 Shield)</t>
+		<t id="78803">(Prototype){77770301,78806}</t>
+		<t id="78804">(TEL M ProtoShield Mk1){20202,503} {20111,5021} {77770301,78801} {20111,201}</t>
+		<t id="78805">(ProtoShield Mk1){77770301,78803} {20111,201}</t>
+		<t id="78806">ProtoShield Mk1</t>
+		<!--TEL M ProtoShield Mk2-->
+		<t id="78701">(ProtoShield Mk2){77770301,78703}</t>
+		<t id="78702">{20006,102}(This is a Project X Prototype MK2 Shield)</t>
+		<t id="78703">(Prototype){77770301,78706}</t>
+		<t id="78704">(TEL M ProtoShield Mk2){20202,503} {20111,5021} {77770301,78701} {20111,201}</t>
+		<t id="78705">(ProtoShield Mk2){77770301,78703} {20111,201}</t>
+		<t id="78706">ProtoShield Mk2</t>
+		<!--TEL M ProtoShield Mk3-->
+		<t id="78601">(ProtoShield Mk3){77770301,78603}</t>
+		<t id="78602">{20006,102}(This is a Project X Prototype MK3 Shield)</t>
+		<t id="78603">(Prototype){77770301,78606}</t>
+		<t id="78604">(TEL M ProtoShield Mk3){20202,503} {20111,5021} {77770301,78601} {20111,201}</t>
+		<t id="78605">(ProtoShield Mk3){77770301,78603} {20111,201}</t>
+		<t id="78606">ProtoShield Mk3</t>
+		<!--Large Sized Shields-->
+		<!--ARG L ProtoShield Mk1-->
+		<t id="97801">(ProtoShield Mk1){77770301,97803}</t>
+		<t id="97802">{20006,102}(This is a Project X Prototype MK1 Shield)</t>
+		<t id="97803">(Prototype){77770301,97806}</t>
+		<t id="97804">(ARG L ProtoShield Mk1){20202,103} {20111,5031} {77770301,97801} {20111,201}</t>
+		<t id="97805">(ProtoShield Mk1){77770301,97803} {20111,201}</t>
+		<t id="97806">ProtoShield Mk1</t>
+		<!--ARG L ProtoShield Mk2-->
+		<t id="97701">(ProtoShield Mk2){77770301,97703}</t>
+		<t id="97702">{20006,102}(This is a Project X Prototype MK2 Shield)</t>
+		<t id="97703">(Prototype){77770301,97706}</t>
+		<t id="97704">(ARG L ProtoShield Mk2){20202,103} {20111,5031} {77770301,97701} {20111,201}</t>
+		<t id="97705">(ProtoShield Mk2){77770301,97703} {20111,201}</t>
+		<t id="97706">ProtoShield Mk2</t>
+		<!--ARG L ProtoShield Mk3-->
+		<t id="97601">(ProtoShield Mk3){77770301,97603}</t>
+		<t id="97602">{20006,102}(This is a Project X Prototype MK3 Shield)</t>
+		<t id="97603">(Prototype){77770301,97606}</t>
+		<t id="97604">(ARG L ProtoShield Mk3){20202,103} {20111,5031} {77770301,97601} {20111,201}</t>
+		<t id="97605">(ProtoShield Mk3){77770301,97603} {20111,201}</t>
+		<t id="97606">ProtoShield Mk3</t>
+		<!--PAR L ProtoShield Mk1-->
+		<t id="87801">(ProtoShield Mk1){77770301,87803}</t>
+		<t id="87802">{20006,102}(This is a Project X Prototype MK1 Shield)</t>
+		<t id="87803">(Prototype){77770301,87806}</t>
+		<t id="87804">(PAR L ProtoShield Mk1){20202,403} {20111,5031} {77770301,87801} {20111,201}</t>
+		<t id="87805">(ProtoShield Mk1){77770301,87803} {20111,201}</t>
+		<t id="87806">ProtoShield Mk1</t>
+		<!--PAR L ProtoShield Mk2-->
+		<t id="87701">(ProtoShield Mk2){77770301,87703}</t>
+		<t id="87702">{20006,102}(This is a Project X Prototype MK2 Shield)</t>
+		<t id="87703">(Prototype){77770301,87706}</t>
+		<t id="87704">(PAR L ProtoShield Mk2){20202,403} {20111,5031} {77770301,87701} {20111,201}</t>
+		<t id="87705">(ProtoShield Mk2){77770301,87703} {20111,201}</t>
+		<t id="87706">ProtoShield Mk2</t>
+		<!--PAR L ProtoShield Mk3-->
+		<t id="87601">(ProtoShield Mk3){77770301,87603}</t>
+		<t id="87602">{20006,102}(This is a Project X Prototype MK3 Shield)</t>
+		<t id="87603">(Prototype){77770301,87606}</t>
+		<t id="87604">(PAR L ProtoShield Mk3){20202,403} {20111,5031} {77770301,87601} {20111,201}</t>
+		<t id="87605">(ProtoShield Mk3){77770301,87603} {20111,201}</t>
+		<t id="87606">ProtoShield Mk3</t>
+		<!--TEL L ProtoShield Mk1-->
+		<t id="77801">(ProtoShield Mk1){77770301,77803}</t>
+		<t id="77802">{20006,102}(This is a Project X Prototype MK1 Shield)</t>
+		<t id="77803">(Prototype){77770301,77806}</t>
+		<t id="77804">(PAR L ProtoShield Mk1){20202,503} {20111,5031} {77770301,77801} {20111,201}</t>
+		<t id="77805">(ProtoShield Mk1){77770301,77803} {20111,201}</t>
+		<t id="77806">ProtoShield Mk1</t>
+		<!--TEL L ProtoShield Mk2-->
+		<t id="77701">(ProtoShield Mk2){77770301,77703}</t>
+		<t id="77702">{20006,102}(This is a Project X Prototype MK2 Shield)</t>
+		<t id="77703">(Prototype){77770301,77706}</t>
+		<t id="77704">(TEL L ProtoShield Mk2){20202,503} {20111,5031} {77770301,77701} {20111,201}</t>
+		<t id="77705">(ProtoShield Mk2){77770301,77703} {20111,201}</t>
+		<t id="77706">ProtoShield Mk2</t>
+		<!--TEL L ProtoShield Mk3-->
+		<t id="77601">(ProtoShield Mk3){77770301,77603}</t>
+		<t id="77602">{20006,102}(This is a Project X Prototype MK3 Shield)</t>
+		<t id="77603">(Prototype){77770301,77606}</t>
+		<t id="77604">(TEL L ProtoShield Mk3){20202,503} {20111,5031} {77770301,77601} {20111,201}</t>
+		<t id="77605">(ProtoShield Mk3){77770301,77603} {20111,201}</t>
+		<t id="77606">ProtoShield Mk3</t>
+		<!--Extra Large Sized Shields-->
+		<!--ARG XL ProtoShield Mk1-->
+		<t id="96801">(ProtoShield Mk1){77770301,96803}</t>
+		<t id="96802">{20006,102}(This is a Project X Prototype MK1 Shield)</t>
+		<t id="96803">(Prototype){77770301,96806}</t>
+		<t id="96804">(ARG XL ProtoShield Mk1){20202,103} {20111,5031} {77770301,96801} {20111,101}</t>
+		<t id="96805">(ProtoShield Mk1){77770301,96803} {20111,101}</t>
+		<t id="96806">ProtoShield Mk1</t>
+		<!--ARG XL ProtoShield Mk2-->
+		<t id="96701">(ProtoShield Mk2){77770301,96703}</t>
+		<t id="96702">{20006,102}(This is a Project X Prototype MK2 Shield)</t>
+		<t id="96703">(Prototype){77770301,96706}</t>
+		<t id="96704">(ARG XL ProtoShield Mk2){20202,103} {20111,5031} {77770301,96701} {20111,101}</t>
+		<t id="96705">(ProtoShield Mk2){77770301,96703} {20111,101}</t>
+		<t id="96706">ProtoShield Mk2</t>
+		<!--ARG XL ProtoShield Mk2-->
+		<t id="96601">(ProtoShield Mk3){77770301,96603}</t>
+		<t id="96602">{20006,102}(This is a Project X Prototype MK3 Shield)</t>
+		<t id="96603">(Prototype){77770301,96606}</t>
+		<t id="96604">(ARG XL ProtoShield Mk3){20202,103} {20111,5031} {77770301,96601} {20111,101}</t>
+		<t id="96605">(ProtoShield Mk3){77770301,96603} {20111,101}</t>
+		<t id="96606">ProtoShield Mk3</t>
+		<!--PAR XL ProtoShield Mk1-->
+		<t id="86801">(ProtoShield Mk1){77770301,86803}</t>
+		<t id="86802">{20006,102}(This is a Project X Prototype MK1 Shield)</t>
+		<t id="86803">(Prototype){77770301,86806}</t>
+		<t id="86804">(PAR XL ProtoShield Mk1){20202,403} {20111,5031} {77770301,86801} {20111,101}</t>
+		<t id="86805">(ProtoShield Mk1){77770301,86803} {20111,101}</t>
+		<t id="86806">ProtoShield Mk1</t>
+		<!--PAR XL ProtoShield Mk2-->
+		<t id="86701">(ProtoShield Mk2){77770301,86703}</t>
+		<t id="86702">{20006,102}(This is a Project X Prototype MK2 Shield)</t>
+		<t id="86703">(Prototype){77770301,86706}</t>
+		<t id="86704">(PAR XL ProtoShield Mk2){20202,403} {20111,5031} {77770301,86701} {20111,101}</t>
+		<t id="86705">(ProtoShield Mk2){77770301,86703} {20111,101}</t>
+		<t id="86706">ProtoShield Mk2</t>
+		<!--PAR XL ProtoShield Mk3-->
+		<t id="86601">(ProtoShield Mk3){77770301,86603}</t>
+		<t id="86602">{20006,102}(This is a Project X Prototype MK3 Shield)</t>
+		<t id="86603">(Prototype){77770301,86606}</t>
+		<t id="86604">(PAR XL ProtoShield Mk3){20202,403} {20111,5031} {77770301,86601} {20111,101}</t>
+		<t id="86605">(ProtoShield Mk3){77770301,86603} {20111,101}</t>
+		<t id="86606">ProtoShield Mk3</t>
+		<!--TEL XL ProtoShield Mk1-->
+		<t id="76801">(ProtoShield Mk1){77770301,76803}</t>
+		<t id="76802">{20006,102}(This is a Project X Prototype MK1 Shield)</t>
+		<t id="76803">(Prototype){77770301,76806}</t>
+		<t id="76804">(TEL XL ProtoShield Mk1){20202,503} {20111,5031} {77770301,76801} {20111,101}</t>
+		<t id="76805">(ProtoShield Mk1){77770301,76803} {20111,101}</t>
+		<t id="76806">ProtoShield Mk1</t>
+		<!--TEL XL ProtoShield Mk2-->
+		<t id="76701">(ProtoShield Mk2){77770301,76703}</t>
+		<t id="76702">{20006,102}(This is a Project X Prototype MK2 Shield)</t>
+		<t id="76703">(Prototype){77770301,76706}</t>
+		<t id="76704">(TEL XL ProtoShield Mk2){20202,503} {20111,5031} {77770301,76701} {20111,101}</t>
+		<t id="76705">(ProtoShield Mk2){77770301,76703} {20111,101}</t>
+		<t id="76706">ProtoShield Mk2</t>
+		<!--TEL XL ProtoShield Mk3-->
+		<t id="76601">(ProtoShield Mk3){77770301,76603}</t>
+		<t id="76602">{20006,102}(This is a Project X Prototype MK3 Shield)</t>
+		<t id="76603">(Prototype){77770301,76606}</t>
+		<t id="76604">(TEL XL ProtoShield Mk3){20202,503} {20111,5031} {77770301,76601} {20111,101}</t>
+		<t id="76605">(ProtoShield Mk3){77770301,76603} {20111,101}</t>
+		<t id="76606">ProtoShield Mk3</t>
     </page>
 	<page id="77770501" title="PX4Thrusters" descr="Text for new Thrusters" voice="no">
 		<!--S ProtoThruster Mk1-->
