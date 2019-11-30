@@ -3,108 +3,108 @@
 <diff>
     <add sel="/index">
 		<!--ARG S Engines-->
-        <entry name="engine_arg_s_prototype_01_mk1_macro" value="extensions\ProjectX4\engine_macros\arg\engines\small\engine_arg_s_prototype_01_mk1_macro" />
-		<entry name="engine_arg_s_prototype_01_mk2_macro" value="extensions\ProjectX4\engine_macros\arg\engines\small\engine_arg_s_prototype_01_mk2_macro" />
-		<entry name="engine_arg_s_prototype_01_mk3_macro" value="extensions\ProjectX4\engine_macros\arg\engines\small\engine_arg_s_prototype_01_mk3_macro" />
+        <entry name="engine_arg_s_prototype_01_mk1_macro" value="extensions\projectx4\engine_macros\arg\engines\small\engine_arg_s_prototype_01_mk1_macro" />
+		<entry name="engine_arg_s_prototype_01_mk2_macro" value="extensions\projectx4\engine_macros\arg\engines\small\engine_arg_s_prototype_01_mk2_macro" />
+		<entry name="engine_arg_s_prototype_01_mk3_macro" value="extensions\projectx4\engine_macros\arg\engines\small\engine_arg_s_prototype_01_mk3_macro" />
 		<!--PAR S Engines-->
-        <entry name="engine_par_s_prototype_01_mk1_macro" value="extensions\ProjectX4\engine_macros\par\engines\small\engine_par_s_prototype_01_mk1_macro" />
-		<entry name="engine_par_s_prototype_01_mk2_macro" value="extensions\ProjectX4\engine_macros\par\engines\small\engine_par_s_prototype_01_mk2_macro" />
-		<entry name="engine_par_s_prototype_01_mk3_macro" value="extensions\ProjectX4\engine_macros\par\engines\small\engine_par_s_prototype_01_mk3_macro" />
+        <entry name="engine_par_s_prototype_01_mk1_macro" value="extensions\projectx4\engine_macros\par\engines\small\engine_par_s_prototype_01_mk1_macro" />
+		<entry name="engine_par_s_prototype_01_mk2_macro" value="extensions\projectx4\engine_macros\par\engines\small\engine_par_s_prototype_01_mk2_macro" />
+		<entry name="engine_par_s_prototype_01_mk3_macro" value="extensions\projectx4\engine_macros\par\engines\small\engine_par_s_prototype_01_mk3_macro" />
 		<!--TEL S Engines-->
-        <entry name="engine_tel_s_prototype_01_mk1_macro" value="extensions\ProjectX4\engine_macros\tel\engines\small\engine_tel_s_prototype_01_mk1_macro" />
-		<entry name="engine_tel_s_prototype_01_mk2_macro" value="extensions\ProjectX4\engine_macros\tel\engines\small\engine_tel_s_prototype_01_mk2_macro" />
-		<entry name="engine_tel_s_prototype_01_mk3_macro" value="extensions\ProjectX4\engine_macros\tel\engines\small\engine_tel_s_prototype_01_mk3_macro" />
+        <entry name="engine_tel_s_prototype_01_mk1_macro" value="extensions\projectx4\engine_macros\tel\engines\small\engine_tel_s_prototype_01_mk1_macro" />
+		<entry name="engine_tel_s_prototype_01_mk2_macro" value="extensions\projectx4\engine_macros\tel\engines\small\engine_tel_s_prototype_01_mk2_macro" />
+		<entry name="engine_tel_s_prototype_01_mk3_macro" value="extensions\projectx4\engine_macros\tel\engines\small\engine_tel_s_prototype_01_mk3_macro" />
 		<!--S Thrusters-->
-		<entry name="thruster_gen_s_arg_prototype_01_mk1_macro" value="extensions\ProjectX4\engine_macros\arg\thrusters\small\thruster_gen_s_arg_prototype_01_mk1_macro" />
-		<entry name="thruster_gen_s_arg_prototype_01_mk2_macro" value="extensions\ProjectX4\engine_macros\arg\thrusters\small\thruster_gen_s_arg_prototype_01_mk2_macro" />
-		<entry name="thruster_gen_s_arg_prototype_01_mk3_macro" value="extensions\ProjectX4\engine_macros\arg\thrusters\small\thruster_gen_s_arg_prototype_01_mk3_macro" />
+		<entry name="thruster_gen_s_arg_prototype_01_mk1_macro" value="extensions\projectx4\engine_macros\arg\thrusters\small\thruster_gen_s_arg_prototype_01_mk1_macro" />
+		<entry name="thruster_gen_s_arg_prototype_01_mk2_macro" value="extensions\projectx4\engine_macros\arg\thrusters\small\thruster_gen_s_arg_prototype_01_mk2_macro" />
+		<entry name="thruster_gen_s_arg_prototype_01_mk3_macro" value="extensions\projectx4\engine_macros\arg\thrusters\small\thruster_gen_s_arg_prototype_01_mk3_macro" />
 		<!--S BeamGuns-->
-		<entry name="weapon_gen_s_arg_prototype_beam_01_mk1_macro" value="extensions\ProjectX4\weapon_macros\weapons\arg\small\beamguns\weapon_gen_s_arg_prototype_beam_01_mk1_macro" />
-		<entry name="bullet_gen_s_arg_prototype_beam_01_mk1_macro" value="extensions\ProjectX4\weapon_macros\projectiles\shipweapons\arg\small\beamguns\bullet_gen_s_arg_prototype_beam_01_mk1_macro" />
-		<entry name="weapon_gen_s_arg_prototype_beam_01_mk2_macro" value="extensions\ProjectX4\weapon_macros\weapons\arg\small\beamguns\weapon_gen_s_arg_prototype_beam_01_mk2_macro" />
-		<entry name="bullet_gen_s_arg_prototype_beam_01_mk2_macro" value="extensions\ProjectX4\weapon_macros\projectiles\shipweapons\arg\small\beamguns\bullet_gen_s_arg_prototype_beam_01_mk2_macro" />
-		<entry name="weapon_gen_s_arg_prototype_beam_01_mk3_macro" value="extensions\ProjectX4\weapon_macros\weapons\arg\small\beamguns\weapon_gen_s_arg_prototype_beam_01_mk3_macro" />
-		<entry name="bullet_gen_s_arg_prototype_beam_01_mk3_macro" value="extensions\ProjectX4\weapon_macros\projectiles\shipweapons\arg\small\beamguns\bullet_gen_s_arg_prototype_beam_01_mk3_macro" />
+		<entry name="weapon_gen_s_arg_prototype_beam_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\arg\small\beamguns\weapon_gen_s_arg_prototype_beam_01_mk1_macro" />
+		<entry name="bullet_gen_s_arg_prototype_beam_01_mk1_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\arg\small\beamguns\bullet_gen_s_arg_prototype_beam_01_mk1_macro" />
+		<entry name="weapon_gen_s_arg_prototype_beam_01_mk2_macro" value="extensions\projectx4\weapon_macros\weapons\arg\small\beamguns\weapon_gen_s_arg_prototype_beam_01_mk2_macro" />
+		<entry name="bullet_gen_s_arg_prototype_beam_01_mk2_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\arg\small\beamguns\bullet_gen_s_arg_prototype_beam_01_mk2_macro" />
+		<entry name="weapon_gen_s_arg_prototype_beam_01_mk3_macro" value="extensions\projectx4\weapon_macros\weapons\arg\small\beamguns\weapon_gen_s_arg_prototype_beam_01_mk3_macro" />
+		<entry name="bullet_gen_s_arg_prototype_beam_01_mk3_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\arg\small\beamguns\bullet_gen_s_arg_prototype_beam_01_mk3_macro" />
 		<!--S BoltRepeaters-->
-		<entry name="weapon_gen_s_arg_prototype_gatling_01_mk1_macro" value="extensions\ProjectX4\weapon_macros\weapons\arg\small\boltrepeater\weapon_gen_s_arg_prototype_gatling_01_mk1_macro" />
-		<entry name="bullet_gen_s_arg_prototype_gatling_01_mk1_macro" value="extensions\ProjectX4\weapon_macros\projectiles\shipweapons\arg\small\boltrepeater\bullet_gen_s_arg_prototype_gatling_01_mk1_macro" />
-		<entry name="weapon_gen_s_arg_prototype_gatling_01_mk2_macro" value="extensions\ProjectX4\weapon_macros\weapons\arg\small\boltrepeater\weapon_gen_s_arg_prototype_gatling_01_mk2_macro" />
-		<entry name="bullet_gen_s_arg_prototype_gatling_01_mk2_macro" value="extensions\ProjectX4\weapon_macros\projectiles\shipweapons\arg\small\boltrepeater\bullet_gen_s_arg_prototype_gatling_01_mk2_macro" />
-		<entry name="weapon_gen_s_arg_prototype_gatling_01_mk3_macro" value="extensions\ProjectX4\weapon_macros\weapons\arg\small\boltrepeater\weapon_gen_s_arg_prototype_gatling_01_mk3_macro" />
-		<entry name="bullet_gen_s_arg_prototype_gatling_01_mk3_macro" value="extensions\ProjectX4\weapon_macros\projectiles\shipweapons\arg\small\boltrepeater\bullet_gen_s_arg_prototype_gatling_01_mk3_macro" />
+		<entry name="weapon_gen_s_arg_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\arg\small\boltrepeater\weapon_gen_s_arg_prototype_gatling_01_mk1_macro" />
+		<entry name="bullet_gen_s_arg_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\arg\small\boltrepeater\bullet_gen_s_arg_prototype_gatling_01_mk1_macro" />
+		<entry name="weapon_gen_s_arg_prototype_gatling_01_mk2_macro" value="extensions\projectx4\weapon_macros\weapons\arg\small\boltrepeater\weapon_gen_s_arg_prototype_gatling_01_mk2_macro" />
+		<entry name="bullet_gen_s_arg_prototype_gatling_01_mk2_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\arg\small\boltrepeater\bullet_gen_s_arg_prototype_gatling_01_mk2_macro" />
+		<entry name="weapon_gen_s_arg_prototype_gatling_01_mk3_macro" value="extensions\projectx4\weapon_macros\weapons\arg\small\boltrepeater\weapon_gen_s_arg_prototype_gatling_01_mk3_macro" />
+		<entry name="bullet_gen_s_arg_prototype_gatling_01_mk3_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\arg\small\boltrepeater\bullet_gen_s_arg_prototype_gatling_01_mk3_macro" />
 		<!--M BoltRepeaters-->
-		<entry name="weapon_gen_m_prototype_gatling_01_mk1_macro" value="extensions\ProjectX4\weapon_macros\weapons\arg\medium\boltrepeater\weapon_gen_m_prototype_gatling_01_mk1_macro" />
-		<entry name="bullet_gen_m_prototype_gatling_01_mk1_macro" value="extensions\ProjectX4\weapon_macros\projectiles\shipweapons\arg\medium\boltrepeater\bullet_gen_m_prototype_gatling_01_mk1_macro" />
-		<entry name="weapon_gen_m_prototype_gatling_01_mk2_macro" value="extensions\ProjectX4\weapon_macros\weapons\arg\medium\boltrepeater\weapon_gen_m_prototype_gatling_01_mk2_macro" />
-		<entry name="bullet_gen_m_prototype_gatling_01_mk2_macro" value="extensions\ProjectX4\weapon_macros\projectiles\shipweapons\arg\medium\boltrepeater\bullet_gen_m_prototype_gatling_01_mk2_macro" />
-		<entry name="weapon_gen_m_prototype_gatling_01_mk3_macro" value="extensions\ProjectX4\weapon_macros\weapons\arg\medium\boltrepeater\weapon_gen_m_prototype_gatling_01_mk3_macro" />
-		<entry name="bullet_gen_m_prototype_gatling_01_mk3_macro" value="extensions\ProjectX4\weapon_macros\projectiles\shipweapons\arg\medium\boltrepeater\bullet_gen_m_prototype_gatling_01_mk3_macro" />
+		<entry name="weapon_gen_m_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\arg\medium\boltrepeater\weapon_gen_m_prototype_gatling_01_mk1_macro" />
+		<entry name="bullet_gen_m_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\arg\medium\boltrepeater\bullet_gen_m_prototype_gatling_01_mk1_macro" />
+		<entry name="weapon_gen_m_prototype_gatling_01_mk2_macro" value="extensions\projectx4\weapon_macros\weapons\arg\medium\boltrepeater\weapon_gen_m_prototype_gatling_01_mk2_macro" />
+		<entry name="bullet_gen_m_prototype_gatling_01_mk2_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\arg\medium\boltrepeater\bullet_gen_m_prototype_gatling_01_mk2_macro" />
+		<entry name="weapon_gen_m_prototype_gatling_01_mk3_macro" value="extensions\projectx4\weapon_macros\weapons\arg\medium\boltrepeater\weapon_gen_m_prototype_gatling_01_mk3_macro" />
+		<entry name="bullet_gen_m_prototype_gatling_01_mk3_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\arg\medium\boltrepeater\bullet_gen_m_prototype_gatling_01_mk3_macro" />
 		<!--ARG M BoltRepeaters Turret-->
-		<entry name="turret_arg_m_prototype_gatling_01_mk1_macro" value="extensions\ProjectX4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_prototype_gatling_01_mk1_macro" />
-		<entry name="bullet_gen_turret_m_prototype_gatling_01_mk1_macro" value="extensions\ProjectX4\weapon_macros\projectiles\shipweapons\arg\turret\medium\boltrepeater\bullet_gen_turret_m_prototype_gatling_01_mk1_macro" />
-		<entry name="turret_arg_m_prototype_gatling_02_mk1_macro" value="extensions\ProjectX4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_prototype_gatling_02_mk1_macro" />
+		<entry name="turret_arg_m_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_prototype_gatling_01_mk1_macro" />
+		<entry name="bullet_gen_turret_m_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\arg\turret\medium\boltrepeater\bullet_gen_turret_m_prototype_gatling_01_mk1_macro" />
+		<entry name="turret_arg_m_prototype_gatling_02_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_prototype_gatling_02_mk1_macro" />
 		<!--PAR M BoltRepeaters Turret-->
-		<entry name="turret_par_m_prototype_gatling_01_mk1_macro" value="extensions\ProjectX4\weapon_macros\weapons\par\turret\medium\boltrepeater\turret_par_m_prototype_gatling_01_mk1_macro" />
-		<entry name="turret_par_m_prototype_gatling_02_mk1_macro" value="extensions\ProjectX4\weapon_macros\weapons\par\turret\medium\boltrepeater\turret_par_m_prototype_gatling_02_mk1_macro" />
+		<entry name="turret_par_m_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\par\turret\medium\boltrepeater\turret_par_m_prototype_gatling_01_mk1_macro" />
+		<entry name="turret_par_m_prototype_gatling_02_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\par\turret\medium\boltrepeater\turret_par_m_prototype_gatling_02_mk1_macro" />
 		<!--TEL M BoltRepeaters Turret-->
-		<entry name="turret_tel_m_prototype_gatling_01_mk1_macro" value="extensions\ProjectX4\weapon_macros\weapons\tel\turret\medium\boltrepeater\turret_tel_m_prototype_gatling_01_mk1_macro" />
-		<entry name="turret_tel_m_prototype_gatling_02_mk1_macro" value="extensions\ProjectX4\weapon_macros\weapons\tel\turret\medium\boltrepeater\turret_tel_m_prototype_gatling_02_mk1_macro" />
+		<entry name="turret_tel_m_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\tel\turret\medium\boltrepeater\turret_tel_m_prototype_gatling_01_mk1_macro" />
+		<entry name="turret_tel_m_prototype_gatling_02_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\tel\turret\medium\boltrepeater\turret_tel_m_prototype_gatling_02_mk1_macro" />
 		<!--ARG S Shields-->
-		<entry name="shield_arg_s_prototype_01_mk1_macro" value="extensions\ProjectX4\shield_macros\arg\small\shield_arg_s_prototype_01_mk1_macro" />
-		<entry name="shield_arg_s_prototype_01_mk2_macro" value="extensions\ProjectX4\shield_macros\arg\small\shield_arg_s_prototype_01_mk2_macro" />
-		<entry name="shield_arg_s_prototype_01_mk3_macro" value="extensions\ProjectX4\shield_macros\arg\small\shield_arg_s_prototype_01_mk3_macro" />
+		<entry name="shield_arg_s_prototype_01_mk1_macro" value="extensions\projectx4\shield_macros\arg\small\shield_arg_s_prototype_01_mk1_macro" />
+		<entry name="shield_arg_s_prototype_01_mk2_macro" value="extensions\projectx4\shield_macros\arg\small\shield_arg_s_prototype_01_mk2_macro" />
+		<entry name="shield_arg_s_prototype_01_mk3_macro" value="extensions\projectx4\shield_macros\arg\small\shield_arg_s_prototype_01_mk3_macro" />
 		<!--PAR S Shields-->
-		<entry name="shield_par_s_prototype_01_mk1_macro" value="extensions\ProjectX4\shield_macros\par\small\shield_par_s_prototype_01_mk1_macro" />
-		<entry name="shield_par_s_prototype_01_mk2_macro" value="extensions\ProjectX4\shield_macros\par\small\shield_par_s_prototype_01_mk2_macro" />
-		<entry name="shield_par_s_prototype_01_mk3_macro" value="extensions\ProjectX4\shield_macros\par\small\shield_par_s_prototype_01_mk3_macro" />
+		<entry name="shield_par_s_prototype_01_mk1_macro" value="extensions\projectx4\shield_macros\par\small\shield_par_s_prototype_01_mk1_macro" />
+		<entry name="shield_par_s_prototype_01_mk2_macro" value="extensions\projectx4\shield_macros\par\small\shield_par_s_prototype_01_mk2_macro" />
+		<entry name="shield_par_s_prototype_01_mk3_macro" value="extensions\projectx4\shield_macros\par\small\shield_par_s_prototype_01_mk3_macro" />
 		<!--TEL S Shields-->
-		<entry name="shield_tel_s_prototype_01_mk1_macro" value="extensions\ProjectX4\shield_macros\tel\small\shield_tel_s_prototype_01_mk1_macro" />
-		<entry name="shield_tel_s_prototype_01_mk2_macro" value="extensions\ProjectX4\shield_macros\tel\small\shield_tel_s_prototype_01_mk2_macro" />
-		<entry name="shield_tel_s_prototype_01_mk3_macro" value="extensions\ProjectX4\shield_macros\tel\small\shield_tel_s_prototype_01_mk3_macro" />
+		<entry name="shield_tel_s_prototype_01_mk1_macro" value="extensions\projectx4\shield_macros\tel\small\shield_tel_s_prototype_01_mk1_macro" />
+		<entry name="shield_tel_s_prototype_01_mk2_macro" value="extensions\projectx4\shield_macros\tel\small\shield_tel_s_prototype_01_mk2_macro" />
+		<entry name="shield_tel_s_prototype_01_mk3_macro" value="extensions\projectx4\shield_macros\tel\small\shield_tel_s_prototype_01_mk3_macro" />
 		<!--ARG M Shields-->
-		<entry name="shield_arg_m_prototype_standard_01_mk1_macro" value="extensions\ProjectX4\shield_macros\arg\medium\shield_arg_m_prototype_standard_01_mk1_macro" />
-		<entry name="shield_arg_m_prototype_standard_02_mk1_macro" value="extensions\ProjectX4\shield_macros\arg\medium\shield_arg_m_prototype_standard_02_mk1_macro" />
-		<entry name="shield_arg_m_prototype_standard_01_mk2_macro" value="extensions\ProjectX4\shield_macros\arg\medium\shield_arg_m_prototype_standard_01_mk2_macro" />
-		<entry name="shield_arg_m_prototype_standard_02_mk2_macro" value="extensions\ProjectX4\shield_macros\arg\medium\shield_arg_m_prototype_standard_02_mk2_macro" />
-		<entry name="shield_arg_m_prototype_standard_01_mk3_macro" value="extensions\ProjectX4\shield_macros\arg\medium\shield_arg_m_prototype_standard_01_mk3_macro" />
-		<entry name="shield_arg_m_prototype_standard_02_mk3_macro" value="extensions\ProjectX4\shield_macros\arg\medium\shield_arg_m_prototype_standard_02_mk3_macro" />
+		<entry name="shield_arg_m_prototype_standard_01_mk1_macro" value="extensions\projectx4\shield_macros\arg\medium\shield_arg_m_prototype_standard_01_mk1_macro" />
+		<entry name="shield_arg_m_prototype_standard_02_mk1_macro" value="extensions\projectx4\shield_macros\arg\medium\shield_arg_m_prototype_standard_02_mk1_macro" />
+		<entry name="shield_arg_m_prototype_standard_01_mk2_macro" value="extensions\projectx4\shield_macros\arg\medium\shield_arg_m_prototype_standard_01_mk2_macro" />
+		<entry name="shield_arg_m_prototype_standard_02_mk2_macro" value="extensions\projectx4\shield_macros\arg\medium\shield_arg_m_prototype_standard_02_mk2_macro" />
+		<entry name="shield_arg_m_prototype_standard_01_mk3_macro" value="extensions\projectx4\shield_macros\arg\medium\shield_arg_m_prototype_standard_01_mk3_macro" />
+		<entry name="shield_arg_m_prototype_standard_02_mk3_macro" value="extensions\projectx4\shield_macros\arg\medium\shield_arg_m_prototype_standard_02_mk3_macro" />
 		<!--PAR M Shields-->
-		<entry name="shield_par_m_prototype_standard_01_mk1_macro" value="extensions\ProjectX4\shield_macros\par\medium\shield_par_m_prototype_standard_01_mk1_macro" />
-		<entry name="shield_par_m_prototype_standard_02_mk1_macro" value="extensions\ProjectX4\shield_macros\par\medium\shield_par_m_prototype_standard_02_mk1_macro" />
-		<entry name="shield_par_m_prototype_standard_01_mk2_macro" value="extensions\ProjectX4\shield_macros\par\medium\shield_par_m_prototype_standard_01_mk2_macro" />
-		<entry name="shield_par_m_prototype_standard_02_mk2_macro" value="extensions\ProjectX4\shield_macros\par\medium\shield_par_m_prototype_standard_02_mk2_macro" />
-		<entry name="shield_par_m_prototype_standard_01_mk3_macro" value="extensions\ProjectX4\shield_macros\par\medium\shield_par_m_prototype_standard_01_mk3_macro" />
-		<entry name="shield_par_m_prototype_standard_02_mk3_macro" value="extensions\ProjectX4\shield_macros\par\medium\shield_par_m_prototype_standard_02_mk3_macro" />
+		<entry name="shield_par_m_prototype_standard_01_mk1_macro" value="extensions\projectx4\shield_macros\par\medium\shield_par_m_prototype_standard_01_mk1_macro" />
+		<entry name="shield_par_m_prototype_standard_02_mk1_macro" value="extensions\projectx4\shield_macros\par\medium\shield_par_m_prototype_standard_02_mk1_macro" />
+		<entry name="shield_par_m_prototype_standard_01_mk2_macro" value="extensions\projectx4\shield_macros\par\medium\shield_par_m_prototype_standard_01_mk2_macro" />
+		<entry name="shield_par_m_prototype_standard_02_mk2_macro" value="extensions\projectx4\shield_macros\par\medium\shield_par_m_prototype_standard_02_mk2_macro" />
+		<entry name="shield_par_m_prototype_standard_01_mk3_macro" value="extensions\projectx4\shield_macros\par\medium\shield_par_m_prototype_standard_01_mk3_macro" />
+		<entry name="shield_par_m_prototype_standard_02_mk3_macro" value="extensions\projectx4\shield_macros\par\medium\shield_par_m_prototype_standard_02_mk3_macro" />
 		<!--TEL M Shields-->
-		<entry name="shield_tel_m_prototype_standard_01_mk1_macro" value="extensions\ProjectX4\shield_macros\tel\medium\shield_tel_m_prototype_standard_01_mk1_macro" />
-		<entry name="shield_tel_m_prototype_standard_02_mk1_macro" value="extensions\ProjectX4\shield_macros\tel\medium\shield_tel_m_prototype_standard_02_mk1_macro" />
-		<entry name="shield_tel_m_prototype_standard_01_mk2_macro" value="extensions\ProjectX4\shield_macros\tel\medium\shield_tel_m_prototype_standard_01_mk2_macro" />
-		<entry name="shield_tel_m_prototype_standard_02_mk2_macro" value="extensions\ProjectX4\shield_macros\tel\medium\shield_tel_m_prototype_standard_02_mk2_macro" />
-		<entry name="shield_tel_m_prototype_standard_01_mk3_macro" value="extensions\ProjectX4\shield_macros\tel\medium\shield_tel_m_prototype_standard_01_mk3_macro" />
-		<entry name="shield_tel_m_prototype_standard_02_mk3_macro" value="extensions\ProjectX4\shield_macros\tel\medium\shield_tel_m_prototype_standard_02_mk3_macro" />
+		<entry name="shield_tel_m_prototype_standard_01_mk1_macro" value="extensions\projectx4\shield_macros\tel\medium\shield_tel_m_prototype_standard_01_mk1_macro" />
+		<entry name="shield_tel_m_prototype_standard_02_mk1_macro" value="extensions\projectx4\shield_macros\tel\medium\shield_tel_m_prototype_standard_02_mk1_macro" />
+		<entry name="shield_tel_m_prototype_standard_01_mk2_macro" value="extensions\projectx4\shield_macros\tel\medium\shield_tel_m_prototype_standard_01_mk2_macro" />
+		<entry name="shield_tel_m_prototype_standard_02_mk2_macro" value="extensions\projectx4\shield_macros\tel\medium\shield_tel_m_prototype_standard_02_mk2_macro" />
+		<entry name="shield_tel_m_prototype_standard_01_mk3_macro" value="extensions\projectx4\shield_macros\tel\medium\shield_tel_m_prototype_standard_01_mk3_macro" />
+		<entry name="shield_tel_m_prototype_standard_02_mk3_macro" value="extensions\projectx4\shield_macros\tel\medium\shield_tel_m_prototype_standard_02_mk3_macro" />
 		<!--ARG L Shields-->
-		<entry name="shield_arg_l_prototype_standard_01_mk1_macro" value="extensions\ProjectX4\shield_macros\arg\large\shield_arg_l_prototype_standard_01_mk1_macro" />
-		<entry name="shield_arg_l_prototype_standard_01_mk2_macro" value="extensions\ProjectX4\shield_macros\arg\large\shield_arg_l_prototype_standard_01_mk2_macro" />
-		<entry name="shield_arg_l_prototype_standard_01_mk3_macro" value="extensions\ProjectX4\shield_macros\arg\large\shield_arg_l_prototype_standard_01_mk3_macro" />
+		<entry name="shield_arg_l_prototype_standard_01_mk1_macro" value="extensions\projectx4\shield_macros\arg\large\shield_arg_l_prototype_standard_01_mk1_macro" />
+		<entry name="shield_arg_l_prototype_standard_01_mk2_macro" value="extensions\projectx4\shield_macros\arg\large\shield_arg_l_prototype_standard_01_mk2_macro" />
+		<entry name="shield_arg_l_prototype_standard_01_mk3_macro" value="extensions\projectx4\shield_macros\arg\large\shield_arg_l_prototype_standard_01_mk3_macro" />
 		<!--PAR L Shields-->
-		<entry name="shield_par_l_prototype_standard_01_mk1_macro" value="extensions\ProjectX4\shield_macros\par\large\shield_par_l_prototype_standard_01_mk1_macro" />
-		<entry name="shield_par_l_prototype_standard_01_mk2_macro" value="extensions\ProjectX4\shield_macros\par\large\shield_par_l_prototype_standard_01_mk2_macro" />
-		<entry name="shield_par_l_prototype_standard_01_mk3_macro" value="extensions\ProjectX4\shield_macros\par\large\shield_par_l_prototype_standard_01_mk3_macro" />
+		<entry name="shield_par_l_prototype_standard_01_mk1_macro" value="extensions\projectx4\shield_macros\par\large\shield_par_l_prototype_standard_01_mk1_macro" />
+		<entry name="shield_par_l_prototype_standard_01_mk2_macro" value="extensions\projectx4\shield_macros\par\large\shield_par_l_prototype_standard_01_mk2_macro" />
+		<entry name="shield_par_l_prototype_standard_01_mk3_macro" value="extensions\projectx4\shield_macros\par\large\shield_par_l_prototype_standard_01_mk3_macro" />
 		<!--TEL L Shields-->
-		<entry name="shield_tel_l_prototype_standard_01_mk1_macro" value="extensions\ProjectX4\shield_macros\tel\large\shield_tel_l_prototype_standard_01_mk1_macro" />
-		<entry name="shield_tel_l_prototype_standard_01_mk2_macro" value="extensions\ProjectX4\shield_macros\tel\large\shield_tel_l_prototype_standard_01_mk2_macro" />
-		<entry name="shield_tel_l_prototype_standard_01_mk3_macro" value="extensions\ProjectX4\shield_macros\tel\large\shield_tel_l_prototype_standard_01_mk3_macro" />
+		<entry name="shield_tel_l_prototype_standard_01_mk1_macro" value="extensions\projectx4\shield_macros\tel\large\shield_tel_l_prototype_standard_01_mk1_macro" />
+		<entry name="shield_tel_l_prototype_standard_01_mk2_macro" value="extensions\projectx4\shield_macros\tel\large\shield_tel_l_prototype_standard_01_mk2_macro" />
+		<entry name="shield_tel_l_prototype_standard_01_mk3_macro" value="extensions\projectx4\shield_macros\tel\large\shield_tel_l_prototype_standard_01_mk3_macro" />
 		<!--ARG XL Shields-->
-		<entry name="shield_arg_xl_prototype_standard_01_mk1_macro" value="extensions\ProjectX4\shield_macros\arg\extralarge\shield_arg_xl_prototype_standard_01_mk1_macro" />
-		<entry name="shield_arg_xl_prototype_standard_01_mk2_macro" value="extensions\ProjectX4\shield_macros\arg\extralarge\shield_arg_xl_prototype_standard_01_mk2_macro" />
-		<entry name="shield_arg_xl_prototype_standard_01_mk3_macro" value="extensions\ProjectX4\shield_macros\arg\extralarge\shield_arg_xl_prototype_standard_01_mk3_macro" />
+		<entry name="shield_arg_xl_prototype_standard_01_mk1_macro" value="extensions\projectx4\shield_macros\arg\extralarge\shield_arg_xl_prototype_standard_01_mk1_macro" />
+		<entry name="shield_arg_xl_prototype_standard_01_mk2_macro" value="extensions\projectx4\shield_macros\arg\extralarge\shield_arg_xl_prototype_standard_01_mk2_macro" />
+		<entry name="shield_arg_xl_prototype_standard_01_mk3_macro" value="extensions\projectx4\shield_macros\arg\extralarge\shield_arg_xl_prototype_standard_01_mk3_macro" />
 		<!--PAR XL Shields-->
-		<entry name="shield_par_xl_prototype_standard_01_mk1_macro" value="extensions\ProjectX4\shield_macros\par\extralarge\shield_par_xl_prototype_standard_01_mk1_macro" />
-		<entry name="shield_par_xl_prototype_standard_01_mk2_macro" value="extensions\ProjectX4\shield_macros\par\extralarge\shield_par_xl_prototype_standard_01_mk2_macro" />
-		<entry name="shield_par_xl_prototype_standard_01_mk3_macro" value="extensions\ProjectX4\shield_macros\par\extralarge\shield_par_xl_prototype_standard_01_mk3_macro" />
+		<entry name="shield_par_xl_prototype_standard_01_mk1_macro" value="extensions\projectx4\shield_macros\par\extralarge\shield_par_xl_prototype_standard_01_mk1_macro" />
+		<entry name="shield_par_xl_prototype_standard_01_mk2_macro" value="extensions\projectx4\shield_macros\par\extralarge\shield_par_xl_prototype_standard_01_mk2_macro" />
+		<entry name="shield_par_xl_prototype_standard_01_mk3_macro" value="extensions\projectx4\shield_macros\par\extralarge\shield_par_xl_prototype_standard_01_mk3_macro" />
 		<!--TEL XL Shields-->
-		<entry name="shield_tel_xl_prototype_standard_01_mk1_macro" value="extensions\ProjectX4\shield_macros\tel\extralarge\shield_tel_xl_prototype_standard_01_mk1_macro" />
-		<entry name="shield_tel_xl_prototype_standard_01_mk2_macro" value="extensions\ProjectX4\shield_macros\tel\extralarge\shield_tel_xl_prototype_standard_01_mk2_macro" />
-		<entry name="shield_tel_xl_prototype_standard_01_mk3_macro" value="extensions\ProjectX4\shield_macros\tel\extralarge\shield_tel_xl_prototype_standard_01_mk3_macro" />
+		<entry name="shield_tel_xl_prototype_standard_01_mk1_macro" value="extensions\projectx4\shield_macros\tel\extralarge\shield_tel_xl_prototype_standard_01_mk1_macro" />
+		<entry name="shield_tel_xl_prototype_standard_01_mk2_macro" value="extensions\projectx4\shield_macros\tel\extralarge\shield_tel_xl_prototype_standard_01_mk2_macro" />
+		<entry name="shield_tel_xl_prototype_standard_01_mk3_macro" value="extensions\projectx4\shield_macros\tel\extralarge\shield_tel_xl_prototype_standard_01_mk3_macro" />
     </add>
 </diff>
