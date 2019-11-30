@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
+  <macro name="shield_tel_s_prototype_01_mk1_macro" class="shieldgenerator">
+    <component ref="shield_arg_s_standard_01_mk3" />
+    <properties>
+      <identification name="{77770301,99204}" basename="{77770301,99201}" shortname="{77770301,99203}" makerrace="teladi" description="{77770301,99202}" mk="1" />
+      <recharge max="1800" rate="255" delay="8.6" />
+      <hull integrated="1" />
+    </properties>
+  </macro>
+</macros>

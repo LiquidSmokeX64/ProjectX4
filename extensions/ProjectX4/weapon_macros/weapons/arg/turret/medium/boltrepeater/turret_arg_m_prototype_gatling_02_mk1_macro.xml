@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
+  <macro name="turret_arg_m_prototype_gatling_02_mk1_macro" class="turret">
+    <component ref="turret_arg_m_gatling_02_mk1" />
+    <properties>
+      <identification name="{77770401,99204}" basename="{77770401,99201}" shortname="{77770401,99203}" makerrace="paranid" description="{77770401,99202}" mk="1" />
+      <bullet class="bullet_gen_turret_m_prototype_gatling_01_mk1_macro" />
+      <rotationspeed max="200" />
+      <reload rate="0.90" time="0.90" />
+      <hull max="550" threshold="0.2" integrated="0" />
+    </properties>
+  </macro>
+</macros>

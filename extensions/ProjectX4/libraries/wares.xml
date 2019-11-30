@@ -338,6 +338,102 @@
 			<owner faction="paranid" />
 			<owner faction="teladi" />
 		</ware>
+		<ware id="turret_arg_m_prototype_gatling_01_mk1" name="{77770401,99204}" description="{77770401,99202}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+			<price min="30000" average="32500" max="35000" />
+				<production time="10" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="advancedelectronics" amount="6" />
+						<ware ware="energycells" amount="10" />
+						<ware ware="turretcomponents" amount="17" />
+					</primary>
+				</production>
+			<component ref="turret_arg_m_prototype_gatling_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.15" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="turret_arg_m_prototype_gatling_02_mk1" name="{77770401,99204}" description="{77770401,99202}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+			<price min="30000" average="32500" max="35000" />
+				<production time="10" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="advancedelectronics" amount="12" />
+						<ware ware="energycells" amount="10" />
+						<ware ware="turretcomponents" amount="13" />
+					</primary>
+				</production>
+			<component ref="turret_arg_m_prototype_gatling_02_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.15" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="turret_par_m_prototype_gatling_01_mk1" name="{77770401,99104}" description="{77770401,99102}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+			<price min="30000" average="32500" max="35000" />
+				<production time="10" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="advancedelectronics" amount="6" />
+						<ware ware="energycells" amount="10" />
+						<ware ware="turretcomponents" amount="17" />
+					</primary>
+				</production>
+			<component ref="turret_par_m_prototype_gatling_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.15" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="turret_par_m_prototype_gatling_02_mk1" name="{77770401,99104}" description="{77770401,99102}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+			<price min="30000" average="32500" max="35000" />
+				<production time="10" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="advancedelectronics" amount="12" />
+						<ware ware="energycells" amount="10" />
+						<ware ware="turretcomponents" amount="13" />
+					</primary>
+				</production>
+			<component ref="turret_par_m_prototype_gatling_02_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.15" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="turret_tel_m_prototype_gatling_01_mk1" name="{77770401,99004}" description="{77770401,99002}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+			<price min="30000" average="32500" max="35000" />
+				<production time="10" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="advancedelectronics" amount="6" />
+						<ware ware="energycells" amount="10" />
+						<ware ware="turretcomponents" amount="17" />
+					</primary>
+				</production>
+			<component ref="turret_tel_m_prototype_gatling_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.15" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="turret_tel_m_prototype_gatling_02_mk1" name="{77770401,99004}" description="{77770401,99002}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+			<price min="30000" average="32500" max="35000" />
+				<production time="10" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="advancedelectronics" amount="12" />
+						<ware ware="energycells" amount="10" />
+						<ware ware="turretcomponents" amount="13" />
+					</primary>
+				</production>
+			<component ref="turret_tel_m_prototype_gatling_02_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.15" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
 		<ware id="thruster_gen_s_arg_prototype_01_mk1" name="{77770501, 99804}" description="{77770501, 99802}" group="thrusters" transport="equipment" volume="1" tags="equipment thruster">
 			<price min="250000" average="300000" max="350000" />
 				<production time="5" amount="1" method="default" name="{20206,101}">
@@ -438,14 +534,9 @@
 			<restriction licence="militaryequipment" />
 			<use threshold="0" />
 			<owner faction="alliance" />
-			<owner faction="antigone" />
-			<owner faction="argon" />
-			<owner faction="hatikvah" />
-			<owner faction="holyorder" />
-			<owner faction="ministry" />
-			<owner faction="paranid" />
-			<owner faction="scaleplate" />
-			<owner faction="teladi" />
+            <owner faction="antigone" />
+            <owner faction="argon" />
+            <owner faction="hatikvah" />
 		</ware>
 		<ware id="shield_arg_s_prototype_01_mk2" name="{77770301,99704}" description="{77770301,99702}" group="shields" transport="equipment" volume="1" tags="equipment shield">
 			<price min="75000" average="80000" max="85000" />
@@ -460,14 +551,9 @@
 			<restriction licence="militaryequipment" />
 			<use threshold="0" />
 			<owner faction="alliance" />
-			<owner faction="antigone" />
-			<owner faction="argon" />
-			<owner faction="hatikvah" />
-			<owner faction="holyorder" />
-			<owner faction="ministry" />
-			<owner faction="paranid" />
-			<owner faction="scaleplate" />
-			<owner faction="teladi" />
+            <owner faction="antigone" />
+            <owner faction="argon" />
+            <owner faction="hatikvah" />
 		</ware>
 		<ware id="shield_arg_s_prototype_01_mk3" name="{77770301,99604}" description="{77770301,99602}" group="shields" transport="equipment" volume="1" tags="equipment shield">
 			<price min="85000" average="85000" max="90000" />
@@ -482,13 +568,104 @@
 			<restriction licence="militaryequipment" />
 			<use threshold="0" />
 			<owner faction="alliance" />
-			<owner faction="antigone" />
-			<owner faction="argon" />
-			<owner faction="hatikvah" />
+            <owner faction="antigone" />
+            <owner faction="argon" />
+            <owner faction="hatikvah" />
+		</ware>
+		<ware id="shield_par_s_prototype_01_mk1" name="{77770301,99504}" description="{77770301,99502}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="60000" average="65000" max="75000" />
+				<production time="10" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="25" />
+						<ware ware="fieldcoils" amount="13" />
+						<ware ware="shieldcomponents" amount="35" />
+					</primary>
+				</production>
+			<component ref="shield_par_s_prototype_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
 			<owner faction="holyorder" />
-			<owner faction="ministry" />
 			<owner faction="paranid" />
-			<owner faction="scaleplate" />
+		</ware>
+		<ware id="shield_par_s_prototype_01_mk2" name="{77770301,99404}" description="{77770301,99402}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="75000" average="80000" max="85000" />
+				<production time="10" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="28" />
+						<ware ware="fieldcoils" amount="17" />
+						<ware ware="shieldcomponents" amount="38" />
+					</primary>
+				</production>
+			<component ref="shield_par_s_prototype_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="shield_par_s_prototype_01_mk3" name="{77770301,99304}" description="{77770301,99302}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="85000" average="85000" max="90000" />
+				<production time="10" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="32" />
+						<ware ware="fieldcoils" amount="21" />
+						<ware ware="shieldcomponents" amount="43" />
+					</primary>
+				</production>
+			<component ref="shield_par_s_prototype_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="shield_tel_s_prototype_01_mk1" name="{77770301,99204}" description="{77770301,99202}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="60000" average="65000" max="75000" />
+				<production time="10" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="25" />
+						<ware ware="fieldcoils" amount="13" />
+						<ware ware="shieldcomponents" amount="35" />
+					</primary>
+				</production>
+			<component ref="shield_tel_s_prototype_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="shield_tel_s_prototype_01_mk2" name="{77770301,99104}" description="{77770301,99102}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="75000" average="80000" max="85000" />
+				<production time="10" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="28" />
+						<ware ware="fieldcoils" amount="17" />
+						<ware ware="shieldcomponents" amount="38" />
+					</primary>
+				</production>
+			<component ref="shield_tel_s_prototype_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="shield_tel_s_prototype_01_mk3" name="{77770301,99004}" description="{77770301,99002}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="85000" average="85000" max="90000" />
+				<production time="10" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="energycells" amount="32" />
+						<ware ware="fieldcoils" amount="21" />
+						<ware ware="shieldcomponents" amount="43" />
+					</primary>
+				</production>
+			<component ref="shield_tel_s_prototype_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
 			<owner faction="teladi" />
 		</ware>
     </add>
