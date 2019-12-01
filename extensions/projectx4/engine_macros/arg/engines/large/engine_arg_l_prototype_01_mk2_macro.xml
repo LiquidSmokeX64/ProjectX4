@@ -5,9 +5,9 @@
     <component ref="engine_arg_l_travel_01_mk1" />
     <properties>
       <identification name="{77770101,97704}" basename="{77770101,97701}" shortname="{77770101,97703}" makerrace="argon" description="{77770101,97702}" mk="2" />
-      <boost duration="35" thrust="10" attack="10" release="1" />
+      <boost duration="35" thrust="5" attack="10" release="1" />
       <travel charge="0" thrust="35" attack="75" release="30" />
-      <thrust forward="6252" reverse="6368" />
+      <thrust forward="5024" reverse="5135" />
       <angular />
       <hull max="6000" threshold="0.3" />
       <effects>

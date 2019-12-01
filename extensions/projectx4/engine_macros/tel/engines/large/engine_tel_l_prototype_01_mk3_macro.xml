@@ -7,7 +7,7 @@
       <identification name="{77770101,77604}" basename="{77770101,77601}" shortname="{77770101,77603}" makerrace="teladi" description="{77770101,77602}" mk="3" />
       <boost duration="39" thrust="16" attack="19" release="1" />
       <travel charge="0" thrust="41" attack="71" release="24" />
-      <thrust forward="7463" reverse="7579" />
+      <thrust forward="5352" reverse="5468" />
       <angular />
       <hull max="7000" threshold="0.3" />
       <effects>

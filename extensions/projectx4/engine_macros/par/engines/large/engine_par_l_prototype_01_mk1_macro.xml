@@ -7,7 +7,7 @@
       <identification name="{77770101,87804}" basename="{77770101,87801}" shortname="{77770101,87803}" makerrace="paranid" description="{77770101,87802}" mk="1" />
       <boost duration="31" thrust="4" attack="11" release="1" />
       <travel charge="0" thrust="29" attack="79" release="36" />
-      <thrust forward="5041" reverse="5157" />
+      <thrust forward="4541" reverse="4657" />
       <angular />
       <hull max="4000" threshold="0.3" />
       <effects>

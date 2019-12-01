@@ -5,9 +5,9 @@
     <component ref="engine_par_l_travel_01_mk1" />
     <properties>
       <identification name="{77770101,87704}" basename="{77770101,87701}" shortname="{77770101,87703}" makerrace="paranid" description="{77770101,87702}" mk="2" />
-      <boost duration="36" thrust="9" attack="11" release="1" />
+      <boost duration="36" thrust="4" attack="11" release="1" />
       <travel charge="0" thrust="34" attack="74" release="31" />
-      <thrust forward="6152" reverse="6268" />
+      <thrust forward="4912" reverse="5134" />
       <angular />
       <hull max="5000" threshold="0.3" />
       <effects>

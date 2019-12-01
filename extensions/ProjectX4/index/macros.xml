@@ -54,6 +54,18 @@
 		<entry name="thruster_gen_s_prototype_01_mk1_macro" value="extensions\projectx4\engine_macros\thrusters\small\thruster_gen_s_prototype_01_mk1_macro" />
 		<entry name="thruster_gen_s_prototype_01_mk2_macro" value="extensions\projectx4\engine_macros\thrusters\small\thruster_gen_s_prototype_01_mk2_macro" />
 		<entry name="thruster_gen_s_prototype_01_mk3_macro" value="extensions\projectx4\engine_macros\thrusters\small\thruster_gen_s_prototype_01_mk3_macro" />
+		<!--M Thrusters-->
+		<entry name="thruster_gen_m_prototype_01_mk1_macro" value="extensions\projectx4\engine_macros\thrusters\medium\thruster_gen_m_prototype_01_mk1_macro" />
+		<entry name="thruster_gen_m_prototype_01_mk2_macro" value="extensions\projectx4\engine_macros\thrusters\medium\thruster_gen_m_prototype_01_mk2_macro" />
+		<entry name="thruster_gen_m_prototype_01_mk3_macro" value="extensions\projectx4\engine_macros\thrusters\medium\thruster_gen_m_prototype_01_mk3_macro" />
+		<!--L Thrusters-->
+		<entry name="thruster_gen_l_prototype_01_mk1_macro" value="extensions\projectx4\engine_macros\thrusters\large\thruster_gen_l_prototype_01_mk1_macro" />
+		<entry name="thruster_gen_l_prototype_01_mk2_macro" value="extensions\projectx4\engine_macros\thrusters\large\thruster_gen_l_prototype_01_mk2_macro" />
+		<entry name="thruster_gen_l_prototype_01_mk3_macro" value="extensions\projectx4\engine_macros\thrusters\large\thruster_gen_l_prototype_01_mk3_macro" />
+		<!--XL Thrusters-->
+		<entry name="thruster_gen_xl_prototype_01_mk1_macro" value="extensions\projectx4\engine_macros\thrusters\extralarge\thruster_gen_xl_prototype_01_mk1_macro" />
+		<entry name="thruster_gen_xl_prototype_01_mk2_macro" value="extensions\projectx4\engine_macros\thrusters\extralarge\thruster_gen_xl_prototype_01_mk2_macro" />
+		<entry name="thruster_gen_xl_prototype_01_mk3_macro" value="extensions\projectx4\engine_macros\thrusters\extralarge\thruster_gen_xl_prototype_01_mk3_macro" />
 		<!--S BeamGuns-->
 		<entry name="weapon_gen_s_arg_prototype_beam_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\arg\small\beamguns\weapon_gen_s_arg_prototype_beam_01_mk1_macro" />
 		<entry name="bullet_gen_s_arg_prototype_beam_01_mk1_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\arg\small\beamguns\bullet_gen_s_arg_prototype_beam_01_mk1_macro" />

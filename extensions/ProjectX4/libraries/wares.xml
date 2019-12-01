@@ -876,11 +876,11 @@
 					</primary>
 				</production>
 			<production time="10" amount="1" method="xenon" name="{20206,601}">
-			<primary>
-				<ware ware="energycells" amount="23" />
-				<ware ware="ore" amount="36" />
-				<ware ware="silicon" amount="40" />
-			</primary>
+				<primary>
+					<ware ware="energycells" amount="23" />
+					<ware ware="ore" amount="36" />
+					<ware ware="silicon" amount="40" />
+				</primary>
 			</production>
 			<component ref="thruster_gen_s_prototype_01_mk1_macro" amount="1" />
 			<restriction licence="militaryequipment" />
@@ -905,11 +905,11 @@
 					</primary>
 				</production>
 			<production time="10" amount="1" method="xenon" name="{20206,601}">
-			<primary>
-				<ware ware="energycells" amount="27" />
-				<ware ware="ore" amount="41" />
-				<ware ware="silicon" amount="44" />
-			</primary>
+				<primary>
+					<ware ware="energycells" amount="27" />
+					<ware ware="ore" amount="41" />
+					<ware ware="silicon" amount="44" />
+				</primary>
 			</production>
 			<component ref="thruster_gen_s_prototype_01_mk2_macro" amount="1" />
 			<restriction licence="militaryequipment" />
@@ -934,11 +934,11 @@
 					</primary>
 				</production>
 			<production time="10" amount="1" method="xenon" name="{20206,601}">
-			<primary>
-				<ware ware="energycells" amount="34" />
-				<ware ware="ore" amount="48" />
-				<ware ware="silicon" amount="49" />
-			</primary>
+				<primary>
+					<ware ware="energycells" amount="34" />
+					<ware ware="ore" amount="48" />
+					<ware ware="silicon" amount="49" />
+				</primary>
 			</production>
 			<component ref="thruster_gen_s_prototype_01_mk3_macro" amount="1" />
 			<restriction licence="militaryequipment" />
@@ -952,6 +952,186 @@
 			<owner faction="paranid" />
 			<owner faction="scaleplate" />
 			<owner faction="teladi" />
+		</ware>
+		<ware id="thruster_gen_m_prototype_01_mk1" name="{77770501, 98804}" description="{77770501, 98802}" group="thrusters" transport="equipment" volume="1" tags="equipment thruster">
+			<price min="300000" average="350000" max="400000" />
+				<production time="12" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="110" />
+						<ware ware="energycells" amount="30" />
+						<ware ware="engineparts" amount="110" />
+					</primary>
+				</production>
+			<production time="12" amount="1" method="xenon" name="{20206,601}">
+				<primary>
+					<ware ware="energycells" amount="30" />
+					<ware ware="ore" amount="70" />
+					<ware ware="silicon" amount="70" />
+				</primary>
+			</production>
+			<component ref="thruster_gen_m_prototype_01_mk1_macro" amount="1" />
+			<use threshold="0.7" />
+			<restriction licence="militaryequipment" />
+		</ware>
+		<ware id="thruster_gen_m_prototype_01_mk2" name="{77770501, 98704}" description="{77770501, 98702}" group="thrusters" transport="equipment" volume="1" tags="equipment thruster">
+			<price min="400000" average="450000" max="500000" />
+				<production time="13" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="120" />
+						<ware ware="energycells" amount="40" />
+						<ware ware="engineparts" amount="120" />
+					</primary>
+				</production>
+			<production time="13" amount="1" method="xenon" name="{20206,601}">
+				<primary>
+					<ware ware="energycells" amount="40" />
+					<ware ware="ore" amount="80" />
+					<ware ware="silicon" amount="80" />
+				</primary>
+			</production>
+			<component ref="thruster_gen_m_prototype_01_mk2_macro" amount="1" />
+			<use threshold="0.7" />
+			<restriction licence="militaryequipment" />
+		</ware>
+		<ware id="thruster_gen_m_prototype_01_mk3" name="{77770501, 98604}" description="{77770501, 98602}" group="thrusters" transport="equipment" volume="1" tags="equipment thruster">
+			<price min="500000" average="550000" max="600000" />
+				<production time="14" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="130" />
+						<ware ware="energycells" amount="50" />
+						<ware ware="engineparts" amount="130" />
+					</primary>
+				</production>
+			<production time="14" amount="1" method="xenon" name="{20206,601}">
+				<primary>
+					<ware ware="energycells" amount="50" />
+					<ware ware="ore" amount="90" />
+					<ware ware="silicon" amount="90" />
+				</primary>
+			</production>
+			<component ref="thruster_gen_m_prototype_01_mk3_macro" amount="1" />
+			<use threshold="0.7" />
+			<restriction licence="militaryequipment" />
+		</ware>
+		<ware id="thruster_gen_l_prototype_01_mk1" name="{77770501, 97804}" description="{77770501, 97802}" group="thrusters" transport="equipment" volume="1" tags="equipment thruster">
+			<price min="70000000" average="7500000" max="8000000" />
+				<production time="22" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="3100" />
+						<ware ware="energycells" amount="50" />
+						<ware ware="engineparts" amount="1300" />
+					</primary>
+				</production>
+			<production time="12" amount="1" method="xenon" name="{20206,601}">
+				<primary>
+					<ware ware="energycells" amount="50" />
+					<ware ware="ore" amount="1396" />
+					<ware ware="silicon" amount="1396" />
+				</primary>
+			</production>
+			<component ref="thruster_gen_l_prototype_01_mk1_macro" amount="1" />
+			<use threshold="0.7" />
+			<restriction licence="militaryequipment" />
+		</ware>
+		<ware id="thruster_gen_l_prototype_01_mk2" name="{77770501, 97704}" description="{77770501, 97702}" group="thrusters" transport="equipment" volume="1" tags="equipment thruster">
+			<price min="80000000" average="8500000" max="9000000" />
+				<production time="23" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="3200" />
+						<ware ware="energycells" amount="60" />
+						<ware ware="engineparts" amount="1400" />
+					</primary>
+				</production>
+			<production time="13" amount="1" method="xenon" name="{20206,601}">
+				<primary>
+					<ware ware="energycells" amount="60" />
+					<ware ware="ore" amount="1496" />
+					<ware ware="silicon" amount="1496" />
+				</primary>
+			</production>
+			<component ref="thruster_gen_l_prototype_01_mk2_macro" amount="1" />
+			<use threshold="0.7" />
+			<restriction licence="militaryequipment" />
+		</ware>
+		<ware id="thruster_gen_l_prototype_01_mk3" name="{77770501, 97604}" description="{77770501, 97602}" group="thrusters" transport="equipment" volume="1" tags="equipment thruster">
+			<price min="90000000" average="9500000" max="10000000" />
+				<production time="24" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="3300" />
+						<ware ware="energycells" amount="70" />
+						<ware ware="engineparts" amount="1500" />
+					</primary>
+				</production>
+			<production time="14" amount="1" method="xenon" name="{20206,601}">
+				<primary>
+					<ware ware="energycells" amount="70" />
+					<ware ware="ore" amount="1596" />
+					<ware ware="silicon" amount="1596" />
+				</primary>
+			</production>
+			<component ref="thruster_gen_l_prototype_01_mk3_macro" amount="1" />
+			<use threshold="0.7" />
+			<restriction licence="militaryequipment" />
+		</ware>
+		<ware id="thruster_gen_xl_prototype_01_mk1" name="{77770501, 96804}" description="{77770501, 96802}" group="thrusters" transport="equipment" volume="1" tags="equipment thruster">
+			<price min="15000000" average="20000000" max="25000000" />
+				<production time="32" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="6600" />
+						<ware ware="energycells" amount="50" />
+						<ware ware="engineparts" amount="2500" />
+					</primary>
+				</production>
+			<production time="12" amount="1" method="xenon" name="{20206,601}">
+				<primary>
+					<ware ware="energycells" amount="50" />
+					<ware ware="ore" amount="2848" />
+					<ware ware="silicon" amount="2848" />
+				</primary>
+			</production>
+			<component ref="thruster_gen_xl_prototype_01_mk1_macro" amount="1" />
+			<use threshold="0.7" />
+			<restriction licence="militaryequipment" />
+		</ware>
+		<ware id="thruster_gen_xl_prototype_01_mk2" name="{77770501, 96704}" description="{77770501, 96702}" group="thrusters" transport="equipment" volume="1" tags="equipment thruster">
+			<price min="25000000" average="30000000" max="35000000" />
+				<production time="33" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="6700" />
+						<ware ware="energycells" amount="60" />
+						<ware ware="engineparts" amount="2600" />
+					</primary>
+				</production>
+			<production time="13" amount="1" method="xenon" name="{20206,601}">
+				<primary>
+					<ware ware="energycells" amount="60" />
+					<ware ware="ore" amount="2948" />
+					<ware ware="silicon" amount="2948" />
+				</primary>
+			</production>
+			<component ref="thruster_gen_xl_prototype_01_mk2_macro" amount="1" />
+			<use threshold="0.7" />
+			<restriction licence="militaryequipment" />
+		</ware>
+		<ware id="thruster_gen_xl_prototype_01_mk3" name="{77770501, 96604}" description="{77770501, 96602}" group="thrusters" transport="equipment" volume="1" tags="equipment thruster">
+			<price min="35000000" average="40000000" max="45000000" />
+				<production time="34" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="6800" />
+						<ware ware="energycells" amount="70" />
+						<ware ware="engineparts" amount="2700" />
+					</primary>
+				</production>
+			<production time="14" amount="1" method="xenon" name="{20206,601}">
+				<primary>
+					<ware ware="energycells" amount="70" />
+					<ware ware="ore" amount="3048" />
+					<ware ware="silicon" amount="3048" />
+				</primary>
+			</production>
+			<component ref="thruster_gen_xl_prototype_01_mk3_macro" amount="1" />
+			<use threshold="0.7" />
+			<restriction licence="militaryequipment" />
 		</ware>
 		<ware id="shield_arg_s_prototype_01_mk1" name="{77770301,99804}" description="{77770301,99802}" group="shields" transport="equipment" volume="1" tags="equipment shield">
 			<price min="60000" average="65000" max="75000" />

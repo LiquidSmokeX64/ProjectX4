@@ -7,7 +7,7 @@
       <identification name="{77770101,97804}" basename="{77770101,97801}" shortname="{77770101,97803}" makerrace="argon" description="{77770101,97802}" mk="1" />
       <boost duration="30" thrust="5" attack="10" release="1" />
       <travel charge="0" thrust="30" attack="80" release="35" />
-      <thrust forward="5141" reverse="5257" />
+      <thrust forward="4641" reverse="4757" />
       <angular />
       <hull max="5000" threshold="0.3" />
       <effects>
