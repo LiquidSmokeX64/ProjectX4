@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
+  <macro name="engine_tel_l_prototype_01_mk2_macro" class="engine">
+    <component ref="engine_tel_l_travel_01_mk1" />
+    <properties>
+      <identification name="{77770101,77704}" basename="{77770101,77701}" shortname="{77770101,77703}" makerrace="teladi" description="{77770101,77702}" mk="2" />
+      <boost duration="34" thrust="11" attack="9" release="1" />
+      <travel charge="0" thrust="36" attack="76" release="29" />
+      <thrust forward="6352" reverse="6468" />
+      <angular />
+      <hull max="7000" threshold="0.3" />
+      <effects>
+        <boosting ref="arg_boost_fx_l" />
+      </effects>
+      <sounds>
+        <enginedetail ref="enginedetail_ship_l_01" />
+      </sounds>
+    </properties>
+  </macro>
+</macros>

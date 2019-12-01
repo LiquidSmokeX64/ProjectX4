@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
+  <macro name="engine_arg_xl_prototype_01_mk3_macro" class="engine">
+    <component ref="engine_arg_xl_travel_01_mk1" />
+    <properties>
+      <identification name="{77770101,96604}" basename="{77770101,96601}" shortname="{77770101,96603}" makerrace="argon" description="{77770101,96602}" mk="3" />
+      <boost duration="40" thrust="15" attack="10" release="1" />
+      <travel charge="0" thrust="45" attack="60" release="25" />
+      <thrust forward="47000" reverse="47623" />
+      <angular />
+      <hull max="20955" threshold="0.3" />
+      <effects>
+        <boosting ref="arg_boost_fx_xl" />
+      </effects>
+      <sounds>
+        <enginedetail ref="enginedetail_ship_xl_01" />
+      </sounds>
+    </properties>
+  </macro>
+</macros>

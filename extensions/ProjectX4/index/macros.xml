@@ -6,18 +6,54 @@
         <entry name="engine_arg_s_prototype_01_mk1_macro" value="extensions\projectx4\engine_macros\arg\engines\small\engine_arg_s_prototype_01_mk1_macro" />
 		<entry name="engine_arg_s_prototype_01_mk2_macro" value="extensions\projectx4\engine_macros\arg\engines\small\engine_arg_s_prototype_01_mk2_macro" />
 		<entry name="engine_arg_s_prototype_01_mk3_macro" value="extensions\projectx4\engine_macros\arg\engines\small\engine_arg_s_prototype_01_mk3_macro" />
+		<!--ARG M Engines-->
+        <entry name="engine_arg_m_prototype_01_mk1_macro" value="extensions\projectx4\engine_macros\arg\engines\medium\engine_arg_m_prototype_01_mk1_macro" />
+		<entry name="engine_arg_m_prototype_01_mk2_macro" value="extensions\projectx4\engine_macros\arg\engines\medium\engine_arg_m_prototype_01_mk2_macro" />
+		<entry name="engine_arg_m_prototype_01_mk3_macro" value="extensions\projectx4\engine_macros\arg\engines\medium\engine_arg_m_prototype_01_mk3_macro" />
+		<!--ARG L Engines-->
+        <entry name="engine_arg_l_prototype_01_mk1_macro" value="extensions\projectx4\engine_macros\arg\engines\large\engine_arg_l_prototype_01_mk1_macro" />
+		<entry name="engine_arg_l_prototype_01_mk2_macro" value="extensions\projectx4\engine_macros\arg\engines\large\engine_arg_l_prototype_01_mk2_macro" />
+		<entry name="engine_arg_l_prototype_01_mk3_macro" value="extensions\projectx4\engine_macros\arg\engines\large\engine_arg_l_prototype_01_mk3_macro" />
+		<!--ARG XL Engines-->
+        <entry name="engine_arg_xl_prototype_01_mk1_macro" value="extensions\projectx4\engine_macros\arg\engines\extralarge\engine_arg_xl_prototype_01_mk1_macro" />
+		<entry name="engine_arg_xl_prototype_01_mk2_macro" value="extensions\projectx4\engine_macros\arg\engines\extralarge\engine_arg_xl_prototype_01_mk2_macro" />
+		<entry name="engine_arg_xl_prototype_01_mk3_macro" value="extensions\projectx4\engine_macros\arg\engines\extralarge\engine_arg_xl_prototype_01_mk3_macro" />
 		<!--PAR S Engines-->
         <entry name="engine_par_s_prototype_01_mk1_macro" value="extensions\projectx4\engine_macros\par\engines\small\engine_par_s_prototype_01_mk1_macro" />
 		<entry name="engine_par_s_prototype_01_mk2_macro" value="extensions\projectx4\engine_macros\par\engines\small\engine_par_s_prototype_01_mk2_macro" />
 		<entry name="engine_par_s_prototype_01_mk3_macro" value="extensions\projectx4\engine_macros\par\engines\small\engine_par_s_prototype_01_mk3_macro" />
+		<!--PAR M Engines-->
+        <entry name="engine_par_m_prototype_01_mk1_macro" value="extensions\projectx4\engine_macros\par\engines\medium\engine_par_m_prototype_01_mk1_macro" />
+		<entry name="engine_par_m_prototype_01_mk2_macro" value="extensions\projectx4\engine_macros\par\engines\medium\engine_par_m_prototype_01_mk2_macro" />
+		<entry name="engine_par_m_prototype_01_mk3_macro" value="extensions\projectx4\engine_macros\par\engines\medium\engine_par_m_prototype_01_mk3_macro" />
+		<!--PAR L Engines-->
+        <entry name="engine_par_l_prototype_01_mk1_macro" value="extensions\projectx4\engine_macros\par\engines\large\engine_par_l_prototype_01_mk1_macro" />
+		<entry name="engine_par_l_prototype_01_mk2_macro" value="extensions\projectx4\engine_macros\par\engines\large\engine_par_l_prototype_01_mk2_macro" />
+		<entry name="engine_par_l_prototype_01_mk3_macro" value="extensions\projectx4\engine_macros\par\engines\large\engine_par_l_prototype_01_mk3_macro" />
+		<!--PAR XL Engines-->
+        <entry name="engine_par_xl_prototype_01_mk1_macro" value="extensions\projectx4\engine_macros\par\engines\extralarge\engine_par_xl_prototype_01_mk1_macro" />
+		<entry name="engine_par_xl_prototype_01_mk2_macro" value="extensions\projectx4\engine_macros\par\engines\extralarge\engine_par_xl_prototype_01_mk2_macro" />
+		<entry name="engine_par_xl_prototype_01_mk3_macro" value="extensions\projectx4\engine_macros\par\engines\extralarge\engine_par_xl_prototype_01_mk3_macro" />
 		<!--TEL S Engines-->
         <entry name="engine_tel_s_prototype_01_mk1_macro" value="extensions\projectx4\engine_macros\tel\engines\small\engine_tel_s_prototype_01_mk1_macro" />
 		<entry name="engine_tel_s_prototype_01_mk2_macro" value="extensions\projectx4\engine_macros\tel\engines\small\engine_tel_s_prototype_01_mk2_macro" />
 		<entry name="engine_tel_s_prototype_01_mk3_macro" value="extensions\projectx4\engine_macros\tel\engines\small\engine_tel_s_prototype_01_mk3_macro" />
+		<!--TEL M Engines-->
+        <entry name="engine_tel_m_prototype_01_mk1_macro" value="extensions\projectx4\engine_macros\tel\engines\medium\engine_tel_m_prototype_01_mk1_macro" />
+		<entry name="engine_tel_m_prototype_01_mk2_macro" value="extensions\projectx4\engine_macros\tel\engines\medium\engine_tel_m_prototype_01_mk2_macro" />
+		<entry name="engine_tel_m_prototype_01_mk3_macro" value="extensions\projectx4\engine_macros\tel\engines\medium\engine_tel_m_prototype_01_mk3_macro" />
+		<!--TEL L Engines-->
+        <entry name="engine_tel_l_prototype_01_mk1_macro" value="extensions\projectx4\engine_macros\tel\engines\large\engine_tel_l_prototype_01_mk1_macro" />
+		<entry name="engine_tel_l_prototype_01_mk2_macro" value="extensions\projectx4\engine_macros\tel\engines\large\engine_tel_l_prototype_01_mk2_macro" />
+		<entry name="engine_tel_l_prototype_01_mk3_macro" value="extensions\projectx4\engine_macros\tel\engines\large\engine_tel_l_prototype_01_mk3_macro" />
+		<!--TEL XL Engines-->
+        <entry name="engine_tel_xl_prototype_01_mk1_macro" value="extensions\projectx4\engine_macros\tel\engines\extralarge\engine_tel_xl_prototype_01_mk1_macro" />
+		<entry name="engine_tel_xl_prototype_01_mk2_macro" value="extensions\projectx4\engine_macros\tel\engines\extralarge\engine_tel_xl_prototype_01_mk2_macro" />
+		<entry name="engine_tel_xl_prototype_01_mk3_macro" value="extensions\projectx4\engine_macros\tel\engines\extralarge\engine_tel_xl_prototype_01_mk3_macro" />
 		<!--S Thrusters-->
-		<entry name="thruster_gen_s_arg_prototype_01_mk1_macro" value="extensions\projectx4\engine_macros\arg\thrusters\small\thruster_gen_s_arg_prototype_01_mk1_macro" />
-		<entry name="thruster_gen_s_arg_prototype_01_mk2_macro" value="extensions\projectx4\engine_macros\arg\thrusters\small\thruster_gen_s_arg_prototype_01_mk2_macro" />
-		<entry name="thruster_gen_s_arg_prototype_01_mk3_macro" value="extensions\projectx4\engine_macros\arg\thrusters\small\thruster_gen_s_arg_prototype_01_mk3_macro" />
+		<entry name="thruster_gen_s_prototype_01_mk1_macro" value="extensions\projectx4\engine_macros\thrusters\small\thruster_gen_s_prototype_01_mk1_macro" />
+		<entry name="thruster_gen_s_prototype_01_mk2_macro" value="extensions\projectx4\engine_macros\thrusters\small\thruster_gen_s_prototype_01_mk2_macro" />
+		<entry name="thruster_gen_s_prototype_01_mk3_macro" value="extensions\projectx4\engine_macros\thrusters\small\thruster_gen_s_prototype_01_mk3_macro" />
 		<!--S BeamGuns-->
 		<entry name="weapon_gen_s_arg_prototype_beam_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\arg\small\beamguns\weapon_gen_s_arg_prototype_beam_01_mk1_macro" />
 		<entry name="bullet_gen_s_arg_prototype_beam_01_mk1_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\arg\small\beamguns\bullet_gen_s_arg_prototype_beam_01_mk1_macro" />

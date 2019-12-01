@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Created by: ManDaxi-->
 <macros>
-  <macro name="thruster_gen_s_arg_prototype_01_mk1_macro" class="engine">
+  <macro name="thruster_gen_s_prototype_01_mk1_macro" class="engine">
     <component ref="thruster_gen_s_allround_01_mk3" />
     <properties>
       <identification name="{77770501, 99804}" basename="{77770501, 99801}" shortname="{77770501, 99803}" description="{77770501, 99802}" unique="0" mk="1" />

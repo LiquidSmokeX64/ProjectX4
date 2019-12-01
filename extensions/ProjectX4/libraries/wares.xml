@@ -146,6 +146,438 @@
 			<owner faction="ministry" />
 			<owner faction="teladi" />
 		</ware>
+		<ware id="engine_arg_m_prototype_01_mk1" name="{77770101,98804}" description="{77770101,98802}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="400000" average="450000" max="500000" />
+				<production time="16" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="115" />
+						<ware ware="energycells" amount="70" />
+						<ware ware="engineparts" amount="135" />
+					</primary>
+				</production>
+			<component ref="engine_arg_m_prototype_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.7" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="engine_arg_m_prototype_01_mk2" name="{77770101,98704}" description="{77770101,98702}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="500000" average="550000" max="600000" />
+				<production time="17" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="125" />
+						<ware ware="energycells" amount="80" />
+						<ware ware="engineparts" amount="145" />
+					</primary>
+				</production>
+			<component ref="engine_arg_m_prototype_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.7" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="engine_arg_m_prototype_01_mk3" name="{77770101,98604}" description="{77770101,98602}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="600000" average="650000" max="700000" />
+				<production time="18" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="135" />
+						<ware ware="energycells" amount="90" />
+						<ware ware="engineparts" amount="155" />
+					</primary>
+				</production>
+			<component ref="engine_arg_m_prototype_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.7" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="engine_par_m_prototype_01_mk1" name="{77770101,88804}" description="{77770101,88802}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="400000" average="450000" max="500000" />
+				<production time="16" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="115" />
+						<ware ware="energycells" amount="70" />
+						<ware ware="engineparts" amount="135" />
+					</primary>
+				</production>
+			<component ref="engine_par_m_prototype_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.7" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="engine_par_m_prototype_01_mk2" name="{77770101,88704}" description="{77770101,88702}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="500000" average="550000" max="600000" />
+				<production time="17" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="125" />
+						<ware ware="energycells" amount="80" />
+						<ware ware="engineparts" amount="145" />
+					</primary>
+				</production>
+			<component ref="engine_par_m_prototype_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.7" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="engine_par_m_prototype_01_mk3" name="{77770101,88604}" description="{77770101,88602}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="600000" average="650000" max="700000" />
+				<production time="18" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="135" />
+						<ware ware="energycells" amount="90" />
+						<ware ware="engineparts" amount="155" />
+					</primary>
+				</production>
+			<component ref="engine_par_m_prototype_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.7" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="engine_tel_m_prototype_01_mk1" name="{77770101,78804}" description="{77770101,78802}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="400000" average="450000" max="500000" />
+				<production time="16" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="115" />
+						<ware ware="energycells" amount="70" />
+						<ware ware="engineparts" amount="135" />
+					</primary>
+				</production>
+			<component ref="engine_tel_m_prototype_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.7" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="engine_tel_m_prototype_01_mk2" name="{77770101,78704}" description="{77770101,78702}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="500000" average="550000" max="600000" />
+				<production time="17" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="125" />
+						<ware ware="energycells" amount="80" />
+						<ware ware="engineparts" amount="145" />
+					</primary>
+				</production>
+			<component ref="engine_tel_m_prototype_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.7" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="engine_tel_m_prototype_01_mk3" name="{77770101,78604}" description="{77770101,78602}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="600000" average="650000" max="700000" />
+				<production time="18" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="135" />
+						<ware ware="energycells" amount="90" />
+						<ware ware="engineparts" amount="155" />
+					</primary>
+				</production>
+			<component ref="engine_tel_m_prototype_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.7" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="engine_arg_l_prototype_01_mk1" name="{77770101,97804}" description="{77770101,97802}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="400000" average="450000" max="500000" />
+				<production time="22" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="158" />
+						<ware ware="energycells" amount="47" />
+						<ware ware="engineparts" amount="86" />
+					</primary>
+				</production>
+			<component ref="engine_arg_l_prototype_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="engine_arg_l_prototype_01_mk2" name="{77770101,97704}" description="{77770101,97702}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="500000" average="550000" max="600000" />
+				<production time="23" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="168" />
+						<ware ware="energycells" amount="57" />
+						<ware ware="engineparts" amount="96" />
+					</primary>
+				</production>
+			<component ref="engine_arg_l_prototype_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="engine_arg_l_prototype_01_mk3" name="{77770101,97604}" description="{77770101,97602}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="600000" average="650000" max="700000" />
+				<production time="24" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="178" />
+						<ware ware="energycells" amount="67" />
+						<ware ware="engineparts" amount="106" />
+					</primary>
+				</production>
+			<component ref="engine_arg_l_prototype_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="engine_par_l_prototype_01_mk1" name="{77770101,87804}" description="{77770101,87802}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="400000" average="450000" max="500000" />
+				<production time="22" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="158" />
+						<ware ware="energycells" amount="47" />
+						<ware ware="engineparts" amount="86" />
+					</primary>
+				</production>
+			<component ref="engine_par_l_prototype_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="engine_par_l_prototype_01_mk2" name="{77770101,87704}" description="{77770101,87702}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="500000" average="550000" max="600000" />
+				<production time="23" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="168" />
+						<ware ware="energycells" amount="57" />
+						<ware ware="engineparts" amount="96" />
+					</primary>
+				</production>
+			<component ref="engine_par_l_prototype_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="engine_par_l_prototype_01_mk3" name="{77770101,87604}" description="{77770101,87602}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="600000" average="650000" max="700000" />
+				<production time="24" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="178" />
+						<ware ware="energycells" amount="67" />
+						<ware ware="engineparts" amount="106" />
+					</primary>
+				</production>
+			<component ref="engine_par_l_prototype_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="engine_tel_l_prototype_01_mk1" name="{77770101,77804}" description="{77770101,77802}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="400000" average="450000" max="500000" />
+				<production time="22" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="158" />
+						<ware ware="energycells" amount="47" />
+						<ware ware="engineparts" amount="86" />
+					</primary>
+				</production>
+			<component ref="engine_tel_l_prototype_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="engine_tel_l_prototype_01_mk2" name="{77770101,77704}" description="{77770101,77702}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="500000" average="550000" max="600000" />
+				<production time="23" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="168" />
+						<ware ware="energycells" amount="57" />
+						<ware ware="engineparts" amount="96" />
+					</primary>
+				</production>
+			<component ref="engine_tel_l_prototype_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="engine_tel_l_prototype_01_mk3" name="{77770101,77604}" description="{77770101,77602}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="600000" average="650000" max="700000" />
+				<production time="24" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="178" />
+						<ware ware="energycells" amount="67" />
+						<ware ware="engineparts" amount="106" />
+					</primary>
+				</production>
+			<component ref="engine_tel_l_prototype_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="engine_arg_xl_prototype_01_mk1" name="{77770101,96804}" description="{77770101,96802}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="500000" average="550000" max="600000" />
+				<production time="32" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="205" />
+						<ware ware="energycells" amount="60" />
+						<ware ware="engineparts" amount="111" />
+					</primary>
+				</production>
+			<component ref="engine_arg_xl_prototype_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="engine_arg_xl_prototype_01_mk2" name="{77770101,96704}" description="{77770101,96702}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="600000" average="650000" max="700000" />
+				<production time="33" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="215" />
+						<ware ware="energycells" amount="70" />
+						<ware ware="engineparts" amount="121" />
+					</primary>
+				</production>
+			<component ref="engine_arg_xl_prototype_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="engine_arg_xl_prototype_01_mk3" name="{77770101,96604}" description="{77770101,96602}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="700000" average="750000" max="800000" />
+				<production time="34" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="225" />
+						<ware ware="energycells" amount="80" />
+						<ware ware="engineparts" amount="131" />
+					</primary>
+				</production>
+			<component ref="engine_arg_xl_prototype_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="engine_par_xl_prototype_01_mk1" name="{77770101,86804}" description="{77770101,86802}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="500000" average="550000" max="600000" />
+				<production time="32" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="205" />
+						<ware ware="energycells" amount="60" />
+						<ware ware="engineparts" amount="111" />
+					</primary>
+				</production>
+			<component ref="engine_par_xl_prototype_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="engine_par_xl_prototype_01_mk2" name="{77770101,86704}" description="{77770101,86702}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="600000" average="650000" max="700000" />
+				<production time="33" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="215" />
+						<ware ware="energycells" amount="70" />
+						<ware ware="engineparts" amount="121" />
+					</primary>
+				</production>
+			<component ref="engine_par_xl_prototype_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="engine_par_xl_prototype_01_mk3" name="{77770101,86604}" description="{77770101,86602}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="700000" average="750000" max="800000" />
+				<production time="34" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="225" />
+						<ware ware="energycells" amount="80" />
+						<ware ware="engineparts" amount="131" />
+					</primary>
+				</production>
+			<component ref="engine_par_xl_prototype_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="engine_tel_xl_prototype_01_mk1" name="{77770101,76804}" description="{77770101,76802}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="500000" average="550000" max="600000" />
+				<production time="32" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="205" />
+						<ware ware="energycells" amount="60" />
+						<ware ware="engineparts" amount="111" />
+					</primary>
+				</production>
+			<component ref="engine_tel_xl_prototype_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="engine_tel_xl_prototype_01_mk2" name="{77770101,76704}" description="{77770101,76702}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="600000" average="650000" max="700000" />
+				<production time="33" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="215" />
+						<ware ware="energycells" amount="70" />
+						<ware ware="engineparts" amount="121" />
+					</primary>
+				</production>
+			<component ref="engine_tel_xl_prototype_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="engine_tel_xl_prototype_01_mk3" name="{77770101,76604}" description="{77770101,76602}" group="engines" transport="equipment" volume="1" tags="engine equipment">
+			<price min="700000" average="750000" max="800000" />
+				<production time="34" amount="1" method="default" name="{20206,101}">
+					<primary>
+						<ware ware="antimatterconverters" amount="225" />
+						<ware ware="energycells" amount="80" />
+						<ware ware="engineparts" amount="131" />
+					</primary>
+				</production>
+			<component ref="engine_tel_xl_prototype_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
 		<ware id="weapon_gen_s_arg_prototype_beam_01_mk1" name="{77770201,99804}" description="{77770201,99802}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
 			<price min="150000" average="200000" max="250000" />
 			<production time="10" amount="1" method="default" name="{20206,101}">
@@ -434,7 +866,7 @@
 			<owner faction="ministry" />
 			<owner faction="teladi" />
 		</ware>
-		<ware id="thruster_gen_s_arg_prototype_01_mk1" name="{77770501, 99804}" description="{77770501, 99802}" group="thrusters" transport="equipment" volume="1" tags="equipment thruster">
+		<ware id="thruster_gen_s_prototype_01_mk1" name="{77770501, 99804}" description="{77770501, 99802}" group="thrusters" transport="equipment" volume="1" tags="equipment thruster">
 			<price min="250000" average="300000" max="350000" />
 				<production time="5" amount="1" method="default" name="{20206,101}">
 					<primary>
@@ -450,7 +882,7 @@
 				<ware ware="silicon" amount="40" />
 			</primary>
 			</production>
-			<component ref="thruster_gen_s_arg_prototype_01_mk1_macro" amount="1" />
+			<component ref="thruster_gen_s_prototype_01_mk1_macro" amount="1" />
 			<restriction licence="militaryequipment" />
 			<use threshold="0.7" />
 			<owner faction="alliance" />
@@ -463,7 +895,7 @@
 			<owner faction="scaleplate" />
 			<owner faction="teladi" />
 		</ware>
-		<ware id="thruster_gen_s_arg_prototype_01_mk2" name="{77770501, 99704}" description="{77770501, 99702}" group="thrusters" transport="equipment" volume="1" tags="equipment thruster">
+		<ware id="thruster_gen_s_prototype_01_mk2" name="{77770501, 99704}" description="{77770501, 99702}" group="thrusters" transport="equipment" volume="1" tags="equipment thruster">
 			<price min="350000" average="400000" max="450000" />
 				<production time="5" amount="1" method="default" name="{20206,101}">
 					<primary>
@@ -479,7 +911,7 @@
 				<ware ware="silicon" amount="44" />
 			</primary>
 			</production>
-			<component ref="thruster_gen_s_arg_prototype_01_mk2_macro" amount="1" />
+			<component ref="thruster_gen_s_prototype_01_mk2_macro" amount="1" />
 			<restriction licence="militaryequipment" />
 			<use threshold="0.7" />
 			<owner faction="alliance" />
@@ -492,7 +924,7 @@
 			<owner faction="scaleplate" />
 			<owner faction="teladi" />
 		</ware>
-		<ware id="thruster_gen_s_arg_prototype_01_mk3" name="{77770501, 99604}" description="{77770501, 99602}" group="thrusters" transport="equipment" volume="1" tags="equipment thruster">
+		<ware id="thruster_gen_s_prototype_01_mk3" name="{77770501, 99604}" description="{77770501, 99602}" group="thrusters" transport="equipment" volume="1" tags="equipment thruster">
 			<price min="450000" average="500000" max="550000" />
 				<production time="5" amount="1" method="default" name="{20206,101}">
 					<primary>
@@ -508,7 +940,7 @@
 				<ware ware="silicon" amount="49" />
 			</primary>
 			</production>
-			<component ref="thruster_gen_s_arg_prototype_01_mk3_macro" amount="1" />
+			<component ref="thruster_gen_s_prototype_01_mk3_macro" amount="1" />
 			<restriction licence="militaryequipment" />
 			<use threshold="0.7" />
 			<owner faction="alliance" />
