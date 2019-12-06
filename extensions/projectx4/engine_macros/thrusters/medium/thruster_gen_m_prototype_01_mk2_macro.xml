@@ -6,7 +6,7 @@
     <properties>
       <identification name="{77770501, 98704}" basename="{77770501, 98701}" shortname="{77770501, 98703}" description="{77770501, 98702}" unique="0" mk="2" />
       <component virtual="1" />
-      <thrust strafe="583.842" pitch="614.55" yaw="602.498" roll="667.292" />
+      <thrust strafe="683.842" pitch="714.55" yaw="702.498" roll="767.292" />
       <angular />
       <hull integrated="1" />
     </properties>
