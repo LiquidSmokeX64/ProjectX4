@@ -4,7 +4,7 @@
   <macro name="thruster_gen_m_prototype_01_mk1_macro" class="engine">
     <component ref="thruster_gen_m_allround_01_mk3" />
     <properties>
-      <identification name="{77770501, 98804}" basename="{77770501, 98801}" shortname="{77770501, 98803}" description="{77770501, 98802}" unique="0" mk="1" />
+      <identification name="{77770501, 98804}" basename="{77770501, 98801}" shortname="{77770501, 98805}" description="{77770501, 98802}" unique="0" mk="1" />
       <component virtual="1" />
       <thrust strafe="633.842" pitch="664.55" yaw="622.498" roll="687.292" />
       <angular />

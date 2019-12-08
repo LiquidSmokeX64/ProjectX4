@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Created by: ManDaxi-->
 <macros>
-  <macro name="weapon_gen_s_arg_prototype_beam_01_mk1_macro" class="weapon">
+  <macro name="weapon_gen_s_prototype_beam_01_mk3_macro" class="weapon">
     <component ref="weapon_gen_s_beam_01_mk2" />
     <properties>
-      <identification name="{77770201,99804}" basename="{77770201,99801}" shortname="{77770201,99803}" description="{77770201,99802}" mk="1" />
-      <bullet class="bullet_gen_s_arg_prototype_beam_01_mk1_macro" />
-      <heat overheat="15000" cooldelay="1.00" coolrate="2500" reenable="6500" />
+      <identification name="{77770201,99604}" basename="{77770201,99601}" shortname="{77770201,99605}" description="{77770201,99602}" mk="3" />
+      <bullet class="bullet_gen_s_prototype_beam_01_mk3_macro" />
+      <heat overheat="25000" cooldelay="0.80" coolrate="2800" reenable="6800" />
       <rotationspeed max="60" />
       <rotationacceleration max="30" />
       <reload />
-      <hull max="750" hittable="0" />
+      <hull max="850" hittable="0" />
       <effects>
         <firing start="startshooting_gen_s_beam_01_mk1" stop="stopshooting_gen_s_beam_01_mk1" />
       </effects>

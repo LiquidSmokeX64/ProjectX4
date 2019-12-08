@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Created by: ManDaxi-->
 <macros>
-  <macro name="bullet_gen_s_arg_prototype_beam_01_mk2_macro" class="bullet">
+  <macro name="bullet_gen_s_prototype_beam_01_mk3_macro" class="bullet">
     <component ref="bullet_gen_s_beam_01_mk2" />
     <properties>
-      <bullet speed="7650" lifetime="5" range="3650" amount="1" barrelamount="1" icon="weapon_beam_mk2" maxhits="1" ricochet="0" scale="1" attach="1" />
-      <heat initial="850" value="90" />
+      <bullet speed="7900" lifetime="5" range="3700" amount="1" barrelamount="1" icon="weapon_beam_mk2" maxhits="1" ricochet="0" scale="1" attach="1" />
+      <heat initial="800" value="80" />
       <reload time="4" />
-      <damage value="303" repair="0" />
+      <damage value="401" repair="0" />
       <effects>
         <impact ref="impact_gen_s_beam_01_mk1" inside="impact_gen_s_beam_01_mk1_inside" />
         <bigobjectimpact ref="impact_gen_s_beam_01_mk1_bigobject" inside="impact_gen_s_beam_01_mk1_bigobject_inside" />

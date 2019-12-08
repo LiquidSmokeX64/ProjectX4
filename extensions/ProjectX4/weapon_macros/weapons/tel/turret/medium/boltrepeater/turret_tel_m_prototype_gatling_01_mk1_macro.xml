@@ -4,7 +4,7 @@
   <macro name="turret_tel_m_prototype_gatling_01_mk1_macro" class="turret" alias="turret_tel_m_prototype_gatling_02_mk1_macro">
     <component ref="turret_tel_m_gatling_01_mk1" />
     <properties>
-      <identification name="{77770401,99004}" basename="{77770401,99001}" shortname="{77770401,99003}" makerrace="teladi" description="{77770401,99002}" mk="1" />
+      <identification name="{77770401,99004}" basename="{77770401,99001}" shortname="{77770401,99005}" makerrace="teladi" description="{77770401,99002}" mk="1" />
       <bullet class="bullet_gen_turret_m_prototype_gatling_01_mk1_macro" />
       <rotationspeed max="200" />
       <reload rate="0.90" time="0.90" />

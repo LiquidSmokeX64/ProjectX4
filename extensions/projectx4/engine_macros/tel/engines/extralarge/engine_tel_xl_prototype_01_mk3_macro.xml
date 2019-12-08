@@ -4,7 +4,7 @@
   <macro name="engine_tel_xl_prototype_01_mk3_macro" class="engine">
     <component ref="engine_tel_xl_travel_01_mk1" />
     <properties>
-      <identification name="{77770101,76604}" basename="{77770101,76601}" shortname="{77770101,76603}" makerrace="teladi" description="{77770101,76602}" mk="3" />
+      <identification name="{77770101,76604}" basename="{77770101,76601}" shortname="{77770101,76605}" makerrace="teladi" description="{77770101,76602}" mk="3" />
       <boost duration="39" thrust="6" attack="9" release="1" />
       <travel charge="0" thrust="46" attack="61" release="24" />
       <thrust forward="26000" reverse="27623" />

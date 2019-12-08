@@ -4,7 +4,7 @@
   <macro name="engine_arg_xl_prototype_01_mk2_macro" class="engine">
     <component ref="engine_arg_xl_travel_01_mk1" />
     <properties>
-      <identification name="{77770101,96704}" basename="{77770101,96701}" shortname="{77770101,96703}" makerrace="argon" description="{77770101,96702}" mk="2" />
+      <identification name="{77770101,96704}" basename="{77770101,96701}" shortname="{77770101,96705}" makerrace="argon" description="{77770101,96702}" mk="2" />
       <boost duration="35" thrust="5" attack="15" release="1" />
       <travel charge="0" thrust="40" attack="65" release="30" />
       <thrust forward="23000" reverse="24512" />

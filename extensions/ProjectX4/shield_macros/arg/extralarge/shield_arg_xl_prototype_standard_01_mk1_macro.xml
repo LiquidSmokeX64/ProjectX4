@@ -4,7 +4,7 @@
   <macro name="shield_arg_xl_prototype_standard_01_mk1_macro" class="shieldgenerator">
     <component ref="shield_arg_xl_standard_01_mk1" />
     <properties>
-      <identification name="{77770301,96804}" basename="{77770301,96801}" shortname="{77770301,96803}" makerrace="argon" description="{77770301,96802}" mk="1" />
+      <identification name="{77770301,96804}" basename="{77770301,96801}" shortname="{77770301,96805}" makerrace="argon" description="{77770301,96802}" mk="1" />
       <recharge max="200000" rate="500" delay="0" />
       <hull max="6344" threshold="0.2" />
     </properties>

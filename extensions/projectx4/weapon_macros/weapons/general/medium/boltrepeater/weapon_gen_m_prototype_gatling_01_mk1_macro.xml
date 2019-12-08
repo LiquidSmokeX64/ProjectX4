@@ -4,7 +4,7 @@
   <macro name="weapon_gen_m_prototype_gatling_01_mk1_macro" class="weapon">
     <component ref="weapon_gen_m_gatling_01_mk2" />
     <properties>
-      <identification name="{77770401,99504}" basename="{77770401,99501}" shortname="{77770401,99503}" description="{77770401,99502}" mk="1" />
+      <identification name="{77770401,99504}" basename="{77770401,99501}" shortname="{77770401,99505}" description="{77770401,99502}" mk="1" />
       <bullet class="bullet_gen_m_prototype_gatling_01_mk1_macro" />
       <heat overheat="15000" cooldelay="1.00" coolrate="2500" reenable="9000" />
       <rotationspeed max="75.0" />

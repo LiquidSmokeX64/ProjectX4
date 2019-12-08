@@ -4,7 +4,7 @@
   <macro name="engine_par_l_prototype_01_mk1_macro" class="engine">
     <component ref="engine_par_l_travel_01_mk1" />
     <properties>
-      <identification name="{77770101,87804}" basename="{77770101,87801}" shortname="{77770101,87803}" makerrace="paranid" description="{77770101,87802}" mk="1" />
+      <identification name="{77770101,87804}" basename="{77770101,87801}" shortname="{77770101,87805}" makerrace="paranid" description="{77770101,87802}" mk="1" />
       <boost duration="31" thrust="4" attack="11" release="1" />
       <travel charge="0" thrust="29" attack="79" release="36" />
       <thrust forward="4541" reverse="4657" />

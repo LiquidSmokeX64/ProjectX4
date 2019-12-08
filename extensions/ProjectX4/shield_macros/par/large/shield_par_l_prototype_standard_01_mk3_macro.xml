@@ -4,7 +4,7 @@
   <macro name="shield_par_l_prototype_standard_01_mk3_macro" class="shieldgenerator">
     <component ref="shield_arg_l_standard_01_mk2" />
     <properties>
-      <identification name="{77770301,87604}" basename="{77770301,87601}" shortname="{77770301,87603}" makerrace="paranid" description="{77770301,87602}" mk="3" />
+      <identification name="{77770301,87604}" basename="{77770301,87601}" shortname="{77770301,87605}" makerrace="paranid" description="{77770301,87602}" mk="3" />
       <recharge max="78500" rate="325" delay="0" />
       <hull max="2600" threshold="0.2" />
     </properties>

@@ -4,7 +4,7 @@
   <macro name="shield_tel_m_prototype_standard_02_mk1_macro" class="shieldgenerator">
     <component ref="shield_arg_m_standard_02_mk2" />
     <properties>
-      <identification name="{77770301,78804}" basename="{77770301,78801}" shortname="{77770301,78803}" makerrace="teladi" description="{77770301,78802}" mk="1" />
+      <identification name="{77770301,78804}" basename="{77770301,78801}" shortname="{77770301,78805}" makerrace="teladi" description="{77770301,78802}" mk="1" />
       <recharge max="7350" rate="45" delay="0.5" />
       <hull max="625" threshold="0.2" integrated="0" />
     </properties>
