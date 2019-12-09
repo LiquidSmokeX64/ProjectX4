@@ -802,6 +802,70 @@
 			<owner faction="antigone" />
 			<owner faction="argon" />
 		</ware>
+		<ware id="turret_arg_m_prototype_gatling_01_mk2" name="{77770401,98204}" description="{77770401,98202}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+			<price min="40000" average="42500" max="45000" />
+				<production time="10" amount="1" method="default" name="{77770000,55701}">
+					<primary>
+						<ware ware="advancedelectronics" amount="8" />
+						<ware ware="energycells" amount="12" />
+						<ware ware="turretcomponents" amount="19" />
+					</primary>
+				</production>
+			<component ref="turret_arg_m_prototype_gatling_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.15" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="turret_arg_m_prototype_gatling_02_mk2" name="{77770401,98204}" description="{77770401,98202}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+			<price min="40000" average="42500" max="45000" />
+				<production time="10" amount="1" method="default" name="{77770000,55701}">
+					<primary>
+						<ware ware="advancedelectronics" amount="14" />
+						<ware ware="energycells" amount="12" />
+						<ware ware="turretcomponents" amount="15" />
+					</primary>
+				</production>
+			<component ref="turret_arg_m_prototype_gatling_02_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.15" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="turret_arg_m_prototype_gatling_01_mk3" name="{77770401,97204}" description="{77770401,97202}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+			<price min="50000" average="52500" max="55000" />
+				<production time="10" amount="1" method="default" name="{77770000,55701}">
+					<primary>
+						<ware ware="advancedelectronics" amount="11" />
+						<ware ware="energycells" amount="15" />
+						<ware ware="turretcomponents" amount="22" />
+					</primary>
+				</production>
+			<component ref="turret_arg_m_prototype_gatling_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.15" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="turret_arg_m_prototype_gatling_02_mk3" name="{77770401,97204}" description="{77770401,97202}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+			<price min="50000" average="52500" max="55000" />
+				<production time="10" amount="1" method="default" name="{77770000,55701}">
+					<primary>
+						<ware ware="advancedelectronics" amount="17" />
+						<ware ware="energycells" amount="15" />
+						<ware ware="turretcomponents" amount="18" />
+					</primary>
+				</production>
+			<component ref="turret_arg_m_prototype_gatling_02_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.15" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
 		<ware id="turret_par_m_prototype_gatling_01_mk1" name="{77770401,99104}" description="{77770401,99102}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
 			<price min="30000" average="32500" max="35000" />
 				<production time="10" amount="1" method="default" name="{77770000,55701}">
@@ -834,6 +898,70 @@
 			<owner faction="holyorder" />
 			<owner faction="paranid" />
 		</ware>
+		<ware id="turret_par_m_prototype_gatling_01_mk2" name="{77770401,88204}" description="{77770401,88202}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+			<price min="40000" average="42500" max="45000" />
+				<production time="10" amount="1" method="default" name="{77770000,55701}">
+					<primary>
+						<ware ware="advancedelectronics" amount="8" />
+						<ware ware="energycells" amount="12" />
+						<ware ware="turretcomponents" amount="19" />
+					</primary>
+				</production>
+			<component ref="turret_par_m_prototype_gatling_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.15" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="turret_par_m_prototype_gatling_02_mk2" name="{77770401,88204}" description="{77770401,88202}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+			<price min="40000" average="42500" max="45000" />
+				<production time="10" amount="1" method="default" name="{77770000,55701}">
+					<primary>
+						<ware ware="advancedelectronics" amount="14" />
+						<ware ware="energycells" amount="12" />
+						<ware ware="turretcomponents" amount="15" />
+					</primary>
+				</production>
+			<component ref="turret_par_m_prototype_gatling_02_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.15" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="turret_par_m_prototype_gatling_01_mk3" name="{77770401,87204}" description="{77770401,87202}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+			<price min="50000" average="52500" max="55000" />
+				<production time="10" amount="1" method="default" name="{77770000,55701}">
+					<primary>
+						<ware ware="advancedelectronics" amount="11" />
+						<ware ware="energycells" amount="15" />
+						<ware ware="turretcomponents" amount="22" />
+					</primary>
+				</production>
+			<component ref="turret_par_m_prototype_gatling_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.15" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
+		<ware id="turret_par_m_prototype_gatling_02_mk3" name="{77770401,87204}" description="{77770401,87202}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+			<price min="50000" average="52500" max="55000" />
+				<production time="10" amount="1" method="default" name="{77770000,55701}">
+					<primary>
+						<ware ware="advancedelectronics" amount="17" />
+						<ware ware="energycells" amount="15" />
+						<ware ware="turretcomponents" amount="18" />
+					</primary>
+				</production>
+			<component ref="turret_par_m_prototype_gatling_02_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.15" />
+			<owner faction="alliance" />
+			<owner faction="holyorder" />
+			<owner faction="paranid" />
+		</ware>
 		<ware id="turret_tel_m_prototype_gatling_01_mk1" name="{77770401,99004}" description="{77770401,99002}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
 			<price min="30000" average="32500" max="35000" />
 				<production time="10" amount="1" method="default" name="{77770000,55701}">
@@ -860,6 +988,70 @@
 					</primary>
 				</production>
 			<component ref="turret_tel_m_prototype_gatling_02_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.15" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="turret_tel_m_prototype_gatling_01_mk2" name="{77770401,78204}" description="{77770401,78202}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+			<price min="40000" average="42500" max="45000" />
+				<production time="10" amount="1" method="default" name="{77770000,55701}">
+					<primary>
+						<ware ware="advancedelectronics" amount="8" />
+						<ware ware="energycells" amount="12" />
+						<ware ware="turretcomponents" amount="19" />
+					</primary>
+				</production>
+			<component ref="turret_tel_m_prototype_gatling_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.15" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="turret_tel_m_prototype_gatling_02_mk2" name="{77770401,78204}" description="{77770401,78202}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+			<price min="40000" average="42500" max="45000" />
+				<production time="10" amount="1" method="default" name="{77770000,55701}">
+					<primary>
+						<ware ware="advancedelectronics" amount="14" />
+						<ware ware="energycells" amount="12" />
+						<ware ware="turretcomponents" amount="15" />
+					</primary>
+				</production>
+			<component ref="turret_tel_m_prototype_gatling_02_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.15" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="turret_tel_m_prototype_gatling_01_mk3" name="{77770401,77204}" description="{77770401,77202}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+			<price min="50000" average="52500" max="55000" />
+				<production time="10" amount="1" method="default" name="{77770000,55701}">
+					<primary>
+						<ware ware="advancedelectronics" amount="11" />
+						<ware ware="energycells" amount="15" />
+						<ware ware="turretcomponents" amount="22" />
+					</primary>
+				</production>
+			<component ref="turret_tel_m_prototype_gatling_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.15" />
+			<owner faction="alliance" />
+			<owner faction="ministry" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="turret_tel_m_prototype_gatling_02_mk3" name="{77770401,77204}" description="{77770401,77202}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+			<price min="50000" average="52500" max="55000" />
+				<production time="10" amount="1" method="default" name="{77770000,55701}">
+					<primary>
+						<ware ware="advancedelectronics" amount="17" />
+						<ware ware="energycells" amount="15" />
+						<ware ware="turretcomponents" amount="18" />
+					</primary>
+				</production>
+			<component ref="turret_tel_m_prototype_gatling_02_mk3_macro" amount="1" />
 			<restriction licence="militaryequipment" />
 			<use threshold="0.15" />
 			<owner faction="alliance" />

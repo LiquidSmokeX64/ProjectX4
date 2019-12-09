@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
+  <macro name="turret_tel_m_prototype_gatling_01_mk3_macro" class="turret" alias="turret_tel_m_prototype_gatling_02_mk3_macro">
+    <component ref="turret_tel_m_gatling_01_mk1" />
+    <properties>
+      <identification name="{77770401,77204}" basename="{77770401,77201}" shortname="{77770401,77205}" makerrace="teladi" description="{77770401,77202}" mk="3" />
+      <bullet class="bullet_gen_turret_m_prototype_gatling_01_mk3_macro" />
+      <rotationspeed max="200" />
+      <reload rate="0.80" time="0.80" />
+      <hull threshold="0.2" integrated="1" />
+    </properties>
+  </macro>
+</macros>
