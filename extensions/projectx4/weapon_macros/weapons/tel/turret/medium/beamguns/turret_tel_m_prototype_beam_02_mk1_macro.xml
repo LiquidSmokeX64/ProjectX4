@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
+  <macro name="turret_tel_m_prototype_beam_02_mk1_macro" class="turret">
+    <component ref="turret_tel_m_beam_02_mk1" />
+    <properties>
+      <<identification name="{77770201,79504}" basename="{77770201,79501}" shortname="{77770201,79505}" makerrace="teladi" description="{77770201,79502}" mk="1" />
+      <bullet class="bullet_gen_turret_m_prototype_beam_01_mk1_macro" />
+      <rotationspeed max="87" />
+      <reload rate="0.4" time="1" />
+      <hull max="625" threshold="0.2" integrated="0" />
+    </properties>
+  </macro>
+</macros>

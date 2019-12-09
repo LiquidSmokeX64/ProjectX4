@@ -115,6 +115,31 @@
 		<entry name="turret_tel_m_prototype_gatling_02_mk2_macro" value="extensions\projectx4\weapon_macros\weapons\tel\turret\medium\boltrepeater\turret_tel_m_prototype_gatling_02_mk2_macro" />
 		<entry name="turret_tel_m_prototype_gatling_01_mk3_macro" value="extensions\projectx4\weapon_macros\weapons\tel\turret\medium\boltrepeater\turret_tel_m_prototype_gatling_01_mk3_macro" />
 		<entry name="turret_tel_m_prototype_gatling_02_mk3_macro" value="extensions\projectx4\weapon_macros\weapons\tel\turret\medium\boltrepeater\turret_tel_m_prototype_gatling_02_mk3_macro" />
+		<!--M BeamGuns Turret Bullets-->
+		<entry name="bullet_gen_turret_m_prototype_beam_01_mk1_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\turret\medium\beamguns\bullet_gen_turret_m_prototype_beam_01_mk1_macro" />
+		<entry name="bullet_gen_turret_m_prototype_beam_01_mk2_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\turret\medium\beamguns\bullet_gen_turret_m_prototype_beam_01_mk2_macro" />
+		<entry name="bullet_gen_turret_m_prototype_beam_01_mk3_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\turret\medium\beamguns\bullet_gen_turret_m_prototype_beam_01_mk3_macro" />
+		<!--ARG M BeamGuns Turret-->
+		<entry name="turret_arg_m_prototype_beam_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\beamguns\turret_arg_m_prototype_beam_01_mk1_macro" />
+		<entry name="turret_arg_m_prototype_beam_02_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\beamguns\turret_arg_m_prototype_beam_02_mk1_macro" />
+		<entry name="turret_arg_m_prototype_beam_01_mk2_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\beamguns\turret_arg_m_prototype_beam_01_mk2_macro" />
+		<entry name="turret_arg_m_prototype_beam_02_mk2_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\beamguns\turret_arg_m_prototype_beam_02_mk2_macro" />
+		<entry name="turret_arg_m_prototype_beam_01_mk3_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\beamguns\turret_arg_m_prototype_beam_01_mk3_macro" />
+		<entry name="turret_arg_m_prototype_beam_02_mk3_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\beamguns\turret_arg_m_prototype_beam_02_mk3_macro" />
+		<!--PAR M BeamGuns Turret-->
+		<entry name="turret_par_m_prototype_beam_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\par\turret\medium\beamguns\turret_par_m_prototype_beam_01_mk1_macro" />
+		<entry name="turret_par_m_prototype_beam_02_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\par\turret\medium\beamguns\turret_par_m_prototype_beam_02_mk1_macro" />
+		<entry name="turret_par_m_prototype_beam_01_mk2_macro" value="extensions\projectx4\weapon_macros\weapons\par\turret\medium\beamguns\turret_par_m_prototype_beam_01_mk2_macro" />
+		<entry name="turret_par_m_prototype_beam_02_mk2_macro" value="extensions\projectx4\weapon_macros\weapons\par\turret\medium\beamguns\turret_par_m_prototype_beam_02_mk2_macro" />
+		<entry name="turret_par_m_prototype_beam_01_mk3_macro" value="extensions\projectx4\weapon_macros\weapons\par\turret\medium\beamguns\turret_par_m_prototype_beam_01_mk3_macro" />
+		<entry name="turret_par_m_prototype_beam_02_mk3_macro" value="extensions\projectx4\weapon_macros\weapons\par\turret\medium\beamguns\turret_par_m_prototype_beam_02_mk3_macro" />
+		<!--TEL M BeamGuns Turret-->
+		<entry name="turret_tel_m_prototype_beam_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\tel\turret\medium\beamguns\turret_tel_m_prototype_beam_01_mk1_macro" />
+		<entry name="turret_tel_m_prototype_beam_02_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\tel\turret\medium\beamguns\turret_tel_m_prototype_beam_02_mk1_macro" />
+		<entry name="turret_tel_m_prototype_beam_01_mk2_macro" value="extensions\projectx4\weapon_macros\weapons\tel\turret\medium\beamguns\turret_tel_m_prototype_beam_01_mk2_macro" />
+		<entry name="turret_tel_m_prototype_beam_02_mk2_macro" value="extensions\projectx4\weapon_macros\weapons\tel\turret\medium\beamguns\turret_tel_m_prototype_beam_02_mk2_macro" />
+		<entry name="turret_tel_m_prototype_beam_01_mk3_macro" value="extensions\projectx4\weapon_macros\weapons\tel\turret\medium\beamguns\turret_tel_m_prototype_beam_01_mk3_macro" />
+		<entry name="turret_tel_m_prototype_beam_02_mk3_macro" value="extensions\projectx4\weapon_macros\weapons\tel\turret\medium\beamguns\turret_tel_m_prototype_beam_02_mk3_macro" />
 		<!--L BeamGuns Beams-->
 		<entry name="bullet_gen_turret_l_prototype_beam_01_mk1_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\turret\large\beamguns\bullet_gen_turret_l_prototype_beam_01_mk1_macro" />
 		<!--ARG L BeamGun Turret-->

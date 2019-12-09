@@ -13,7 +13,7 @@
 		<t id="55701">Mk1</t>
 		<t id="55702">Mk2</t>
 		<t id="55703">Mk3</t>
-		<t id="55704">As a result of the ever present Xenon a set of modified blueprints were sent to the Argon, Paranid, and Teladi by a freelancer named ManDaxi.\n\nThese included a full set of engines, thrusters, shields, and even a few weapons.\n\nThe modified blueprints were then put into immediate production, and are available for purchase from faction representitives.</t>
+		<t id="55704">As a result of the ever present Xenon a set of nividium-modified blueprints were sent to the Argon, Paranid, and Teladi by a freelancer named ManDaxi.\n\nThese included a full set of engines, thrusters, shields, and even a few weapons.\n\nThe modified blueprints were then put into immediate production, and are available for purchase from faction representitives.</t>
 		<t id="55705">(small)S</t>
 		<t id="55706">(medium)M</t>
 		<t id="55707">(large)L</t>
@@ -299,6 +299,70 @@
 		<t id="99604">(S ProtoBeam Mk3){77770100,55705} {77770201,99601} {77770100,55703}</t>
 		<t id="99605">(ProtoBeam Mk3){77770201,99603} {77770100,55703}</t>
 		<t id="99606">ProtoBeam</t>
+		<!--Medium Turrets-->
+		<!--M ARG ProtoBeam Turret Mk1-->
+		<t id="99501">(ProtoBeam Mk1){77770201,99503}</t>
+		<t id="99502">{77770100,55704}(This is a Project X Prototype Mk1 Beam Turret Weapon)</t>
+		<t id="99503">(Prototype){77770201,99506}</t>
+		<t id="99504">(ARG M ProtoBeam Mk1){77770100,55710} {77770100,55706} {77770201,99501} {77770100,55701}</t>
+		<t id="99505">(ProtoBeam Mk1){77770201,99503} {77770100,55701}</t>
+		<t id="99506">ProtoBeam</t>
+		<!--M ARG ProtoBeam Turret Mk2-->
+		<t id="99401">(ProtoBeam Mk2){77770201,99403}</t>
+		<t id="99402">{77770100,55704}(This is a Project X Prototype Mk2 Beam Turret Weapon)</t>
+		<t id="99403">(Prototype){77770201,99406}</t>
+		<t id="99404">(ARG M ProtoBeam Mk2){77770100,55710} {77770100,55706} {77770201,99401} {77770100,55702}</t>
+		<t id="99405">(ProtoBeam Mk2){77770201,99403} {77770100,55702}</t>
+		<t id="99406">ProtoBeam</t>
+		<!--M ARG ProtoBeam Turret Mk3-->
+		<t id="99301">(ProtoBeam Mk3){77770201,99303}</t>
+		<t id="99302">{77770100,55704}(This is a Project X Prototype Mk3 Beam Turret Weapon)</t>
+		<t id="99303">(Prototype){77770201,99306}</t>
+		<t id="99304">(ARG M ProtoBeam Mk3){77770100,55710} {77770100,55706} {77770201,99301} {77770100,55703}</t>
+		<t id="99305">(ProtoBeam Mk3){77770201,99303} {77770100,55703}</t>
+		<t id="99306">ProtoBeam</t>
+		<!--M PAR ProtoBeam Turret Mk1-->
+		<t id="89501">(ProtoBeam Mk1){77770201,89503}</t>
+		<t id="89502">{77770100,55704}(This is a Project X Prototype Mk1 Beam Turret Weapon)</t>
+		<t id="89503">(Prototype){77770201,89506}</t>
+		<t id="89504">(PAR M ProtoBeam Mk1){77770100,55711} {77770100,55706} {77770201,89501} {77770100,55701}</t>
+		<t id="89505">(ProtoBeam Mk1){77770201,89503} {77770100,55701}</t>
+		<t id="89506">ProtoBeam</t>
+		<!--M PAR ProtoBeam Turret Mk2-->
+		<t id="89401">(ProtoBeam Mk2){77770201,89403}</t>
+		<t id="89402">{77770100,55704}(This is a Project X Prototype Mk2 Beam Turret Weapon)</t>
+		<t id="89403">(Prototype){77770201,89406}</t>
+		<t id="89404">(PAR M ProtoBeam Mk2){77770100,55711} {77770100,55706} {77770201,89401} {77770100,55702}</t>
+		<t id="89405">(ProtoBeam Mk2){77770201,89403} {77770100,55702}</t>
+		<t id="89406">ProtoBeam</t>
+		<!--M PAR ProtoBeam Turret Mk3-->
+		<t id="89301">(ProtoBeam Mk3){77770201,89303}</t>
+		<t id="89302">{77770100,55704}(This is a Project X Prototype Mk3 Beam Turret Weapon)</t>
+		<t id="89303">(Prototype){77770201,89306}</t>
+		<t id="89304">(PAR M ProtoBeam Mk3){77770100,55711} {77770100,55706} {77770201,89301} {77770100,55703}</t>
+		<t id="89305">(ProtoBeam Mk3){77770201,89303} {77770100,55703}</t>
+		<t id="89306">ProtoBeam</t>
+		<!--M TEL ProtoBeam Turret Mk1-->
+		<t id="79501">(ProtoBeam Mk1){77770201,79503}</t>
+		<t id="79502">{77770100,55704}(This is a Project X Prototype Mk1 Beam Turret Weapon)</t>
+		<t id="79503">(Prototype){77770201,79506}</t>
+		<t id="79504">(TEL M ProtoBeam Mk1){77770100,55712} {77770100,55706} {77770201,79501} {77770100,55701}</t>
+		<t id="79505">(ProtoBeam Mk1){77770201,79503} {77770100,55701}</t>
+		<t id="79506">ProtoBeam</t>
+		<!--M TEL ProtoBeam Turret Mk2-->
+		<t id="79401">(ProtoBeam Mk2){77770201,79403}</t>
+		<t id="79402">{77770100,55704}(This is a Project X Prototype Mk2 Beam Turret Weapon)</t>
+		<t id="79403">(Prototype){77770201,79406}</t>
+		<t id="79404">(TEL M ProtoBeam Mk2){77770100,55712} {77770100,55706} {77770201,79401} {77770100,55702}</t>
+		<t id="79405">(ProtoBeam Mk2){77770201,79403} {77770100,55702}</t>
+		<t id="79406">ProtoBeam</t>
+		<!--M TEL ProtoBeam Turret Mk3-->
+		<t id="79301">(ProtoBeam Mk3){77770201,79303}</t>
+		<t id="79302">{77770100,55704}(This is a Project X Prototype Mk3 Beam Turret Weapon)</t>
+		<t id="79303">(Prototype){77770201,79306}</t>
+		<t id="79304">(TEL M ProtoBeam Mk3){77770100,55712} {77770100,55706} {77770201,79301} {77770100,55703}</t>
+		<t id="79305">(ProtoBeam Mk3){77770201,79303} {77770100,55703}</t>
+		<t id="79306">ProtoBeam</t>
 		<!--Large Turrets-->
 		<!--L ARG ProtoBeam Turret Mk1-->
 		<t id="89201">(ProtoBeam Mk1){77770201,89203}</t>
@@ -432,7 +496,6 @@
 		<t id="77204">(TEL M ProtoBolt Turret Mk3){77770100,55712} {77770100,55706} {77770401,77201} {77770100,55703}</t>
 		<t id="77205">(ProtoBolt Mk3){77770401,77203} {77770100,55703}</t>
 		<t id="77206">ProtoBolt</t>
-		
 		<!--Large Sized Turrets-->
 		<!--Extra Large Sized Turrets-->
     </page>
