@@ -8,7 +8,7 @@
                 <primary>
                     <ware ware="energycells" amount="20" />
                     <ware ware="engineparts" amount="12" />
-					<ware ware="nividium" amount="4" />
+					<ware ware="smartchips" amount="14" />
                 </primary>
             </production>
             <component ref="engine_arg_s_prototype_01_mk1_macro" amount="1" />
@@ -25,7 +25,7 @@
                 <primary>
                     <ware ware="energycells" amount="23" />
                     <ware ware="engineparts" amount="14" />
-					<ware ware="nividium" amount="6" />
+					<ware ware="smartchips" amount="26" />
                 </primary>
             </production>
             <component ref="engine_arg_s_prototype_01_mk2_macro" amount="1" />
@@ -42,7 +42,7 @@
                 <primary>
                     <ware ware="energycells" amount="25" />
                     <ware ware="engineparts" amount="16" />
-					<ware ware="nividium" amount="9" />
+					<ware ware="smartchips" amount="38" />
                 </primary>
             </production>
             <component ref="engine_arg_s_prototype_01_mk3_macro" amount="1" />
@@ -60,7 +60,7 @@
 					<ware ware="antimatterconverters" amount="45" />
 					<ware ware="energycells" amount="44" />
 					<ware ware="engineparts" amount="51" />
-					<ware ware="nividium" amount="4" />
+					<ware ware="smartchips" amount="14" />
 				</primary>
 			</production>
 			<component ref="engine_par_s_prototype_01_mk1_macro" amount="1" />
@@ -77,7 +77,7 @@
 					<ware ware="antimatterconverters" amount="52" />
 					<ware ware="energycells" amount="49" />
 					<ware ware="engineparts" amount="56" />
-					<ware ware="nividium" amount="6" />
+					<ware ware="smartchips" amount="26" />
 				</primary>
 			</production>
 			<component ref="engine_par_s_prototype_01_mk2_macro" amount="1" />
@@ -94,7 +94,7 @@
 					<ware ware="antimatterconverters" amount="57" />
 					<ware ware="energycells" amount="56" />
 					<ware ware="engineparts" amount="61" />
-					<ware ware="nividium" amount="9" />
+					<ware ware="smartchips" amount="38" />
 				</primary>
 			</production>
 			<component ref="engine_par_s_prototype_01_mk3_macro" amount="1" />
@@ -111,7 +111,7 @@
 					<ware ware="antimatterconverters" amount="45" />
 					<ware ware="energycells" amount="44" />
 					<ware ware="engineparts" amount="51" />
-					<ware ware="nividium" amount="4" />
+					<ware ware="smartchips" amount="14" />
 				</primary>
 			</production>
 			<component ref="engine_tel_s_prototype_01_mk1_macro" amount="1" />
@@ -128,7 +128,7 @@
 					<ware ware="antimatterconverters" amount="50" />
 					<ware ware="energycells" amount="49" />
 					<ware ware="engineparts" amount="56" />
-					<ware ware="nividium" amount="6" />
+					<ware ware="smartchips" amount="26" />
 				</primary>
 			</production>
 			<component ref="engine_tel_s_prototype_01_mk2_macro" amount="1" />
@@ -145,7 +145,7 @@
 					<ware ware="antimatterconverters" amount="55" />
 					<ware ware="energycells" amount="54" />
 					<ware ware="engineparts" amount="61" />
-					<ware ware="nividium" amount="9" />
+					<ware ware="smartchips" amount="38" />
 				</primary>
 			</production>
 			<component ref="engine_tel_s_prototype_01_mk3_macro" amount="1" />
@@ -162,7 +162,7 @@
 						<ware ware="antimatterconverters" amount="115" />
 						<ware ware="energycells" amount="70" />
 						<ware ware="engineparts" amount="135" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="engine_arg_m_prototype_01_mk1_macro" amount="1" />
@@ -179,7 +179,7 @@
 						<ware ware="antimatterconverters" amount="125" />
 						<ware ware="energycells" amount="80" />
 						<ware ware="engineparts" amount="145" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="engine_arg_m_prototype_01_mk2_macro" amount="1" />
@@ -196,7 +196,7 @@
 						<ware ware="antimatterconverters" amount="135" />
 						<ware ware="energycells" amount="90" />
 						<ware ware="engineparts" amount="155" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="engine_arg_m_prototype_01_mk3_macro" amount="1" />
@@ -213,7 +213,7 @@
 						<ware ware="antimatterconverters" amount="115" />
 						<ware ware="energycells" amount="70" />
 						<ware ware="engineparts" amount="135" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="engine_par_m_prototype_01_mk1_macro" amount="1" />
@@ -230,7 +230,7 @@
 						<ware ware="antimatterconverters" amount="125" />
 						<ware ware="energycells" amount="80" />
 						<ware ware="engineparts" amount="145" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="engine_par_m_prototype_01_mk2_macro" amount="1" />
@@ -247,7 +247,7 @@
 						<ware ware="antimatterconverters" amount="135" />
 						<ware ware="energycells" amount="90" />
 						<ware ware="engineparts" amount="155" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="engine_par_m_prototype_01_mk3_macro" amount="1" />
@@ -264,7 +264,7 @@
 						<ware ware="antimatterconverters" amount="115" />
 						<ware ware="energycells" amount="70" />
 						<ware ware="engineparts" amount="135" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="engine_tel_m_prototype_01_mk1_macro" amount="1" />
@@ -281,7 +281,7 @@
 						<ware ware="antimatterconverters" amount="125" />
 						<ware ware="energycells" amount="80" />
 						<ware ware="engineparts" amount="145" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="engine_tel_m_prototype_01_mk2_macro" amount="1" />
@@ -298,7 +298,7 @@
 						<ware ware="antimatterconverters" amount="135" />
 						<ware ware="energycells" amount="90" />
 						<ware ware="engineparts" amount="155" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="engine_tel_m_prototype_01_mk3_macro" amount="1" />
@@ -315,7 +315,7 @@
 						<ware ware="antimatterconverters" amount="158" />
 						<ware ware="energycells" amount="47" />
 						<ware ware="engineparts" amount="86" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="engine_arg_l_prototype_01_mk1_macro" amount="1" />
@@ -332,7 +332,7 @@
 						<ware ware="antimatterconverters" amount="168" />
 						<ware ware="energycells" amount="57" />
 						<ware ware="engineparts" amount="96" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="engine_arg_l_prototype_01_mk2_macro" amount="1" />
@@ -349,7 +349,7 @@
 						<ware ware="antimatterconverters" amount="178" />
 						<ware ware="energycells" amount="67" />
 						<ware ware="engineparts" amount="106" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="engine_arg_l_prototype_01_mk3_macro" amount="1" />
@@ -366,7 +366,7 @@
 						<ware ware="antimatterconverters" amount="158" />
 						<ware ware="energycells" amount="47" />
 						<ware ware="engineparts" amount="86" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="engine_par_l_prototype_01_mk1_macro" amount="1" />
@@ -383,7 +383,7 @@
 						<ware ware="antimatterconverters" amount="168" />
 						<ware ware="energycells" amount="57" />
 						<ware ware="engineparts" amount="96" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="engine_par_l_prototype_01_mk2_macro" amount="1" />
@@ -400,7 +400,7 @@
 						<ware ware="antimatterconverters" amount="178" />
 						<ware ware="energycells" amount="67" />
 						<ware ware="engineparts" amount="106" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="engine_par_l_prototype_01_mk3_macro" amount="1" />
@@ -417,7 +417,7 @@
 						<ware ware="antimatterconverters" amount="158" />
 						<ware ware="energycells" amount="47" />
 						<ware ware="engineparts" amount="86" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="engine_tel_l_prototype_01_mk1_macro" amount="1" />
@@ -434,7 +434,7 @@
 						<ware ware="antimatterconverters" amount="168" />
 						<ware ware="energycells" amount="57" />
 						<ware ware="engineparts" amount="96" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="engine_tel_l_prototype_01_mk2_macro" amount="1" />
@@ -451,7 +451,7 @@
 						<ware ware="antimatterconverters" amount="178" />
 						<ware ware="energycells" amount="67" />
 						<ware ware="engineparts" amount="106" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="engine_tel_l_prototype_01_mk3_macro" amount="1" />
@@ -468,7 +468,7 @@
 						<ware ware="antimatterconverters" amount="205" />
 						<ware ware="energycells" amount="60" />
 						<ware ware="engineparts" amount="111" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="engine_arg_xl_prototype_01_mk1_macro" amount="1" />
@@ -485,7 +485,7 @@
 						<ware ware="antimatterconverters" amount="215" />
 						<ware ware="energycells" amount="70" />
 						<ware ware="engineparts" amount="121" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="engine_arg_xl_prototype_01_mk2_macro" amount="1" />
@@ -502,7 +502,7 @@
 						<ware ware="antimatterconverters" amount="225" />
 						<ware ware="energycells" amount="80" />
 						<ware ware="engineparts" amount="131" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="engine_arg_xl_prototype_01_mk3_macro" amount="1" />
@@ -519,7 +519,7 @@
 						<ware ware="antimatterconverters" amount="205" />
 						<ware ware="energycells" amount="60" />
 						<ware ware="engineparts" amount="111" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="engine_par_xl_prototype_01_mk1_macro" amount="1" />
@@ -536,7 +536,7 @@
 						<ware ware="antimatterconverters" amount="215" />
 						<ware ware="energycells" amount="70" />
 						<ware ware="engineparts" amount="121" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="engine_par_xl_prototype_01_mk2_macro" amount="1" />
@@ -553,7 +553,7 @@
 						<ware ware="antimatterconverters" amount="225" />
 						<ware ware="energycells" amount="80" />
 						<ware ware="engineparts" amount="131" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="engine_par_xl_prototype_01_mk3_macro" amount="1" />
@@ -570,7 +570,7 @@
 						<ware ware="antimatterconverters" amount="205" />
 						<ware ware="energycells" amount="60" />
 						<ware ware="engineparts" amount="111" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="engine_tel_xl_prototype_01_mk1_macro" amount="1" />
@@ -587,7 +587,7 @@
 						<ware ware="antimatterconverters" amount="215" />
 						<ware ware="energycells" amount="70" />
 						<ware ware="engineparts" amount="121" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="engine_tel_xl_prototype_01_mk2_macro" amount="1" />
@@ -604,7 +604,7 @@
 						<ware ware="antimatterconverters" amount="225" />
 						<ware ware="energycells" amount="80" />
 						<ware ware="engineparts" amount="131" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="engine_tel_xl_prototype_01_mk3_macro" amount="1" />
@@ -621,7 +621,7 @@
 					<ware ware="advancedelectronics" amount="13" />
 					<ware ware="energycells" amount="15" />
 					<ware ware="weaponcomponents" amount="40" />
-					<ware ware="nividium" amount="4" />
+					<ware ware="smartchips" amount="14" />
 				</primary>
 			</production>
 			<component ref="weapon_gen_s_prototype_beam_01_mk1_macro" amount="1" />
@@ -644,7 +644,7 @@
 					<ware ware="advancedelectronics" amount="18" />
 					<ware ware="energycells" amount="21" />
 					<ware ware="weaponcomponents" amount="47" />
-					<ware ware="nividium" amount="6" />
+					<ware ware="smartchips" amount="26" />
 				</primary>
 			</production>
 			<component ref="weapon_gen_s_prototype_beam_01_mk2_macro" amount="1" />
@@ -667,7 +667,7 @@
 					<ware ware="advancedelectronics" amount="25" />
 					<ware ware="energycells" amount="29" />
 					<ware ware="weaponcomponents" amount="53" />
-					<ware ware="nividium" amount="9" />
+					<ware ware="smartchips" amount="38" />
 				</primary>
 			</production>
 			<component ref="weapon_gen_s_prototype_beam_01_mk3_macro" amount="1" />
@@ -690,7 +690,7 @@
 						<ware ware="advancedelectronics" amount="45" />
 						<ware ware="energycells" amount="13" />
 						<ware ware="weaponcomponents" amount="20" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="weapon_gen_s_prototype_gatling_01_mk1_macro" amount="1" />
@@ -713,7 +713,7 @@
 						<ware ware="advancedelectronics" amount="51" />
 						<ware ware="energycells" amount="19" />
 						<ware ware="weaponcomponents" amount="26" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="weapon_gen_s_prototype_gatling_01_mk2_macro" amount="1" />
@@ -736,7 +736,7 @@
 						<ware ware="advancedelectronics" amount="59" />
 						<ware ware="energycells" amount="26" />
 						<ware ware="weaponcomponents" amount="34" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="weapon_gen_s_prototype_gatling_01_mk3_macro" amount="1" />
@@ -759,7 +759,7 @@
 						<ware ware="advancedelectronics" amount="45" />
 						<ware ware="energycells" amount="15" />
 						<ware ware="weaponcomponents" amount="20" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="weapon_gen_m_prototype_gatling_01_mk1_macro" amount="1" />
@@ -780,7 +780,7 @@
 						<ware ware="advancedelectronics" amount="55" />
 						<ware ware="energycells" amount="25" />
 						<ware ware="weaponcomponents" amount="25" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="weapon_gen_m_prototype_gatling_01_mk2_macro" amount="1" />
@@ -801,7 +801,7 @@
 						<ware ware="advancedelectronics" amount="60" />
 						<ware ware="energycells" amount="30" />
 						<ware ware="weaponcomponents" amount="30" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="weapon_gen_m_prototype_gatling_01_mk3_macro" amount="1" />
@@ -822,7 +822,7 @@
 						<ware ware="advancedelectronics" amount="6" />
 						<ware ware="energycells" amount="10" />
 						<ware ware="turretcomponents" amount="17" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="turret_arg_m_prototype_gatling_01_mk1_macro" amount="1" />
@@ -839,7 +839,7 @@
 						<ware ware="advancedelectronics" amount="12" />
 						<ware ware="energycells" amount="10" />
 						<ware ware="turretcomponents" amount="13" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="turret_arg_m_prototype_gatling_02_mk1_macro" amount="1" />
@@ -856,7 +856,7 @@
 						<ware ware="advancedelectronics" amount="8" />
 						<ware ware="energycells" amount="12" />
 						<ware ware="turretcomponents" amount="19" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="turret_arg_m_prototype_gatling_01_mk2_macro" amount="1" />
@@ -873,7 +873,7 @@
 						<ware ware="advancedelectronics" amount="14" />
 						<ware ware="energycells" amount="12" />
 						<ware ware="turretcomponents" amount="15" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="turret_arg_m_prototype_gatling_02_mk2_macro" amount="1" />
@@ -890,7 +890,7 @@
 						<ware ware="advancedelectronics" amount="11" />
 						<ware ware="energycells" amount="15" />
 						<ware ware="turretcomponents" amount="22" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="turret_arg_m_prototype_gatling_01_mk3_macro" amount="1" />
@@ -907,7 +907,7 @@
 						<ware ware="advancedelectronics" amount="17" />
 						<ware ware="energycells" amount="15" />
 						<ware ware="turretcomponents" amount="18" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="turret_arg_m_prototype_gatling_02_mk3_macro" amount="1" />
@@ -924,7 +924,7 @@
 						<ware ware="advancedelectronics" amount="6" />
 						<ware ware="energycells" amount="10" />
 						<ware ware="turretcomponents" amount="17" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="turret_par_m_prototype_gatling_01_mk1_macro" amount="1" />
@@ -941,7 +941,7 @@
 						<ware ware="advancedelectronics" amount="12" />
 						<ware ware="energycells" amount="10" />
 						<ware ware="turretcomponents" amount="13" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="turret_par_m_prototype_gatling_02_mk1_macro" amount="1" />
@@ -958,7 +958,7 @@
 						<ware ware="advancedelectronics" amount="8" />
 						<ware ware="energycells" amount="12" />
 						<ware ware="turretcomponents" amount="19" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="turret_par_m_prototype_gatling_01_mk2_macro" amount="1" />
@@ -975,7 +975,7 @@
 						<ware ware="advancedelectronics" amount="14" />
 						<ware ware="energycells" amount="12" />
 						<ware ware="turretcomponents" amount="15" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="turret_par_m_prototype_gatling_02_mk2_macro" amount="1" />
@@ -992,7 +992,7 @@
 						<ware ware="advancedelectronics" amount="11" />
 						<ware ware="energycells" amount="15" />
 						<ware ware="turretcomponents" amount="22" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="turret_par_m_prototype_gatling_01_mk3_macro" amount="1" />
@@ -1009,7 +1009,7 @@
 						<ware ware="advancedelectronics" amount="17" />
 						<ware ware="energycells" amount="15" />
 						<ware ware="turretcomponents" amount="18" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="turret_par_m_prototype_gatling_02_mk3_macro" amount="1" />
@@ -1026,7 +1026,7 @@
 						<ware ware="advancedelectronics" amount="6" />
 						<ware ware="energycells" amount="10" />
 						<ware ware="turretcomponents" amount="17" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="turret_tel_m_prototype_gatling_01_mk1_macro" amount="1" />
@@ -1043,7 +1043,7 @@
 						<ware ware="advancedelectronics" amount="12" />
 						<ware ware="energycells" amount="10" />
 						<ware ware="turretcomponents" amount="13" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="turret_tel_m_prototype_gatling_02_mk1_macro" amount="1" />
@@ -1060,7 +1060,7 @@
 						<ware ware="advancedelectronics" amount="8" />
 						<ware ware="energycells" amount="12" />
 						<ware ware="turretcomponents" amount="19" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="turret_tel_m_prototype_gatling_01_mk2_macro" amount="1" />
@@ -1077,7 +1077,7 @@
 						<ware ware="advancedelectronics" amount="14" />
 						<ware ware="energycells" amount="12" />
 						<ware ware="turretcomponents" amount="15" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="turret_tel_m_prototype_gatling_02_mk2_macro" amount="1" />
@@ -1094,7 +1094,7 @@
 						<ware ware="advancedelectronics" amount="11" />
 						<ware ware="energycells" amount="15" />
 						<ware ware="turretcomponents" amount="22" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="turret_tel_m_prototype_gatling_01_mk3_macro" amount="1" />
@@ -1111,7 +1111,7 @@
 						<ware ware="advancedelectronics" amount="17" />
 						<ware ware="energycells" amount="15" />
 						<ware ware="turretcomponents" amount="18" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="turret_tel_m_prototype_gatling_02_mk3_macro" amount="1" />
@@ -1128,7 +1128,7 @@
 						<ware ware="advancedelectronics" amount="7" />
 						<ware ware="energycells" amount="11" />
 						<ware ware="turretcomponents" amount="11" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="turret_arg_m_prototype_beam_01_mk1_macro" amount="1" />
@@ -1145,7 +1145,7 @@
 						<ware ware="advancedelectronics" amount="2" />
 						<ware ware="energycells" amount="6" />
 						<ware ware="turretcomponents" amount="13" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="turret_arg_m_prototype_beam_02_mk1_macro" amount="1" />
@@ -1162,7 +1162,7 @@
 						<ware ware="advancedelectronics" amount="9" />
 						<ware ware="energycells" amount="13" />
 						<ware ware="turretcomponents" amount="13" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="turret_arg_m_prototype_beam_01_mk2_macro" amount="1" />
@@ -1179,7 +1179,7 @@
 						<ware ware="advancedelectronics" amount="4" />
 						<ware ware="energycells" amount="8" />
 						<ware ware="turretcomponents" amount="15" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="turret_arg_m_prototype_beam_02_mk2_macro" amount="1" />
@@ -1196,7 +1196,7 @@
 						<ware ware="advancedelectronics" amount="12" />
 						<ware ware="energycells" amount="16" />
 						<ware ware="turretcomponents" amount="16" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="turret_arg_m_prototype_beam_01_mk3_macro" amount="1" />
@@ -1213,7 +1213,7 @@
 						<ware ware="advancedelectronics" amount="7" />
 						<ware ware="energycells" amount="11" />
 						<ware ware="turretcomponents" amount="18" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="turret_arg_m_prototype_beam_02_mk3_macro" amount="1" />
@@ -1230,7 +1230,7 @@
 						<ware ware="advancedelectronics" amount="7" />
 						<ware ware="energycells" amount="11" />
 						<ware ware="turretcomponents" amount="11" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="turret_par_m_prototype_beam_01_mk1_macro" amount="1" />
@@ -1247,7 +1247,7 @@
 						<ware ware="advancedelectronics" amount="2" />
 						<ware ware="energycells" amount="6" />
 						<ware ware="turretcomponents" amount="13" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="turret_par_m_prototype_beam_02_mk1_macro" amount="1" />
@@ -1264,7 +1264,7 @@
 						<ware ware="advancedelectronics" amount="9" />
 						<ware ware="energycells" amount="13" />
 						<ware ware="turretcomponents" amount="13" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="turret_par_m_prototype_beam_01_mk2_macro" amount="1" />
@@ -1281,7 +1281,7 @@
 						<ware ware="advancedelectronics" amount="4" />
 						<ware ware="energycells" amount="8" />
 						<ware ware="turretcomponents" amount="15" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="turret_par_m_prototype_beam_02_mk2_macro" amount="1" />
@@ -1298,7 +1298,7 @@
 						<ware ware="advancedelectronics" amount="12" />
 						<ware ware="energycells" amount="16" />
 						<ware ware="turretcomponents" amount="16" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="turret_par_m_prototype_beam_01_mk3_macro" amount="1" />
@@ -1315,7 +1315,7 @@
 						<ware ware="advancedelectronics" amount="7" />
 						<ware ware="energycells" amount="11" />
 						<ware ware="turretcomponents" amount="18" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="turret_par_m_prototype_beam_02_mk3_macro" amount="1" />
@@ -1332,7 +1332,7 @@
 						<ware ware="advancedelectronics" amount="7" />
 						<ware ware="energycells" amount="11" />
 						<ware ware="turretcomponents" amount="11" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="turret_tel_m_prototype_beam_01_mk1_macro" amount="1" />
@@ -1349,7 +1349,7 @@
 						<ware ware="advancedelectronics" amount="2" />
 						<ware ware="energycells" amount="6" />
 						<ware ware="turretcomponents" amount="13" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="turret_tel_m_prototype_beam_02_mk1_macro" amount="1" />
@@ -1366,7 +1366,7 @@
 						<ware ware="advancedelectronics" amount="9" />
 						<ware ware="energycells" amount="13" />
 						<ware ware="turretcomponents" amount="13" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="turret_tel_m_prototype_beam_01_mk2_macro" amount="1" />
@@ -1383,7 +1383,7 @@
 						<ware ware="advancedelectronics" amount="4" />
 						<ware ware="energycells" amount="8" />
 						<ware ware="turretcomponents" amount="15" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="turret_tel_m_prototype_beam_02_mk2_macro" amount="1" />
@@ -1400,7 +1400,7 @@
 						<ware ware="advancedelectronics" amount="12" />
 						<ware ware="energycells" amount="16" />
 						<ware ware="turretcomponents" amount="16" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="turret_par_m_prototype_beam_01_mk3_macro" amount="1" />
@@ -1417,7 +1417,7 @@
 						<ware ware="advancedelectronics" amount="7" />
 						<ware ware="energycells" amount="11" />
 						<ware ware="turretcomponents" amount="18" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="turret_tel_m_prototype_beam_02_mk3_macro" amount="1" />
@@ -1434,7 +1434,7 @@
 						<ware ware="advancedelectronics" amount="20" />
 						<ware ware="energycells" amount="12" />
 						<ware ware="turretcomponents" amount="32" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="turret_arg_l_prototype_beam_01_mk1_macro" amount="1" />
@@ -1451,7 +1451,7 @@
 						<ware ware="advancedelectronics" amount="20" />
 						<ware ware="energycells" amount="12" />
 						<ware ware="turretcomponents" amount="32" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="turret_par_l_prototype_beam_01_mk1_macro" amount="1" />
@@ -1468,7 +1468,7 @@
 						<ware ware="advancedelectronics" amount="20" />
 						<ware ware="energycells" amount="12" />
 						<ware ware="turretcomponents" amount="32" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="turret_tel_l_prototype_beam_01_mk1_macro" amount="1" />
@@ -1485,7 +1485,7 @@
 						<ware ware="antimatterconverters" amount="64" />
 						<ware ware="energycells" amount="23" />
 						<ware ware="engineparts" amount="85" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<production time="10" amount="1" method="xenon" name="{77770000,55706}">
@@ -1493,7 +1493,7 @@
 					<ware ware="energycells" amount="23" />
 					<ware ware="ore" amount="36" />
 					<ware ware="silicon" amount="40" />
-					<ware ware="nividium" amount="4" />
+					<ware ware="smartchips" amount="14" />
 				</primary>
 			</production>
 			<component ref="thruster_gen_s_prototype_01_mk1_macro" amount="1" />
@@ -1516,7 +1516,7 @@
 						<ware ware="antimatterconverters" amount="68" />
 						<ware ware="energycells" amount="27" />
 						<ware ware="engineparts" amount="89" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<production time="10" amount="1" method="xenon" name="{77770000,55706}">
@@ -1524,7 +1524,7 @@
 					<ware ware="energycells" amount="27" />
 					<ware ware="ore" amount="41" />
 					<ware ware="silicon" amount="44" />
-					<ware ware="nividium" amount="6" />
+					<ware ware="smartchips" amount="26" />
 				</primary>
 			</production>
 			<component ref="thruster_gen_s_prototype_01_mk2_macro" amount="1" />
@@ -1547,7 +1547,7 @@
 						<ware ware="antimatterconverters" amount="72" />
 						<ware ware="energycells" amount="33" />
 						<ware ware="engineparts" amount="91" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<production time="10" amount="1" method="xenon" name="{77770000,55706}">
@@ -1555,7 +1555,7 @@
 					<ware ware="energycells" amount="34" />
 					<ware ware="ore" amount="48" />
 					<ware ware="silicon" amount="49" />
-					<ware ware="nividium" amount="9" />
+					<ware ware="smartchips" amount="38" />
 				</primary>
 			</production>
 			<component ref="thruster_gen_s_prototype_01_mk3_macro" amount="1" />
@@ -1578,7 +1578,7 @@
 						<ware ware="antimatterconverters" amount="110" />
 						<ware ware="energycells" amount="30" />
 						<ware ware="engineparts" amount="110" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<production time="12" amount="1" method="xenon" name="{77770000,55706}">
@@ -1586,7 +1586,7 @@
 					<ware ware="energycells" amount="30" />
 					<ware ware="ore" amount="70" />
 					<ware ware="silicon" amount="70" />
-					<ware ware="nividium" amount="4" />
+					<ware ware="smartchips" amount="14" />
 				</primary>
 			</production>
 			<component ref="thruster_gen_m_prototype_01_mk1_macro" amount="1" />
@@ -1600,7 +1600,7 @@
 						<ware ware="antimatterconverters" amount="120" />
 						<ware ware="energycells" amount="40" />
 						<ware ware="engineparts" amount="120" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<production time="13" amount="1" method="xenon" name="{77770000,55706}">
@@ -1608,7 +1608,7 @@
 					<ware ware="energycells" amount="40" />
 					<ware ware="ore" amount="80" />
 					<ware ware="silicon" amount="80" />
-					<ware ware="nividium" amount="6" />
+					<ware ware="smartchips" amount="26" />
 				</primary>
 			</production>
 			<component ref="thruster_gen_m_prototype_01_mk2_macro" amount="1" />
@@ -1622,7 +1622,7 @@
 						<ware ware="antimatterconverters" amount="130" />
 						<ware ware="energycells" amount="50" />
 						<ware ware="engineparts" amount="130" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<production time="14" amount="1" method="xenon" name="{77770000,55706}">
@@ -1630,7 +1630,7 @@
 					<ware ware="energycells" amount="50" />
 					<ware ware="ore" amount="90" />
 					<ware ware="silicon" amount="90" />
-					<ware ware="nividium" amount="9" />
+					<ware ware="smartchips" amount="38" />
 				</primary>
 			</production>
 			<component ref="thruster_gen_m_prototype_01_mk3_macro" amount="1" />
@@ -1644,7 +1644,7 @@
 						<ware ware="antimatterconverters" amount="3100" />
 						<ware ware="energycells" amount="50" />
 						<ware ware="engineparts" amount="1300" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<production time="12" amount="1" method="xenon" name="{77770000,55706}">
@@ -1652,7 +1652,7 @@
 					<ware ware="energycells" amount="50" />
 					<ware ware="ore" amount="1396" />
 					<ware ware="silicon" amount="1396" />
-					<ware ware="nividium" amount="4" />
+					<ware ware="smartchips" amount="14" />
 				</primary>
 			</production>
 			<component ref="thruster_gen_l_prototype_01_mk1_macro" amount="1" />
@@ -1666,7 +1666,7 @@
 						<ware ware="antimatterconverters" amount="3200" />
 						<ware ware="energycells" amount="60" />
 						<ware ware="engineparts" amount="1400" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<production time="13" amount="1" method="xenon" name="{77770000,55706}">
@@ -1674,7 +1674,7 @@
 					<ware ware="energycells" amount="60" />
 					<ware ware="ore" amount="1496" />
 					<ware ware="silicon" amount="1496" />
-					<ware ware="nividium" amount="6" />
+					<ware ware="smartchips" amount="26" />
 				</primary>
 			</production>
 			<component ref="thruster_gen_l_prototype_01_mk2_macro" amount="1" />
@@ -1688,7 +1688,7 @@
 						<ware ware="antimatterconverters" amount="3300" />
 						<ware ware="energycells" amount="70" />
 						<ware ware="engineparts" amount="1500" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<production time="14" amount="1" method="xenon" name="{77770000,55706}">
@@ -1696,7 +1696,7 @@
 					<ware ware="energycells" amount="70" />
 					<ware ware="ore" amount="1596" />
 					<ware ware="silicon" amount="1596" />
-					<ware ware="nividium" amount="9" />
+					<ware ware="smartchips" amount="38" />
 				</primary>
 			</production>
 			<component ref="thruster_gen_l_prototype_01_mk3_macro" amount="1" />
@@ -1710,7 +1710,7 @@
 						<ware ware="antimatterconverters" amount="6600" />
 						<ware ware="energycells" amount="50" />
 						<ware ware="engineparts" amount="2500" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<production time="12" amount="1" method="xenon" name="{77770000,55706}">
@@ -1718,7 +1718,7 @@
 					<ware ware="energycells" amount="50" />
 					<ware ware="ore" amount="2848" />
 					<ware ware="silicon" amount="2848" />
-					<ware ware="nividium" amount="4" />
+					<ware ware="smartchips" amount="14" />
 				</primary>
 			</production>
 			<component ref="thruster_gen_xl_prototype_01_mk1_macro" amount="1" />
@@ -1732,7 +1732,7 @@
 						<ware ware="antimatterconverters" amount="6700" />
 						<ware ware="energycells" amount="60" />
 						<ware ware="engineparts" amount="2600" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<production time="13" amount="1" method="xenon" name="{77770000,55706}">
@@ -1740,7 +1740,7 @@
 					<ware ware="energycells" amount="60" />
 					<ware ware="ore" amount="2948" />
 					<ware ware="silicon" amount="2948" />
-					<ware ware="nividium" amount="6" />
+					<ware ware="smartchips" amount="26" />
 				</primary>
 			</production>
 			<component ref="thruster_gen_xl_prototype_01_mk2_macro" amount="1" />
@@ -1754,7 +1754,7 @@
 						<ware ware="antimatterconverters" amount="6800" />
 						<ware ware="energycells" amount="70" />
 						<ware ware="engineparts" amount="2700" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<production time="14" amount="1" method="xenon" name="{77770000,55706}">
@@ -1762,7 +1762,7 @@
 					<ware ware="energycells" amount="70" />
 					<ware ware="ore" amount="3048" />
 					<ware ware="silicon" amount="3048" />
-					<ware ware="nividium" amount="9" />
+					<ware ware="smartchips" amount="38" />
 				</primary>
 			</production>
 			<component ref="thruster_gen_xl_prototype_01_mk3_macro" amount="1" />
@@ -1776,7 +1776,7 @@
 						<ware ware="energycells" amount="25" />
 						<ware ware="fieldcoils" amount="13" />
 						<ware ware="shieldcomponents" amount="35" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="shield_arg_s_prototype_01_mk1_macro" amount="1" />
@@ -1794,7 +1794,7 @@
 						<ware ware="energycells" amount="28" />
 						<ware ware="fieldcoils" amount="17" />
 						<ware ware="shieldcomponents" amount="38" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="shield_arg_s_prototype_01_mk2_macro" amount="1" />
@@ -1812,7 +1812,7 @@
 						<ware ware="energycells" amount="32" />
 						<ware ware="fieldcoils" amount="21" />
 						<ware ware="shieldcomponents" amount="43" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="shield_arg_s_prototype_01_mk3_macro" amount="1" />
@@ -1830,7 +1830,7 @@
 						<ware ware="energycells" amount="25" />
 						<ware ware="fieldcoils" amount="13" />
 						<ware ware="shieldcomponents" amount="35" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="shield_par_s_prototype_01_mk1_macro" amount="1" />
@@ -1847,7 +1847,7 @@
 						<ware ware="energycells" amount="28" />
 						<ware ware="fieldcoils" amount="17" />
 						<ware ware="shieldcomponents" amount="38" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="shield_par_s_prototype_01_mk2_macro" amount="1" />
@@ -1864,7 +1864,7 @@
 						<ware ware="energycells" amount="32" />
 						<ware ware="fieldcoils" amount="21" />
 						<ware ware="shieldcomponents" amount="43" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="shield_par_s_prototype_01_mk3_macro" amount="1" />
@@ -1881,7 +1881,7 @@
 						<ware ware="energycells" amount="25" />
 						<ware ware="fieldcoils" amount="13" />
 						<ware ware="shieldcomponents" amount="35" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="shield_tel_s_prototype_01_mk1_macro" amount="1" />
@@ -1898,7 +1898,7 @@
 						<ware ware="energycells" amount="28" />
 						<ware ware="fieldcoils" amount="17" />
 						<ware ware="shieldcomponents" amount="38" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="shield_tel_s_prototype_01_mk2_macro" amount="1" />
@@ -1915,7 +1915,7 @@
 						<ware ware="energycells" amount="32" />
 						<ware ware="fieldcoils" amount="21" />
 						<ware ware="shieldcomponents" amount="43" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="shield_tel_s_prototype_01_mk3_macro" amount="1" />
@@ -1932,7 +1932,7 @@
 						<ware ware="energycells" amount="45" />
 						<ware ware="fieldcoils" amount="20" />
 						<ware ware="shieldcomponents" amount="30" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="shield_arg_m_prototype_standard_01_mk1_macro" amount="1" />
@@ -1949,7 +1949,7 @@
 						<ware ware="energycells" amount="25" />
 						<ware ware="fieldcoils" amount="7" />
 						<ware ware="shieldcomponents" amount="10" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="shield_arg_m_prototype_standard_02_mk1_macro" amount="1" />
@@ -1967,7 +1967,7 @@
 						<ware ware="energycells" amount="55" />
 						<ware ware="fieldcoils" amount="30" />
 						<ware ware="shieldcomponents" amount="40" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="shield_arg_m_prototype_standard_01_mk2_macro" amount="1" />
@@ -1984,7 +1984,7 @@
 						<ware ware="energycells" amount="35" />
 						<ware ware="fieldcoils" amount="17" />
 						<ware ware="shieldcomponents" amount="20" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="shield_arg_m_prototype_standard_02_mk2_macro" amount="1" />
@@ -2002,7 +2002,7 @@
 						<ware ware="energycells" amount="65" />
 						<ware ware="fieldcoils" amount="40" />
 						<ware ware="shieldcomponents" amount="50" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="shield_arg_m_prototype_standard_01_mk3_macro" amount="1" />
@@ -2019,7 +2019,7 @@
 						<ware ware="energycells" amount="45" />
 						<ware ware="fieldcoils" amount="27" />
 						<ware ware="shieldcomponents" amount="30" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="shield_arg_m_prototype_standard_02_mk3_macro" amount="1" />
@@ -2037,7 +2037,7 @@
 						<ware ware="energycells" amount="45" />
 						<ware ware="fieldcoils" amount="20" />
 						<ware ware="shieldcomponents" amount="30" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="shield_par_m_prototype_standard_01_mk1_macro" amount="1" />
@@ -2054,7 +2054,7 @@
 						<ware ware="energycells" amount="25" />
 						<ware ware="fieldcoils" amount="7" />
 						<ware ware="shieldcomponents" amount="10" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="shield_par_m_prototype_standard_02_mk1_macro" amount="1" />
@@ -2071,7 +2071,7 @@
 						<ware ware="energycells" amount="55" />
 						<ware ware="fieldcoils" amount="30" />
 						<ware ware="shieldcomponents" amount="40" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="shield_par_m_prototype_standard_01_mk2_macro" amount="1" />
@@ -2088,7 +2088,7 @@
 						<ware ware="energycells" amount="35" />
 						<ware ware="fieldcoils" amount="17" />
 						<ware ware="shieldcomponents" amount="20" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="shield_par_m_prototype_standard_02_mk2_macro" amount="1" />
@@ -2105,7 +2105,7 @@
 						<ware ware="energycells" amount="65" />
 						<ware ware="fieldcoils" amount="40" />
 						<ware ware="shieldcomponents" amount="50" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="shield_par_m_prototype_standard_01_mk3_macro" amount="1" />
@@ -2122,7 +2122,7 @@
 						<ware ware="energycells" amount="45" />
 						<ware ware="fieldcoils" amount="27" />
 						<ware ware="shieldcomponents" amount="30" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="shield_par_m_prototype_standard_02_mk3_macro" amount="1" />
@@ -2139,7 +2139,7 @@
 						<ware ware="energycells" amount="45" />
 						<ware ware="fieldcoils" amount="20" />
 						<ware ware="shieldcomponents" amount="30" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="shield_tel_m_prototype_standard_01_mk1_macro" amount="1" />
@@ -2156,7 +2156,7 @@
 						<ware ware="energycells" amount="25" />
 						<ware ware="fieldcoils" amount="7" />
 						<ware ware="shieldcomponents" amount="10" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="shield_tel_m_prototype_standard_02_mk1_macro" amount="1" />
@@ -2173,7 +2173,7 @@
 						<ware ware="energycells" amount="55" />
 						<ware ware="fieldcoils" amount="30" />
 						<ware ware="shieldcomponents" amount="40" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="shield_tel_m_prototype_standard_01_mk2_macro" amount="1" />
@@ -2190,7 +2190,7 @@
 						<ware ware="energycells" amount="35" />
 						<ware ware="fieldcoils" amount="17" />
 						<ware ware="shieldcomponents" amount="20" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="shield_tel_m_prototype_standard_02_mk2_macro" amount="1" />
@@ -2207,7 +2207,7 @@
 						<ware ware="energycells" amount="65" />
 						<ware ware="fieldcoils" amount="40" />
 						<ware ware="shieldcomponents" amount="50" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="shield_tel_m_prototype_standard_01_mk3_macro" amount="1" />
@@ -2224,7 +2224,7 @@
 						<ware ware="energycells" amount="45" />
 						<ware ware="fieldcoils" amount="27" />
 						<ware ware="shieldcomponents" amount="30" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="shield_tel_m_prototype_standard_02_mk3_macro" amount="1" />
@@ -2241,7 +2241,7 @@
 						<ware ware="energycells" amount="60" />
 						<ware ware="fieldcoils" amount="23" />
 						<ware ware="shieldcomponents" amount="20" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="shield_arg_l_prototype_standard_01_mk1_macro" amount="1" />
@@ -2258,7 +2258,7 @@
 						<ware ware="energycells" amount="70" />
 						<ware ware="fieldcoils" amount="33" />
 						<ware ware="shieldcomponents" amount="30" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="shield_arg_l_prototype_standard_01_mk2_macro" amount="1" />
@@ -2275,7 +2275,7 @@
 						<ware ware="energycells" amount="60" />
 						<ware ware="fieldcoils" amount="43" />
 						<ware ware="shieldcomponents" amount="40" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="shield_arg_l_prototype_standard_01_mk3_macro" amount="1" />
@@ -2292,7 +2292,7 @@
 						<ware ware="energycells" amount="60" />
 						<ware ware="fieldcoils" amount="23" />
 						<ware ware="shieldcomponents" amount="20" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="shield_par_l_prototype_standard_01_mk1_macro" amount="1" />
@@ -2309,7 +2309,7 @@
 						<ware ware="energycells" amount="70" />
 						<ware ware="fieldcoils" amount="33" />
 						<ware ware="shieldcomponents" amount="30" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="shield_par_l_prototype_standard_01_mk2_macro" amount="1" />
@@ -2326,7 +2326,7 @@
 						<ware ware="energycells" amount="60" />
 						<ware ware="fieldcoils" amount="43" />
 						<ware ware="shieldcomponents" amount="40" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="shield_par_l_prototype_standard_01_mk3_macro" amount="1" />
@@ -2343,7 +2343,7 @@
 						<ware ware="energycells" amount="60" />
 						<ware ware="fieldcoils" amount="23" />
 						<ware ware="shieldcomponents" amount="20" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="shield_tel_l_prototype_standard_01_mk1_macro" amount="1" />
@@ -2360,7 +2360,7 @@
 						<ware ware="energycells" amount="70" />
 						<ware ware="fieldcoils" amount="33" />
 						<ware ware="shieldcomponents" amount="30" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="shield_tel_l_prototype_standard_01_mk2_macro" amount="1" />
@@ -2377,7 +2377,7 @@
 						<ware ware="energycells" amount="60" />
 						<ware ware="fieldcoils" amount="43" />
 						<ware ware="shieldcomponents" amount="40" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="shield_tel_l_prototype_standard_01_mk3_macro" amount="1" />
@@ -2394,7 +2394,7 @@
 						<ware ware="energycells" amount="160" />
 						<ware ware="fieldcoils" amount="92" />
 						<ware ware="shieldcomponents" amount="40" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="shield_arg_xl_prototype_standard_01_mk1_macro" amount="1" />
@@ -2411,7 +2411,7 @@
 						<ware ware="energycells" amount="170" />
 						<ware ware="fieldcoils" amount="102" />
 						<ware ware="shieldcomponents" amount="50" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="shield_arg_xl_prototype_standard_01_mk2_macro" amount="1" />
@@ -2428,7 +2428,7 @@
 						<ware ware="energycells" amount="180" />
 						<ware ware="fieldcoils" amount="112" />
 						<ware ware="shieldcomponents" amount="60" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="shield_arg_xl_prototype_standard_01_mk3_macro" amount="1" />
@@ -2445,7 +2445,7 @@
 						<ware ware="energycells" amount="160" />
 						<ware ware="fieldcoils" amount="92" />
 						<ware ware="shieldcomponents" amount="40" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="shield_par_xl_prototype_standard_01_mk1_macro" amount="1" />
@@ -2462,7 +2462,7 @@
 						<ware ware="energycells" amount="170" />
 						<ware ware="fieldcoils" amount="102" />
 						<ware ware="shieldcomponents" amount="50" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="shield_par_xl_prototype_standard_01_mk2_macro" amount="1" />
@@ -2479,7 +2479,7 @@
 						<ware ware="energycells" amount="180" />
 						<ware ware="fieldcoils" amount="112" />
 						<ware ware="shieldcomponents" amount="60" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="shield_par_xl_prototype_standard_01_mk3_macro" amount="1" />
@@ -2496,7 +2496,7 @@
 						<ware ware="energycells" amount="160" />
 						<ware ware="fieldcoils" amount="92" />
 						<ware ware="shieldcomponents" amount="40" />
-						<ware ware="nividium" amount="4" />
+						<ware ware="smartchips" amount="14" />
 					</primary>
 				</production>
 			<component ref="shield_tel_xl_prototype_standard_01_mk1_macro" amount="1" />
@@ -2513,7 +2513,7 @@
 						<ware ware="energycells" amount="170" />
 						<ware ware="fieldcoils" amount="102" />
 						<ware ware="shieldcomponents" amount="50" />
-						<ware ware="nividium" amount="6" />
+						<ware ware="smartchips" amount="26" />
 					</primary>
 				</production>
 			<component ref="shield_tel_xl_prototype_standard_01_mk2_macro" amount="1" />
@@ -2530,7 +2530,7 @@
 						<ware ware="energycells" amount="180" />
 						<ware ware="fieldcoils" amount="112" />
 						<ware ware="shieldcomponents" amount="60" />
-						<ware ware="nividium" amount="9" />
+						<ware ware="smartchips" amount="38" />
 					</primary>
 				</production>
 			<component ref="shield_tel_xl_prototype_standard_01_mk3_macro" amount="1" />
