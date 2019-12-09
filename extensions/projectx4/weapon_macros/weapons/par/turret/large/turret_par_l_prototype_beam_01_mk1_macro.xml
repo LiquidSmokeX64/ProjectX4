@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
+  <macro name="turret_par_l_prototype_beam_01_mk1_macro" class="turret">
+    <component ref="turret_par_l_beam_01_mk1" />
+    <properties>
+      <identification name="{77770201,89104}" basename="{77770201,89101}" shortname="{77770201,89105}" makerrace="paranid" description="{20105,89102}" mk="1" />
+      <bullet class="bullet_gen_turret_l_prototype_beam_01_mk1_macro" />
+      <rotationspeed max="32" />
+      <reload rate="0.4" time="1" />
+      <hull max="2400" threshold="0.2" />
+    </properties>
+  </macro>
+</macros>

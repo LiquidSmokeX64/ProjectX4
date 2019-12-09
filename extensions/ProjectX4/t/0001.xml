@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!--Created by: ManDaxi-->
 <language>
+	<page id="77770000" title="PX4ProductionNaming" descr="Names and descriptions of production methods used to produce wares" voice="no">
+		<t id="55701">Universal</t>
+		<t id="55702">Argon</t>
+		<t id="55703">Paranid</t>
+		<t id="55704">Teladi</t>
+		<t id="55705">Research</t>
+		<t id="55706">Xenon</t>
+</page>
 	<page id="77770100" title="PX4SpecialNaming" descr="Text for new Engines" voice="no">
 		<t id="55701">Mk1</t>
 		<t id="55702">Mk2</t>
@@ -291,6 +299,29 @@
 		<t id="99604">(S ProtoBeam Mk3){77770100,55705} {77770201,99601} {77770100,55703}</t>
 		<t id="99605">(ProtoBeam Mk3){77770201,99603} {77770100,55703}</t>
 		<t id="99606">ProtoBeam</t>
+		<!--Large Turrets-->
+		<!--L ARG ProtoBeam Turret Mk1-->
+		<t id="89201">(ProtoBeam Mk1){77770201,89203}</t>
+		<t id="89202">{77770100,55704}(This is a Project X Prototype Mk1 Bolt Turret Weapon)</t>
+		<t id="89203">(Prototype){77770201,89206}</t>
+		<t id="89204">(ARG L ProtoBeam Mk1){77770100,55710} {77770100,55707} {77770201,89201} {77770100,55701}</t>
+		<t id="89205">(ProtoBeam Mk1){77770201,89203} {77770100,55701}</t>
+		<t id="89206">ProtoBeam</t>
+		<!--L PAR ProtoBeam Turret Mk1-->
+		<t id="89101">(ProtoBeam Mk1){77770201,89103}</t>
+		<t id="89102">{77770100,55704}(This is a Project X Prototype Mk1 Bolt Turret Weapon)</t>
+		<t id="89103">(Prototype){77770201,89106}</t>
+		<t id="89104">(PAR L ProtoBeam Mk1){77770100,55711} {77770100,55707} {77770201,89101} {77770100,55701}</t>
+		<t id="89105">(ProtoBeam Mk1){77770201,89103} {77770100,55701}</t>
+		<t id="89106">ProtoBeam</t>
+		<!--L TEL ProtoBeam Turret Mk1-->
+		<t id="89001">(ProtoBeam Mk1){77770201,89003}</t>
+		<t id="89002">{77770100,55704}(This is a Project X Prototype Mk1 Bolt Turret Weapon)</t>
+		<t id="89003">(Prototype){77770201,89006}</t>
+		<t id="89004">(TEL L ProtoBeam Mk1){77770100,55712} {77770100,55707} {77770201,89001} {77770100,55701}</t>
+		<t id="89005">(ProtoBeam Mk1){77770201,89003} {77770100,55701}</t>
+		<t id="89006">ProtoBeam</t>
+		
     </page>
 	<page id="77770401" title="PX4BoltWeapons" descr="Text for new Weapons" voice="no">
 		<!--S ProtoBolt Mk1-->
@@ -346,17 +377,17 @@
 		<t id="99205">(ProtoBolt Mk1){77770401,99203} {77770100,55701}</t>
 		<t id="99206">ProtoBolt</t>
 		<!--M PAR ProtoBolt Turret Mk1-->
-		<t id="99101">(ProtoBolt Turret Mk1){77770401,99103}</t>
+		<t id="99101">(ProtoBolt Mk1){77770401,99103}</t>
 		<t id="99102">{77770100,55704}(This is a Project X Prototype Mk1 Bolt Turret Weapon)</t>
 		<t id="99103">(Prototype){77770401,99106}</t>
-		<t id="99104">(PAR M ProtoBolt Turret Mk1){77770100,55711} {77770100,55706} {77770401,99101} {77770100,55701}</t>
+		<t id="99104">(PAR M ProtoBolt Mk1){77770100,55711} {77770100,55706} {77770401,99101} {77770100,55701}</t>
 		<t id="99105">(ProtoBolt Mk1){77770401,99103} {77770100,55701}</t>
 		<t id="99106">ProtoBolt</t>
 		<!--M TEL ProtoBolt Turret Mk1-->
-		<t id="99001">(ProtoBolt Turret Mk1){77770401,99003}</t>
+		<t id="99001">(ProtoBolt Mk1){77770401,99003}</t>
 		<t id="99002">{77770100,55704}(This is a Project X Prototype Mk1 Bolt Turret Weapon)</t>
 		<t id="99003">(Prototype){77770401,99006}</t>
-		<t id="99004">(TEL M ProtoBolt Turret Mk1){77770100,55712} {77770100,55706} {77770401,99001} {77770100,55701}</t>
+		<t id="99004">(TEL M ProtoBolt Mk1){77770100,55712} {77770100,55706} {77770401,99001} {77770100,55701}</t>
 		<t id="99005">(ProtoBolt Mk1){77770401,99003} {77770100,55701}</t>
 		<t id="99006">ProtoBolt</t>
 		<!--Large Sized Turrets-->
