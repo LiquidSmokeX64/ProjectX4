@@ -434,24 +434,24 @@
 		<!--Large Sized Weapons-->
 		<!--Medium Sized Turrets-->
 		<!--M ARG ProtoBolt Turret Mk1-->
-		<t id="99201">(ProtoBolt Turret Mk1){77770401,99203}</t>
+		<t id="99201">(ProtoBolt Mk1){77770401,99203}</t>
 		<t id="99202">{77770100,55704}(This is a Project X Prototype Mk1 Bolt Turret Weapon)</t>
 		<t id="99203">(Prototype){77770401,99206}</t>
-		<t id="99204">(ARG M ProtoBolt Turret Mk1){77770100,55710} {77770100,55706} {77770401,99201} {77770100,55701}</t>
+		<t id="99204">(ARG M ProtoBolt Mk1){77770100,55710} {77770100,55706} {77770401,99201} {77770100,55701}</t>
 		<t id="99205">(ProtoBolt Mk1){77770401,99203} {77770100,55701}</t>
 		<t id="99206">ProtoBolt</t>
 		<!--M ARG ProtoBolt Turret Mk2-->
-		<t id="98201">(ProtoBolt Turret Mk2){77770401,98203}</t>
+		<t id="98201">(ProtoBolt Mk2){77770401,98203}</t>
 		<t id="98202">{77770100,55704}(This is a Project X Prototype Mk2 Bolt Turret Weapon)</t>
 		<t id="98203">(Prototype){77770401,98206}</t>
-		<t id="98204">(ARG M ProtoBolt Turret Mk2){77770100,55710} {77770100,55706} {77770401,98201} {77770100,55702}</t>
+		<t id="98204">(ARG M ProtoBolt Mk2){77770100,55710} {77770100,55706} {77770401,98201} {77770100,55702}</t>
 		<t id="98205">(ProtoBolt Mk2){77770401,98203} {77770100,55702}</t>
 		<t id="98206">ProtoBolt</t>
 		<!--M ARG ProtoBolt Turret Mk3-->
-		<t id="97201">(ProtoBolt Turret Mk3){77770401,97203}</t>
+		<t id="97201">(ProtoBolt Mk3){77770401,97203}</t>
 		<t id="97202">{77770100,55704}(This is a Project X Prototype Mk3 Bolt Turret Weapon)</t>
 		<t id="97203">(Prototype){77770401,97206}</t>
-		<t id="97204">(ARG M ProtoBolt Turret Mk3){77770100,55710} {77770100,55706} {77770401,97201} {77770100,55703}</t>
+		<t id="97204">(ARG M ProtoBolt Mk3){77770100,55710} {77770100,55706} {77770401,97201} {77770100,55703}</t>
 		<t id="97205">(ProtoBolt Mk3){77770401,97203} {77770100,55703}</t>
 		<t id="97206">ProtoBolt</t>
 		<!--M PAR ProtoBolt Turret Mk1-->
@@ -462,17 +462,17 @@
 		<t id="99105">(ProtoBolt Mk1){77770401,99103} {77770100,55701}</t>
 		<t id="99106">ProtoBolt</t>
 		<!--M PAR ProtoBolt Turret Mk2-->
-		<t id="88201">(ProtoBolt Turret Mk2){77770401,88203}</t>
+		<t id="88201">(ProtoBolt Mk2){77770401,88203}</t>
 		<t id="88202">{77770100,55704}(This is a Project X Prototype Mk2 Bolt Turret Weapon)</t>
 		<t id="88203">(Prototype){77770401,88206}</t>
-		<t id="88204">(PAR M ProtoBolt Turret Mk2){77770100,55711} {77770100,55706} {77770401,88201} {77770100,55702}</t>
+		<t id="88204">(PAR M ProtoBolt Mk2){77770100,55711} {77770100,55706} {77770401,88201} {77770100,55702}</t>
 		<t id="88205">(ProtoBolt Mk2){77770401,88203} {77770100,55702}</t>
 		<t id="88206">ProtoBolt</t>
 		<!--M PAR ProtoBolt Turret Mk3-->
-		<t id="87201">(ProtoBolt Turret Mk3){77770401,87203}</t>
+		<t id="87201">(ProtoBolt Mk3){77770401,87203}</t>
 		<t id="87202">{77770100,55704}(This is a Project X Prototype Mk3 Bolt Turret Weapon)</t>
 		<t id="87203">(Prototype){77770401,87206}</t>
-		<t id="87204">(PAR M ProtoBolt Turret Mk3){77770100,55711} {77770100,55706} {77770401,87201} {77770100,55703}</t>
+		<t id="87204">(PAR M ProtoBolt Mk3){77770100,55711} {77770100,55706} {77770401,87201} {77770100,55703}</t>
 		<t id="87205">(ProtoBolt Mk3){77770401,87203} {77770100,55703}</t>
 		<t id="87206">ProtoBolt</t>
 		<!--M TEL ProtoBolt Turret Mk1-->
@@ -483,17 +483,17 @@
 		<t id="99005">(ProtoBolt Mk1){77770401,99003} {77770100,55701}</t>
 		<t id="99006">ProtoBolt</t>
 		<!--M TEL ProtoBolt Turret Mk2-->
-		<t id="78201">(ProtoBolt Turret Mk2){77770401,78203}</t>
+		<t id="78201">(ProtoBolt Mk2){77770401,78203}</t>
 		<t id="78202">{77770100,55704}(This is a Project X Prototype Mk2 Bolt Turret Weapon)</t>
 		<t id="78203">(Prototype){77770401,78206}</t>
-		<t id="78204">(TEL M ProtoBolt Turret Mk2){77770100,55712} {77770100,55706} {77770401,78201} {77770100,55702}</t>
+		<t id="78204">(TEL M ProtoBolt Mk2){77770100,55712} {77770100,55706} {77770401,78201} {77770100,55702}</t>
 		<t id="78205">(ProtoBolt Mk2){77770401,78203} {77770100,55702}</t>
 		<t id="78206">ProtoBolt</t>
 		<!--M TEL ProtoBolt Turret Mk3-->
-		<t id="77201">(ProtoBolt Turret Mk3){77770401,77203}</t>
+		<t id="77201">(ProtoBolt Mk3){77770401,77203}</t>
 		<t id="77202">{77770100,55704}(This is a Project X Prototype Mk3 Bolt Turret Weapon)</t>
 		<t id="77203">(Prototype){77770401,77206}</t>
-		<t id="77204">(TEL M ProtoBolt Turret Mk3){77770100,55712} {77770100,55706} {77770401,77201} {77770100,55703}</t>
+		<t id="77204">(TEL M ProtoBolt Mk3){77770100,55712} {77770100,55706} {77770401,77201} {77770100,55703}</t>
 		<t id="77205">(ProtoBolt Mk3){77770401,77203} {77770100,55703}</t>
 		<t id="77206">ProtoBolt</t>
 		<!--Large Sized Turrets-->
