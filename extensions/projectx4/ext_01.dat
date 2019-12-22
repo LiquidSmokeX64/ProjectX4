@@ -948,6 +948,14 @@
 		<entry name="bullet_gen_s_prototype_beam_01_mk1_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\small\beamguns\bullet_gen_s_prototype_beam_01_mk1_macro" />
 		<entry name="bullet_gen_s_prototype_beam_01_mk2_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\small\beamguns\bullet_gen_s_prototype_beam_01_mk2_macro" />
 		<entry name="bullet_gen_s_prototype_beam_01_mk3_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\small\beamguns\bullet_gen_s_prototype_beam_01_mk3_macro" />
+		<!--M BeamGuns Beams-->
+		<entry name="bullet_gen_m_prototype_beam_01_mk1_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\medium\beamguns\bullet_gen_m_prototype_beam_01_mk1_macro" />
+		<entry name="bullet_gen_m_prototype_beam_01_mk2_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\medium\beamguns\bullet_gen_m_prototype_beam_01_mk2_macro" />
+		<entry name="bullet_gen_m_prototype_beam_01_mk3_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\medium\beamguns\bullet_gen_m_prototype_beam_01_mk3_macro" />
+		<!--M BeamGuns-->
+		<entry name="weapon_gen_m_prototype_beam_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\general\medium\beamguns\weapon_gen_m_prototype_beam_01_mk1_macro" />
+		<entry name="weapon_gen_m_prototype_beam_01_mk2_macro" value="extensions\projectx4\weapon_macros\weapons\general\medium\beamguns\weapon_gen_m_prototype_beam_01_mk2_macro" />
+		<entry name="weapon_gen_m_prototype_beam_01_mk3_macro" value="extensions\projectx4\weapon_macros\weapons\general\medium\beamguns\weapon_gen_m_prototype_beam_01_mk3_macro" />
 		<!--S BoltRepeaters-->
 		<entry name="weapon_gen_s_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\general\small\boltrepeater\weapon_gen_s_prototype_gatling_01_mk1_macro" />
 		<entry name="weapon_gen_s_prototype_gatling_01_mk2_macro" value="extensions\projectx4\weapon_macros\weapons\general\small\boltrepeater\weapon_gen_s_prototype_gatling_01_mk2_macro" />
@@ -1763,6 +1771,69 @@
 			<owner faction="ministry" />
 			<owner faction="paranid" />
 			<owner faction="scaleplate" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="weapon_gen_m_prototype_beam_01_mk1" name="{77770201,69804}" description="{77770201,69802}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
+			<price min="150000" average="200000" max="250000" />
+			<production time="10" amount="1" method="default" name="{77770000,55701}">
+				<primary>
+					<ware ware="advancedelectronics" amount="21" />
+					<ware ware="energycells" amount="21" />
+					<ware ware="weaponcomponents" amount="62" />
+					<ware ware="smartchips" amount="14" />
+				</primary>
+			</production>
+			<component ref="weapon_gen_m_prototype_beam_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.57" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="holyorder" />
+			<owner faction="ministry" />
+			<owner faction="paranid" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="weapon_gen_m_prototype_beam_01_mk2" name="{77770201,69704}" description="{77770201,69702}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
+			<price min="250000" average="300000" max="350000" />
+			<production time="10" amount="1" method="default" name="{77770000,55701}">
+				<primary>
+					<ware ware="advancedelectronics" amount="32" />
+					<ware ware="energycells" amount="32" />
+					<ware ware="weaponcomponents" amount="73" />
+					<ware ware="smartchips" amount="26" />
+				</primary>
+			</production>
+			<component ref="weapon_gen_m_prototype_beam_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.57" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="holyorder" />
+			<owner faction="ministry" />
+			<owner faction="paranid" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="weapon_gen_m_prototype_beam_01_mk3" name="{77770201,69604}" description="{77770201,69602}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
+			<price min="350000" average="400000" max="450000" />
+			<production time="10" amount="1" method="default" name="{77770000,55701}">
+				<primary>
+					<ware ware="advancedelectronics" amount="43" />
+					<ware ware="energycells" amount="43" />
+					<ware ware="weaponcomponents" amount="84" />
+					<ware ware="smartchips" amount="38" />
+				</primary>
+			</production>
+			<component ref="weapon_gen_m_prototype_beam_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.57" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="holyorder" />
+			<owner faction="ministry" />
+			<owner faction="paranid" />
 			<owner faction="teladi" />
 		</ware>
 		<ware id="weapon_gen_s_prototype_gatling_01_mk1" name="{77770401,99804}" description="{77770401,99802}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
@@ -4419,6 +4490,27 @@
 		<t id="99604">(S ProtoBeam Mk3){77770100,55705} {77770201,99601} {77770100,55703}</t>
 		<t id="99605">(ProtoBeam Mk3){77770201,99603} {77770100,55703}</t>
 		<t id="99606">ProtoBeam</t>
+		<!--M ProtoBeam Mk1-->
+		<t id="69801">(ProtoBeam Mk1){77770201,69803}</t>
+		<t id="69802">{77770100,55704}(This is a Project X Prototype Mk1 Beam Weapon)</t>
+		<t id="69803">(Prototype){77770201,69806}</t>
+		<t id="69804">(M ProtoBeam Mk1){77770100,55706} {77770201,69801} {77770100,55701}</t>
+		<t id="69805">(ProtoBeam Mk1){77770201,69803} {77770100,55701}</t>
+		<t id="69806">ProtoBeam</t>
+		<!--M ProtoBeam Mk2-->
+		<t id="69701">(ProtoBeam Mk2){77770201,69703}</t>
+		<t id="69702">{77770100,55704}(This is a Project X Prototype Mk2 Beam Weapon)</t>
+		<t id="69703">(Prototype){77770201,69706}</t>
+		<t id="69704">(M ProtoBeam Mk2){77770100,55706} {77770201,69701} {77770100,55702}</t>
+		<t id="69705">(ProtoBeam Mk2){77770201,69703} {77770100,55702}</t>
+		<t id="69706">ProtoBeam</t>
+		<!--M ProtoBeam Mk3-->
+		<t id="69601">(ProtoBeam Mk3){77770201,69603}</t>
+		<t id="69602">{77770100,55704}(This is a Project X Prototype Mk3 Beam Weapon)</t>
+		<t id="69603">(Prototype){77770201,69606}</t>
+		<t id="69604">(M ProtoBeam Mk3){77770100,55706} {77770201,69601} {77770100,55703}</t>
+		<t id="69605">(ProtoBeam Mk3){77770201,69603} {77770100,55703}</t>
+		<t id="69606">ProtoBeam</t>
 		<!--Medium Turrets-->
 		<!--M ARG ProtoBeam Turret Mk1-->
 		<t id="99501">(ProtoBeam Mk1){77770201,99503}</t>
@@ -4504,8 +4596,7 @@
 		<t id="89003">(Prototype){77770201,89006}</t>
 		<t id="89004">(TEL L ProtoBeam Mk1){77770100,55712} {77770100,55707} {77770201,89001} {77770100,55701}</t>
 		<t id="89005">(ProtoBeam Mk1){77770201,89003} {77770100,55701}</t>
-		<t id="89006">ProtoBeam</t>
-		
+		<t id="89006">ProtoBeam</t>	
     </page>
 	<page id="77770401" title="PX4BoltWeapons" descr="Text for new Weapons" voice="no">
 		<!--S ProtoBolt Mk1-->
@@ -4965,6 +5056,60 @@
 </language><?xml version="1.0" encoding="utf-8"?>
 <!--Created by: ManDaxi-->
 <macros>
+  <macro name="bullet_gen_m_prototype_beam_01_mk1_macro" class="bullet">
+    <component ref="bullet_gen_m_beam_01_mk2" />
+    <properties>
+      <bullet speed="7333" lifetime="4.5" range="4500" amount="1" barrelamount="1" icon="weapon_beam_mk2" maxhits="1" ricochet="0" scale="1" attach="1" />
+      <heat initial="750" value="300" />
+      <reload time="7" />
+      <damage value="378" repair="0" />
+      <effects>
+        <impact ref="impact_gen_m_beam_01_mk1" inside="impact_gen_m_beam_01_mk1_inside" />
+        <bigobjectimpact ref="impact_gen_m_beam_01_mk1_bigobject" inside="impact_gen_m_beam_01_mk1_bigobject_inside" />
+        <launch ref="muzzle_gen_m_beam_01_mk1" />
+      </effects>
+      <weapon system="weapon_standard" />
+    </properties>
+  </macro>
+</macros><?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
+  <macro name="bullet_gen_m_prototype_beam_01_mk2_macro" class="bullet">
+    <component ref="bullet_gen_m_beam_01_mk2" />
+    <properties>
+      <bullet speed="7667" lifetime="5" range="4750" amount="1" barrelamount="1" icon="weapon_beam_mk2" maxhits="1" ricochet="0" scale="1" attach="1" />
+      <heat initial="725" value="350" />
+      <reload time="6" />
+      <damage value="427" repair="0" />
+      <effects>
+        <impact ref="impact_gen_m_beam_01_mk1" inside="impact_gen_m_beam_01_mk1_inside" />
+        <bigobjectimpact ref="impact_gen_m_beam_01_mk1_bigobject" inside="impact_gen_m_beam_01_mk1_bigobject_inside" />
+        <launch ref="muzzle_gen_m_beam_01_mk1" />
+      </effects>
+      <weapon system="weapon_standard" />
+    </properties>
+  </macro>
+</macros><?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
+  <macro name="bullet_gen_m_prototype_beam_01_mk3_macro" class="bullet">
+    <component ref="bullet_gen_m_beam_01_mk2" />
+    <properties>
+      <bullet speed="8002" lifetime="5.5" range="5000" amount="1" barrelamount="1" icon="weapon_beam_mk2" maxhits="1" ricochet="0" scale="1" attach="1" />
+      <heat initial="700" value="400" />
+      <reload time="5" />
+      <damage value="485" repair="0" />
+      <effects>
+        <impact ref="impact_gen_m_beam_01_mk1" inside="impact_gen_m_beam_01_mk1_inside" />
+        <bigobjectimpact ref="impact_gen_m_beam_01_mk1_bigobject" inside="impact_gen_m_beam_01_mk1_bigobject_inside" />
+        <launch ref="muzzle_gen_m_beam_01_mk1" />
+      </effects>
+      <weapon system="weapon_standard" />
+    </properties>
+  </macro>
+</macros><?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
   <macro name="bullet_gen_m_prototype_gatling_01_mk1_macro" class="bullet">
     <component ref="bullet_gen_m_gatling_01_mk2" />
     <properties>
@@ -5419,6 +5564,69 @@
       <rotationspeed max="200" />
       <reload rate="0.80" time="0.80" />
       <hull max="550" threshold="0.2" integrated="0" />
+    </properties>
+  </macro>
+</macros><?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
+  <macro name="weapon_gen_m_prototype_beam_01_mk1_macro" class="weapon">
+    <component ref="weapon_gen_m_beam_01_mk2" />
+    <properties>
+      <identification name="{77770201,69804}" basename="{77770201,69801}" shortname="{77770201,69805}" description="{77770201,69802}" mk="1" />
+      <bullet class="bullet_gen_m_prototype_beam_01_mk1_macro" />
+      <heat overheat="15000" cooldelay="0.93" coolrate="2500" reenable="7000" />
+      <rotationspeed max="70" />
+      <rotationacceleration max="35" />
+      <reload />
+      <hull max="1250" hittable="0" />
+      <effects>
+        <firing start="startshooting_gen_s_beam_01_mk1" stop="stopshooting_gen_s_beam_01_mk1" />
+      </effects>
+      <sounds>
+        <firing ref="wpn_beam_gen_01" />
+      </sounds>
+    </properties>
+  </macro>
+</macros><?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
+  <macro name="weapon_gen_m_prototype_beam_01_mk2_macro" class="weapon">
+    <component ref="weapon_gen_m_beam_01_mk2" />
+    <properties>
+      <identification name="{77770201,69704}" basename="{77770201,69701}" shortname="{77770201,69705}" description="{77770201,69702}" mk="2" />
+      <bullet class="bullet_gen_m_prototype_beam_01_mk2_macro" />
+      <heat overheat="17500" cooldelay="0.82" coolrate="2750" reenable="6750" />
+      <rotationspeed max="75" />
+      <rotationacceleration max="40" />
+      <reload />
+      <hull max="1500" hittable="0" />
+      <effects>
+        <firing start="startshooting_gen_s_beam_01_mk1" stop="stopshooting_gen_s_beam_01_mk1" />
+      </effects>
+      <sounds>
+        <firing ref="wpn_beam_gen_01" />
+      </sounds>
+    </properties>
+  </macro>
+</macros><?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
+  <macro name="weapon_gen_m_prototype_beam_01_mk3_macro" class="weapon">
+    <component ref="weapon_gen_m_beam_01_mk2" />
+    <properties>
+      <identification name="{77770201,69604}" basename="{77770201,69601}" shortname="{77770201,69605}" description="{77770201,69602}" mk="3" />
+      <bullet class="bullet_gen_m_prototype_beam_01_mk3_macro" />
+      <heat overheat="20000" cooldelay="0.71" coolrate="3000" reenable="6500" />
+      <rotationspeed max="80" />
+      <rotationacceleration max="45" />
+      <reload />
+      <hull max="1750" hittable="0" />
+      <effects>
+        <firing start="startshooting_gen_s_beam_01_mk1" stop="stopshooting_gen_s_beam_01_mk1" />
+      </effects>
+      <sounds>
+        <firing ref="wpn_beam_gen_01" />
+      </sounds>
     </properties>
   </macro>
 </macros><?xml version="1.0" encoding="utf-8"?>
