@@ -683,6 +683,69 @@
 			<owner faction="scaleplate" />
 			<owner faction="teladi" />
 		</ware>
+		<ware id="weapon_gen_m_prototype_beam_01_mk1" name="{77770201,69804}" description="{77770201,69802}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
+			<price min="150000" average="200000" max="250000" />
+			<production time="10" amount="1" method="default" name="{77770000,55701}">
+				<primary>
+					<ware ware="advancedelectronics" amount="21" />
+					<ware ware="energycells" amount="21" />
+					<ware ware="weaponcomponents" amount="62" />
+					<ware ware="smartchips" amount="14" />
+				</primary>
+			</production>
+			<component ref="weapon_gen_m_prototype_beam_01_mk1_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.57" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="holyorder" />
+			<owner faction="ministry" />
+			<owner faction="paranid" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="weapon_gen_m_prototype_beam_01_mk2" name="{77770201,69704}" description="{77770201,69702}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
+			<price min="250000" average="300000" max="350000" />
+			<production time="10" amount="1" method="default" name="{77770000,55701}">
+				<primary>
+					<ware ware="advancedelectronics" amount="32" />
+					<ware ware="energycells" amount="32" />
+					<ware ware="weaponcomponents" amount="73" />
+					<ware ware="smartchips" amount="26" />
+				</primary>
+			</production>
+			<component ref="weapon_gen_m_prototype_beam_01_mk2_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.57" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="holyorder" />
+			<owner faction="ministry" />
+			<owner faction="paranid" />
+			<owner faction="teladi" />
+		</ware>
+		<ware id="weapon_gen_m_prototype_beam_01_mk3" name="{77770201,69604}" description="{77770201,69602}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
+			<price min="350000" average="400000" max="450000" />
+			<production time="10" amount="1" method="default" name="{77770000,55701}">
+				<primary>
+					<ware ware="advancedelectronics" amount="43" />
+					<ware ware="energycells" amount="43" />
+					<ware ware="weaponcomponents" amount="84" />
+					<ware ware="smartchips" amount="38" />
+				</primary>
+			</production>
+			<component ref="weapon_gen_m_prototype_beam_01_mk3_macro" amount="1" />
+			<restriction licence="militaryequipment" />
+			<use threshold="0.57" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+			<owner faction="holyorder" />
+			<owner faction="ministry" />
+			<owner faction="paranid" />
+			<owner faction="teladi" />
+		</ware>
 		<ware id="weapon_gen_s_prototype_gatling_01_mk1" name="{77770401,99804}" description="{77770401,99802}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
 			<price min="250000" average="300000" max="350000" />
 				<production time="10" amount="1" method="default" name="{77770000,55701}">

@@ -74,6 +74,14 @@
 		<entry name="bullet_gen_s_prototype_beam_01_mk1_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\small\beamguns\bullet_gen_s_prototype_beam_01_mk1_macro" />
 		<entry name="bullet_gen_s_prototype_beam_01_mk2_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\small\beamguns\bullet_gen_s_prototype_beam_01_mk2_macro" />
 		<entry name="bullet_gen_s_prototype_beam_01_mk3_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\small\beamguns\bullet_gen_s_prototype_beam_01_mk3_macro" />
+		<!--M BeamGuns Beams-->
+		<entry name="bullet_gen_m_prototype_beam_01_mk1_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\medium\beamguns\bullet_gen_m_prototype_beam_01_mk1_macro" />
+		<entry name="bullet_gen_m_prototype_beam_01_mk2_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\medium\beamguns\bullet_gen_m_prototype_beam_01_mk2_macro" />
+		<entry name="bullet_gen_m_prototype_beam_01_mk3_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\medium\beamguns\bullet_gen_m_prototype_beam_01_mk3_macro" />
+		<!--M BeamGuns-->
+		<entry name="weapon_gen_m_prototype_beam_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\general\medium\beamguns\weapon_gen_m_prototype_beam_01_mk1_macro" />
+		<entry name="weapon_gen_m_prototype_beam_01_mk2_macro" value="extensions\projectx4\weapon_macros\weapons\general\medium\beamguns\weapon_gen_m_prototype_beam_01_mk2_macro" />
+		<entry name="weapon_gen_m_prototype_beam_01_mk3_macro" value="extensions\projectx4\weapon_macros\weapons\general\medium\beamguns\weapon_gen_m_prototype_beam_01_mk3_macro" />
 		<!--S BoltRepeaters-->
 		<entry name="weapon_gen_s_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\general\small\boltrepeater\weapon_gen_s_prototype_gatling_01_mk1_macro" />
 		<entry name="weapon_gen_s_prototype_gatling_01_mk2_macro" value="extensions\projectx4\weapon_macros\weapons\general\small\boltrepeater\weapon_gen_s_prototype_gatling_01_mk2_macro" />

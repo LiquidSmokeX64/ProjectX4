@@ -299,6 +299,27 @@
 		<t id="99604">(S ProtoBeam Mk3){77770100,55705} {77770201,99601} {77770100,55703}</t>
 		<t id="99605">(ProtoBeam Mk3){77770201,99603} {77770100,55703}</t>
 		<t id="99606">ProtoBeam</t>
+		<!--M ProtoBeam Mk1-->
+		<t id="69801">(ProtoBeam Mk1){77770201,69803}</t>
+		<t id="69802">{77770100,55704}(This is a Project X Prototype Mk1 Beam Weapon)</t>
+		<t id="69803">(Prototype){77770201,69806}</t>
+		<t id="69804">(M ProtoBeam Mk1){77770100,55706} {77770201,69801} {77770100,55701}</t>
+		<t id="69805">(ProtoBeam Mk1){77770201,69803} {77770100,55701}</t>
+		<t id="69806">ProtoBeam</t>
+		<!--M ProtoBeam Mk2-->
+		<t id="69701">(ProtoBeam Mk2){77770201,69703}</t>
+		<t id="69702">{77770100,55704}(This is a Project X Prototype Mk2 Beam Weapon)</t>
+		<t id="69703">(Prototype){77770201,69706}</t>
+		<t id="69704">(M ProtoBeam Mk2){77770100,55706} {77770201,69701} {77770100,55702}</t>
+		<t id="69705">(ProtoBeam Mk2){77770201,69703} {77770100,55702}</t>
+		<t id="69706">ProtoBeam</t>
+		<!--M ProtoBeam Mk3-->
+		<t id="69601">(ProtoBeam Mk3){77770201,69603}</t>
+		<t id="69602">{77770100,55704}(This is a Project X Prototype Mk3 Beam Weapon)</t>
+		<t id="69603">(Prototype){77770201,69606}</t>
+		<t id="69604">(M ProtoBeam Mk3){77770100,55706} {77770201,69601} {77770100,55703}</t>
+		<t id="69605">(ProtoBeam Mk3){77770201,69603} {77770100,55703}</t>
+		<t id="69606">ProtoBeam</t>
 		<!--Medium Turrets-->
 		<!--M ARG ProtoBeam Turret Mk1-->
 		<t id="99501">(ProtoBeam Mk1){77770201,99503}</t>
@@ -384,8 +405,7 @@
 		<t id="89003">(Prototype){77770201,89006}</t>
 		<t id="89004">(TEL L ProtoBeam Mk1){77770100,55712} {77770100,55707} {77770201,89001} {77770100,55701}</t>
 		<t id="89005">(ProtoBeam Mk1){77770201,89003} {77770100,55701}</t>
-		<t id="89006">ProtoBeam</t>
-		
+		<t id="89006">ProtoBeam</t>	
     </page>
 	<page id="77770401" title="PX4BoltWeapons" descr="Text for new Weapons" voice="no">
 		<!--S ProtoBolt Mk1-->
