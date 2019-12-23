@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<diff>
+	<!-- Unlock Scaleplate Relations -->
+	<remove sel="//faction[@id='scaleplate']/relations/@locked"/>
+</diff>

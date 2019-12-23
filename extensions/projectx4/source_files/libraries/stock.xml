@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<diff> 
+	<!-- Paint Mods at Station Traders -->
+	<add sel="/stocks/stock[@id='default_trader']">
+		<ware ref="paintmod_0001" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0002" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0003" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0004" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0005" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0006" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0007" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0008" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0009" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0010" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0011" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0012" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0013" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0014" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0015" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0016" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0017" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0018" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0019" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0020" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0021" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0022" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0023" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0024" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0025" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0026" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0027" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0028" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0029" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0030" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0031" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0032" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0033" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0034" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0035" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0036" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0037" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0038" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0039" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0040" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0041" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0042" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0043" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0044" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0045" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0046" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0047" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0048" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0049" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0050" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0051" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0052" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0053" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0054" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0055" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0056" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0057" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0058" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0059" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0060" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0061" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0062" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0063" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0064" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0065" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0066" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0067" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0068" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0069" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0070" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0071" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0072" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0073" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0074" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0075" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0076" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0077" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0078" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0079" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0080" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0081" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0082" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0083" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0084" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0085" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0086" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0087" min="0" max="1" chance="2" />
+	</add>
+	<!-- Paint Mods for Pirate Station Traders -->
+	<add sel="/stocks/stock[@id='pirate_trader']">
+		<ware ref="paintmod_0001" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0002" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0003" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0004" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0005" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0006" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0007" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0008" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0009" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0010" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0011" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0012" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0013" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0014" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0015" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0016" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0017" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0018" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0019" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0020" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0021" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0022" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0023" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0024" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0025" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0026" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0027" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0028" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0029" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0030" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0031" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0032" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0033" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0034" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0035" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0036" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0037" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0038" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0039" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0040" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0041" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0042" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0043" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0044" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0045" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0046" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0047" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0048" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0049" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0050" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0051" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0052" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0053" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0054" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0055" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0056" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0057" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0058" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0059" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0060" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0061" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0062" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0063" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0064" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0065" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0066" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0067" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0068" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0069" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0070" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0071" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0072" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0073" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0074" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0075" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0076" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0077" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0078" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0079" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0080" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0081" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0082" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0083" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0084" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0085" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0086" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0087" min="0" max="1" chance="2" />
+	</add>
+	<!-- Add Mod Parts to Station Traders -->
+	<add sel="/stocks/stock[@id='default_trader']">
+		<ware ref="modpart_nividiumoxide" min="0" max="2" chance="4" />
+		<ware ref="modpart_tuningsoftware" min="0" max="2" chance="4" />
+		<ware ref="modpart_enginefuelinjector_t1" min="0" max="3" chance="6" />		
+		<ware ref="modpart_enginefuelinjector_t2" min="0" max="2" chance="4" />	
+		<ware ref="modpart_enginefuelinjector_t3" min="0" max="1" chance="2" />	
+		<ware ref="modpart_extendedfuelcontainer" min="0" max="2" chance="4" />			
+		<ware ref="modpart_highenergycatalyst" min="0" max="2" chance="4" />
+		<ware ref="modpart_nividiumcrystallite" min="0" max="2" chance="4" />
+		<ware ref="modpart_shieldgeneratorcoil_t1" min="0" max="3" chance="6" />
+		<ware ref="modpart_shieldgeneratorcoil_t2" min="0" max="2" chance="4" />			
+		<ware ref="modpart_shieldgeneratorcoil_t3" min="0" max="1" chance="2" />	
+		<ware ref="modpart_shipnanoweave_t1" min="0" max="3" chance="6" />
+		<ware ref="modpart_shipnanoweave_t2" min="0" max="2" chance="4" />		
+		<ware ref="modpart_shipnanoweave_t3" min="0" max="1" chance="2" />
+		<ware ref="modpart_weaponchamber_t1" min="0" max="3" chance="6" />		
+		<ware ref="modpart_weaponchamber_t2" min="0" max="2" chance="4" />			
+		<ware ref="modpart_weaponchamber_t3" min="0" max="1" chance="2" />
+	</add>
+	<!-- Add Mod Parts to Pirate Station Traders -->
+	<add sel="/stocks/stock[@id='pirate_trader']">
+		<ware ref="modpart_nividiumoxide" min="0" max="2" chance="4" />
+		<ware ref="modpart_tuningsoftware" min="0" max="2" chance="4" />
+		<ware ref="modpart_enginefuelinjector_t1" min="0" max="3" chance="6" />		
+		<ware ref="modpart_enginefuelinjector_t2" min="0" max="2" chance="4" />	
+		<ware ref="modpart_enginefuelinjector_t3" min="0" max="1" chance="2" />	
+		<ware ref="modpart_extendedfuelcontainer" min="0" max="2" chance="4" />			
+		<ware ref="modpart_highenergycatalyst" min="0" max="2" chance="4" />
+		<ware ref="modpart_nividiumcrystallite" min="0" max="2" chance="4" />
+		<ware ref="modpart_shieldgeneratorcoil_t1" min="0" max="3" chance="6" />
+		<ware ref="modpart_shieldgeneratorcoil_t2" min="0" max="2" chance="4" />			
+		<ware ref="modpart_shieldgeneratorcoil_t3" min="0" max="1" chance="2" />	
+		<ware ref="modpart_shipnanoweave_t1" min="0" max="3" chance="6" />
+		<ware ref="modpart_shipnanoweave_t2" min="0" max="2" chance="4" />		
+		<ware ref="modpart_shipnanoweave_t3" min="0" max="1" chance="2" />
+		<ware ref="modpart_weaponchamber_t1" min="0" max="3" chance="6" />		
+		<ware ref="modpart_weaponchamber_t2" min="0" max="2" chance="4" />			
+		<ware ref="modpart_weaponchamber_t3" min="0" max="1" chance="2" />
+	</add>
+	<!-- Add SETA Parts to Station Traders -->
+	<add sel="/stocks/stock[@id='default_trader']">
+		<ware ref="inv_fluxcapacitor" min="0" max="1" chance="2"/>
+		<ware ref="inv_programmablefieldarray" min="0" max="1" chance="2"/>
+		<ware ref="inv_damagedsingularityengine" min="0" max="1" chance="2"/>
+	</add>
+	<!-- Add SETA Parts to Pirate Station Traders -->
+	<add sel="/stocks/stock[@id='pirate_trader']">
+		<ware ref="inv_fluxcapacitor" min="0" max="1" chance="2"/>
+		<ware ref="inv_programmablefieldarray" min="0" max="1" chance="2"/>
+		<ware ref="inv_damagedsingularityengine" min="0" max="1" chance="2"/>
+	</add>
+</diff>

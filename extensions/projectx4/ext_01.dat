@@ -1088,9 +1088,584 @@
 		<entry name="shield_tel_xl_prototype_standard_01_mk2_macro" value="extensions\projectx4\shield_macros\tel\extralarge\shield_tel_xl_prototype_standard_01_mk2_macro" />
 		<entry name="shield_tel_xl_prototype_standard_01_mk3_macro" value="extensions\projectx4\shield_macros\tel\extralarge\shield_tel_xl_prototype_standard_01_mk3_macro" />
     </add>
+</diff><?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<diff>
+	<!-- Unlock Scaleplate Relations -->
+	<remove sel="//faction[@id='scaleplate']/relations/@locked"/>
+</diff><?xml version="1.0" encoding="utf-8"?> 
+<diff> 
+	<!-- Paint Mods at Station Traders -->
+	<add sel="/stocks/stock[@id='default_trader']">
+		<ware ref="paintmod_0001" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0002" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0003" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0004" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0005" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0006" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0007" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0008" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0009" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0010" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0011" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0012" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0013" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0014" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0015" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0016" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0017" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0018" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0019" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0020" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0021" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0022" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0023" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0024" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0025" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0026" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0027" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0028" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0029" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0030" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0031" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0032" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0033" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0034" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0035" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0036" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0037" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0038" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0039" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0040" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0041" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0042" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0043" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0044" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0045" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0046" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0047" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0048" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0049" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0050" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0051" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0052" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0053" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0054" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0055" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0056" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0057" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0058" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0059" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0060" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0061" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0062" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0063" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0064" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0065" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0066" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0067" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0068" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0069" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0070" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0071" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0072" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0073" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0074" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0075" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0076" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0077" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0078" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0079" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0080" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0081" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0082" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0083" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0084" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0085" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0086" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0087" min="0" max="1" chance="2" />
+	</add>
+	<!-- Paint Mods for Pirate Station Traders -->
+	<add sel="/stocks/stock[@id='pirate_trader']">
+		<ware ref="paintmod_0001" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0002" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0003" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0004" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0005" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0006" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0007" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0008" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0009" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0010" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0011" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0012" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0013" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0014" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0015" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0016" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0017" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0018" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0019" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0020" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0021" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0022" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0023" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0024" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0025" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0026" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0027" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0028" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0029" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0030" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0031" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0032" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0033" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0034" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0035" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0036" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0037" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0038" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0039" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0040" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0041" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0042" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0043" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0044" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0045" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0046" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0047" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0048" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0049" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0050" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0051" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0052" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0053" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0054" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0055" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0056" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0057" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0058" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0059" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0060" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0061" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0062" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0063" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0064" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0065" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0066" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0067" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0068" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0069" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0070" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0071" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0072" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0073" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0074" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0075" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0076" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0077" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0078" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0079" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0080" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0081" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0082" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0083" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0084" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0085" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0086" min="0" max="1" chance="2" />
+		<ware ref="paintmod_0087" min="0" max="1" chance="2" />
+	</add>
+	<!-- Add Mod Parts to Station Traders -->
+	<add sel="/stocks/stock[@id='default_trader']">
+		<ware ref="modpart_nividiumoxide" min="0" max="2" chance="4" />
+		<ware ref="modpart_tuningsoftware" min="0" max="2" chance="4" />
+		<ware ref="modpart_enginefuelinjector_t1" min="0" max="3" chance="6" />		
+		<ware ref="modpart_enginefuelinjector_t2" min="0" max="2" chance="4" />	
+		<ware ref="modpart_enginefuelinjector_t3" min="0" max="1" chance="2" />	
+		<ware ref="modpart_extendedfuelcontainer" min="0" max="2" chance="4" />			
+		<ware ref="modpart_highenergycatalyst" min="0" max="2" chance="4" />
+		<ware ref="modpart_nividiumcrystallite" min="0" max="2" chance="4" />
+		<ware ref="modpart_shieldgeneratorcoil_t1" min="0" max="3" chance="6" />
+		<ware ref="modpart_shieldgeneratorcoil_t2" min="0" max="2" chance="4" />			
+		<ware ref="modpart_shieldgeneratorcoil_t3" min="0" max="1" chance="2" />	
+		<ware ref="modpart_shipnanoweave_t1" min="0" max="3" chance="6" />
+		<ware ref="modpart_shipnanoweave_t2" min="0" max="2" chance="4" />		
+		<ware ref="modpart_shipnanoweave_t3" min="0" max="1" chance="2" />
+		<ware ref="modpart_weaponchamber_t1" min="0" max="3" chance="6" />		
+		<ware ref="modpart_weaponchamber_t2" min="0" max="2" chance="4" />			
+		<ware ref="modpart_weaponchamber_t3" min="0" max="1" chance="2" />
+	</add>
+	<!-- Add Mod Parts to Pirate Station Traders -->
+	<add sel="/stocks/stock[@id='pirate_trader']">
+		<ware ref="modpart_nividiumoxide" min="0" max="2" chance="4" />
+		<ware ref="modpart_tuningsoftware" min="0" max="2" chance="4" />
+		<ware ref="modpart_enginefuelinjector_t1" min="0" max="3" chance="6" />		
+		<ware ref="modpart_enginefuelinjector_t2" min="0" max="2" chance="4" />	
+		<ware ref="modpart_enginefuelinjector_t3" min="0" max="1" chance="2" />	
+		<ware ref="modpart_extendedfuelcontainer" min="0" max="2" chance="4" />			
+		<ware ref="modpart_highenergycatalyst" min="0" max="2" chance="4" />
+		<ware ref="modpart_nividiumcrystallite" min="0" max="2" chance="4" />
+		<ware ref="modpart_shieldgeneratorcoil_t1" min="0" max="3" chance="6" />
+		<ware ref="modpart_shieldgeneratorcoil_t2" min="0" max="2" chance="4" />			
+		<ware ref="modpart_shieldgeneratorcoil_t3" min="0" max="1" chance="2" />	
+		<ware ref="modpart_shipnanoweave_t1" min="0" max="3" chance="6" />
+		<ware ref="modpart_shipnanoweave_t2" min="0" max="2" chance="4" />		
+		<ware ref="modpart_shipnanoweave_t3" min="0" max="1" chance="2" />
+		<ware ref="modpart_weaponchamber_t1" min="0" max="3" chance="6" />		
+		<ware ref="modpart_weaponchamber_t2" min="0" max="2" chance="4" />			
+		<ware ref="modpart_weaponchamber_t3" min="0" max="1" chance="2" />
+	</add>
+	<!-- Add SETA Parts to Station Traders -->
+	<add sel="/stocks/stock[@id='default_trader']">
+		<ware ref="inv_fluxcapacitor" min="0" max="1" chance="2"/>
+		<ware ref="inv_programmablefieldarray" min="0" max="1" chance="2"/>
+		<ware ref="inv_damagedsingularityengine" min="0" max="1" chance="2"/>
+	</add>
+	<!-- Add SETA Parts to Pirate Station Traders -->
+	<add sel="/stocks/stock[@id='pirate_trader']">
+		<ware ref="inv_fluxcapacitor" min="0" max="1" chance="2"/>
+		<ware ref="inv_programmablefieldarray" min="0" max="1" chance="2"/>
+		<ware ref="inv_damagedsingularityengine" min="0" max="1" chance="2"/>
+	</add>
 </diff><?xml version="1.0" encoding="utf-8" ?>
 <!--Created by: ManDaxi-->
 <diff>
+	<!-- Legalize Xenon Wares -->
+    <remove sel="/wares/ware[@id='inv_agidevice_01']/@illegal"/>
+	<remove sel="/wares/ware[@id='inv_agidevice_02']/@illegal"/>
+	<remove sel="/wares/ware[@id='inv_agidevice_03']/@illegal"/>
+	<remove sel="/wares/ware[@id='inv_decryptionmodule']/@illegal"/>
+    <!-- Legalize Substances -->	
+	<remove sel="/wares/ware[@id='inv_spaceflycaviar']/@illegal"/>
+	<remove sel="/wares/ware[@id='inv_spaceflyeggs']/@illegal"/>
+	<remove sel="/wares/ware[@id='inv_unstablecrystal']/@illegal"/>
+	<!-- Inventory Wares Prices -->
+	<!-- Mod Part Prices -->
+	<replace sel="/wares/ware[@id='modpart_tuningsoftware']/price">
+		<price min="13500" average="17500" max="23500" />
+	</replace>
+	<replace sel="/wares/ware[@id='modpart_nividiumoxide']/price">
+		<price min="13500" average="17500" max="23500" />
+	</replace>
+	<replace sel="/wares/ware[@id='modpart_enginefuelinjector_t1']/price">
+		<price min="13500" average="17500" max="23500" />
+	</replace>
+	<replace sel="/wares/ware[@id='modpart_enginefuelinjector_t2']/price">
+		<price min="37500" average="43500" max="47500" />
+	</replace>	
+	<replace sel="/wares/ware[@id='modpart_enginefuelinjector_t3']/price">
+		<price min="53500" average="57500" max="63500" />
+	</replace>		
+	<replace sel="/wares/ware[@id='modpart_extendedfuelcontainer']/price">
+		<price min="13500" average="17500" max="23500" />
+	</replace>
+	<replace sel="/wares/ware[@id='modpart_highenergycatalyst']/price">
+		<price min="13500" average="17500" max="23500" />
+	</replace>
+	<replace sel="/wares/ware[@id='modpart_nividiumcrystallite']/price">
+		<price min="13500" average="17500" max="23500" />
+	</replace>	
+	<replace sel="/wares/ware[@id='modpart_shieldgeneratorcoil_t1']/price">
+		<price min="13500" average="17500" max="23500" />
+	</replace>	
+	<replace sel="/wares/ware[@id='modpart_shieldgeneratorcoil_t2']/price">
+		<price min="37500" average="43500" max="47500" />
+	</replace>	
+	<replace sel="/wares/ware[@id='modpart_shieldgeneratorcoil_t3']/price">
+		<price min="53500" average="57500" max="63500" />
+	</replace>	
+	<replace sel="/wares/ware[@id='modpart_shipnanoweave_t1']/price">
+		<price min="13500" average="17500" max="23500" />
+	</replace>	
+	<replace sel="/wares/ware[@id='modpart_shipnanoweave_t2']/price">
+		<price min="37500" average="43500" max="47500" />
+	</replace>
+	<replace sel="/wares/ware[@id='modpart_shipnanoweave_t3']/price">
+		<price min="53500" average="57500" max="63500" />
+	</replace>	
+	<replace sel="/wares/ware[@id='modpart_weaponchamber_t1']/price">
+		<price min="13500" average="17500" max="23500" />
+	</replace>
+	<replace sel="/wares/ware[@id='modpart_weaponchamber_t2']/price">
+		<price min="37500" average="43500" max="47500" />
+	</replace>
+	<replace sel="/wares/ware[@id='modpart_weaponchamber_t3']/price">
+		<price min="53500" average="57500" max="63500" />
+	</replace>
+	<!-- SETA Part Prices -->
+	<replace sel="/wares/ware[@id='inv_fluxcapacitor']/price">
+		<price min="125000" average="150000" max="200000" />
+	</replace>
+	<replace sel="/wares/ware[@id='inv_programmablefieldarray']/price">
+		<price min="125000" average="150000" max="200000" />
+	</replace>
+	<replace sel="/wares/ware[@id='inv_damagedsingularityengine']/price">
+		<price min="125000" average="150000" max="200000" />
+	</replace>
+	<!-- Paint Mod Prices -->
+	<replace sel="/wares/ware[@id='paintmod_0001']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0002']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0003']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0004']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0005']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0006']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0007']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0008']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0009']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0010']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0011']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0012']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0013']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0014']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0015']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0016']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0017']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0018']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0019']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0020']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>
+	<replace sel="/wares/ware[@id='paintmod_0021']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0022']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0023']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0024']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0025']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0026']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0027']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0028']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0029']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0030']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0031']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0032']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0033']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0034']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0035']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0036']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0037']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0038']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0039']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0040']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0041']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0042']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0043']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0044']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0045']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0046']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0047']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0048']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0049']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0050']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0051']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0052']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0053']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0054']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0055']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0056']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0057']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0058']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0059']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0060']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>
+	<replace sel="/wares/ware[@id='paintmod_0061']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0062']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0063']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0064']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0065']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0066']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0067']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0068']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0069']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0070']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0071']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0072']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0073']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0074']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0075']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0076']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0077']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0078']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0079']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0080']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0081']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0082']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0083']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0084']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0085']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0086']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>	
+	<replace sel="/wares/ware[@id='paintmod_0087']/price">
+		<price min="25000" average="50000" max="100000" />
+	</replace>
+	<!-- Ship Equipment Prices -->
+	<!-- Ship Engines Prices -->
     <add sel="/wares">
         <ware id="engine_arg_s_prototype_01_mk1" name="{77770101,99804}" description="{77770101,99802}" group="engines" transport="equipment" volume="1" tags="engine equipment">
             <price min="300000" average="350000" max="400000" />
@@ -1704,6 +2279,7 @@
 			<owner faction="ministry" />
 			<owner faction="teladi" />
 		</ware>
+		<!-- Ship Weapon Prices -->
 		<ware id="weapon_gen_s_prototype_beam_01_mk1" name="{77770201,99804}" description="{77770201,99802}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
 			<price min="150000" average="200000" max="250000" />
 			<production time="10" amount="1" method="default" name="{77770000,55701}">
@@ -1968,6 +2544,7 @@
 			<owner faction="paranid" />
 			<owner faction="teladi" />
 		</ware>
+		<!-- Ship/Station Turret Prices -->
 		<ware id="turret_arg_m_prototype_gatling_01_mk1" name="{77770401,99204}" description="{77770401,99202}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
 			<price min="30000" average="32500" max="35000" />
 				<production time="10" amount="1" method="default" name="{77770000,55701}">
@@ -2631,6 +3208,7 @@
 			<owner faction="ministry" />
 			<owner faction="teladi" />
 		</ware>
+		<!-- Ship Thrusters Prices -->
 		<ware id="thruster_gen_s_prototype_01_mk1" name="{77770501, 99804}" description="{77770501, 99802}" group="thrusters" transport="equipment" volume="1" tags="equipment thruster">
 			<price min="250000" average="300000" max="350000" />
 				<production time="5" amount="1" method="default" name="{77770000,55701}">
@@ -2922,6 +3500,7 @@
 			<use threshold="0.7" />
 			<restriction licence="militaryequipment" />
 		</ware>
+		<!-- Ship/Station Shield Prices -->
 		<ware id="shield_arg_s_prototype_01_mk1" name="{77770301,99804}" description="{77770301,99802}" group="shields" transport="equipment" volume="1" tags="equipment shield">
 			<price min="60000" average="65000" max="75000" />
 				<production time="10" amount="1" method="default" name="{77770000,55701}">
