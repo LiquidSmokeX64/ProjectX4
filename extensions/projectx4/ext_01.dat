@@ -968,14 +968,17 @@
 		<entry name="weapon_gen_m_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\general\medium\boltrepeater\weapon_gen_m_prototype_gatling_01_mk1_macro" />
 		<entry name="weapon_gen_m_prototype_gatling_01_mk2_macro" value="extensions\projectx4\weapon_macros\weapons\general\medium\boltrepeater\weapon_gen_m_prototype_gatling_01_mk2_macro" />
 		<entry name="weapon_gen_m_prototype_gatling_01_mk3_macro" value="extensions\projectx4\weapon_macros\weapons\general\medium\boltrepeater\weapon_gen_m_prototype_gatling_01_mk3_macro" />
+		<entry name="weapon_gen_m_xenonbuster_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\general\medium\boltrepeater\weapon_gen_m_xenonbuster_gatling_01_mk1_macro" />
 		<!--M BoltRepeaters Bullets-->
 		<entry name="bullet_gen_m_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\medium\boltrepeater\bullet_gen_m_prototype_gatling_01_mk1_macro" />
 		<entry name="bullet_gen_m_prototype_gatling_01_mk2_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\medium\boltrepeater\bullet_gen_m_prototype_gatling_01_mk2_macro" />
 		<entry name="bullet_gen_m_prototype_gatling_01_mk3_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\medium\boltrepeater\bullet_gen_m_prototype_gatling_01_mk3_macro" />
+		<entry name="bullet_gen_m_xenonbuster_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\medium\boltrepeater\bullet_gen_m_xenonbuster_gatling_01_mk1_macro" />
 		<!--M BoltRepeaters Turret Bullets-->
 		<entry name="bullet_gen_turret_m_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\turret\medium\boltrepeater\bullet_gen_turret_m_prototype_gatling_01_mk1_macro" />
 		<entry name="bullet_gen_turret_m_prototype_gatling_01_mk2_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\turret\medium\boltrepeater\bullet_gen_turret_m_prototype_gatling_01_mk2_macro" />
 		<entry name="bullet_gen_turret_m_prototype_gatling_01_mk3_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\turret\medium\boltrepeater\bullet_gen_turret_m_prototype_gatling_01_mk3_macro" />
+		<entry name="bullet_gen_turret_m_xenonbuster_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\turret\medium\boltrepeater\bullet_gen_turret_m_xenonbuster_gatling_01_mk1_macro" />
 		<!--ARG M BoltRepeaters Turret-->
 		<entry name="turret_arg_m_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_prototype_gatling_01_mk1_macro" />
 		<entry name="turret_arg_m_prototype_gatling_02_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_prototype_gatling_02_mk1_macro" />
@@ -983,6 +986,8 @@
 		<entry name="turret_arg_m_prototype_gatling_02_mk2_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_prototype_gatling_02_mk2_macro" />
 		<entry name="turret_arg_m_prototype_gatling_01_mk3_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_prototype_gatling_01_mk3_macro" />
 		<entry name="turret_arg_m_prototype_gatling_02_mk3_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_prototype_gatling_02_mk3_macro" />
+		<entry name="turret_arg_m_xenonbuster_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_xenonbuster_gatling_01_mk1_macro" />
+		<entry name="turret_arg_m_xenonbuster_gatling_02_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_xenonbuster_gatling_02_mk1_macro" />
 		<!--PAR M BoltRepeaters Turret-->
 		<entry name="turret_par_m_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\par\turret\medium\boltrepeater\turret_par_m_prototype_gatling_01_mk1_macro" />
 		<entry name="turret_par_m_prototype_gatling_02_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\par\turret\medium\boltrepeater\turret_par_m_prototype_gatling_02_mk1_macro" />
@@ -1049,6 +1054,8 @@
 		<entry name="shield_arg_m_prototype_standard_02_mk2_macro" value="extensions\projectx4\shield_macros\arg\medium\shield_arg_m_prototype_standard_02_mk2_macro" />
 		<entry name="shield_arg_m_prototype_standard_01_mk3_macro" value="extensions\projectx4\shield_macros\arg\medium\shield_arg_m_prototype_standard_01_mk3_macro" />
 		<entry name="shield_arg_m_prototype_standard_02_mk3_macro" value="extensions\projectx4\shield_macros\arg\medium\shield_arg_m_prototype_standard_02_mk3_macro" />
+		<entry name="shield_arg_m_xenoflect_standard_01_mk1_macro" value="extensions\projectx4\shield_macros\arg\medium\shield_arg_m_xenoflect_standard_01_mk1_macro" />
+		<entry name="shield_arg_m_xenoflect_standard_02_mk1_macro" value="extensions\projectx4\shield_macros\arg\medium\shield_arg_m_xenoflect_standard_02_mk1_macro" />
 		<!--PAR M Shields-->
 		<entry name="shield_par_m_prototype_standard_01_mk1_macro" value="extensions\projectx4\shield_macros\par\medium\shield_par_m_prototype_standard_01_mk1_macro" />
 		<entry name="shield_par_m_prototype_standard_02_mk1_macro" value="extensions\projectx4\shield_macros\par\medium\shield_par_m_prototype_standard_02_mk1_macro" />
@@ -1067,6 +1074,7 @@
 		<entry name="shield_arg_l_prototype_standard_01_mk1_macro" value="extensions\projectx4\shield_macros\arg\large\shield_arg_l_prototype_standard_01_mk1_macro" />
 		<entry name="shield_arg_l_prototype_standard_01_mk2_macro" value="extensions\projectx4\shield_macros\arg\large\shield_arg_l_prototype_standard_01_mk2_macro" />
 		<entry name="shield_arg_l_prototype_standard_01_mk3_macro" value="extensions\projectx4\shield_macros\arg\large\shield_arg_l_prototype_standard_01_mk3_macro" />
+		<entry name="shield_arg_l_xenoflect_standard_01_mk1_macro" value="extensions\projectx4\shield_macros\arg\large\shield_arg_l_xenoflect_standard_01_mk1_macro" />
 		<!--PAR L Shields-->
 		<entry name="shield_par_l_prototype_standard_01_mk1_macro" value="extensions\projectx4\shield_macros\par\large\shield_par_l_prototype_standard_01_mk1_macro" />
 		<entry name="shield_par_l_prototype_standard_01_mk2_macro" value="extensions\projectx4\shield_macros\par\large\shield_par_l_prototype_standard_01_mk2_macro" />
@@ -2544,6 +2552,21 @@
 			<owner faction="paranid" />
 			<owner faction="teladi" />
 		</ware>
+		<ware id="weapon_gen_m_xenonbuster_gatling_01_mk1" name="{77770401,29304}" description="{77770401,29302}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
+			<price min="1000000" average="15000000" max="2000000" />
+				<production time="11" amount="1" method="default" name="{77770000,55702}">
+					<primary>
+						<ware ware="advancedelectronics" amount="100" />
+						<ware ware="energycells" amount="80" />
+						<ware ware="weaponcomponents" amount="80" />
+						<ware ware="smartchips" amount="90" />
+					</primary>
+				</production>
+			<component ref="weapon_gen_m_xenonbuster_gatling_01_mk1_macro" amount="1" />
+			<restriction licence="capitalequipment" />
+			<use threshold="0.95" />
+			<owner faction="argon" />
+		</ware>
 		<!-- Ship/Station Turret Prices -->
 		<ware id="turret_arg_m_prototype_gatling_01_mk1" name="{77770401,99204}" description="{77770401,99202}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
 			<price min="30000" average="32500" max="35000" />
@@ -2642,6 +2665,38 @@
 				</production>
 			<component ref="turret_arg_m_prototype_gatling_02_mk3_macro" amount="1" />
 			<restriction licence="militaryequipment" />
+			<use threshold="0.15" />
+			<owner faction="alliance" />
+			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="turret_arg_m_xenonbuster_gatling_01_mk1" name="{77770401,27204}" description="{77770401,27202}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+			<price min="5000000" average="5250000" max="5500000" />
+				<production time="11" amount="1" method="default" name="{77770000,55702}">
+					<primary>
+						<ware ware="advancedelectronics" amount="71" />
+						<ware ware="energycells" amount="51" />
+						<ware ware="turretcomponents" amount="81" />
+						<ware ware="smartchips" amount="83" />
+					</primary>
+				</production>
+			<component ref="turret_arg_m_xenonbuster_gatling_01_mk1_macro" amount="1" />
+			<restriction licence="capitolequipment" />
+			<use threshold="0.15" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="turret_arg_m_xenonbuster_gatling_02_mk1" name="{77770401,27204}" description="{77770401,27202}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
+			<price min="5000000" average="5250000" max="5500000" />
+				<production time="11" amount="1" method="default" name="{77770000,55702}">
+					<primary>
+						<ware ware="advancedelectronics" amount="71" />
+						<ware ware="energycells" amount="51" />
+						<ware ware="turretcomponents" amount="81" />
+						<ware ware="smartchips" amount="83" />
+					</primary>
+				</production>
+			<component ref="turret_arg_m_xenonbuster_gatling_02_mk1_macro" amount="1" />
+			<restriction licence="capitolequipment" />
 			<use threshold="0.15" />
 			<owner faction="alliance" />
 			<owner faction="antigone" />
@@ -3762,6 +3817,36 @@
 			<owner faction="argon" />
 			<owner faction="hatikvah" />
 		</ware>
+		<ware id="shield_arg_m_xenoflect_standard_01_mk1" name="{77770301,28604}" description="{77770301,28602}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="9000000" average="9500000" max="10000000" />
+				<production time="17" amount="1" method="default" name="{77770000,55702}">
+					<primary>
+						<ware ware="energycells" amount="130" />
+						<ware ware="fieldcoils" amount="80" />
+						<ware ware="shieldcomponents" amount="90" />
+						<ware ware="smartchips" amount="83" />
+					</primary>
+				</production>
+			<component ref="shield_arg_m_xenoflect_standard_01_mk1_macro" amount="1" />
+			<restriction licence="capitolequipment" />
+			<use threshold="0.25" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="shield_arg_m_xenoflect_standard_02_mk1" name="{77770301,28604}" description="{77770301,28602}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="9000000" average="9500000" max="10000000" />
+				<production time="27" amount="1" method="default" name="{77770000,55702}">
+					<primary>
+						<ware ware="energycells" amount="120" />
+						<ware ware="fieldcoils" amount="92" />
+						<ware ware="shieldcomponents" amount="87" />
+						<ware ware="smartchips" amount="83" />
+					</primary>
+				</production>
+			<component ref="shield_arg_m_xenoflect_standard_02_mk1_macro" amount="1" />
+			<restriction licence="capitolequipment" />
+			<use threshold="0" />
+			<owner faction="argon" />
+		</ware>
 		<ware id="shield_par_m_prototype_standard_01_mk1" name="{77770301,88804}" description="{77770301,88802}" group="shields" transport="equipment" volume="1" tags="equipment shield">
 			<price min="70000" average="75000" max="80000" />
 				<production time="13" amount="1" method="default" name="{77770000,55701}">
@@ -4015,6 +4100,21 @@
 			<use threshold="0" />
 			<owner faction="alliance" />
 			<owner faction="antigone" />
+			<owner faction="argon" />
+		</ware>
+		<ware id="shield_arg_l_xenoflect_standard_01_mk1" name="{77770301,27604}" description="{77770301,27602}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="65000000" average="70000000" max="75000000" />
+				<production time="28" amount="1" method="default" name="{77770000,55702}">
+					<primary>
+						<ware ware="energycells" amount="120" />
+						<ware ware="fieldcoils" amount="86" />
+						<ware ware="shieldcomponents" amount="90" />
+						<ware ware="smartchips" amount="83" />
+					</primary>
+				</production>
+			<component ref="shield_arg_l_xenoflect_standard_01_mk1_macro" amount="1" />
+			<restriction licence="capitolequipment" />
+			<use threshold="0" />
 			<owner faction="argon" />
 		</ware>
 		<ware id="shield_par_l_prototype_standard_01_mk1" name="{77770301,87804}" description="{77770301,87802}" group="shields" transport="equipment" volume="1" tags="equipment shield">
@@ -4342,6 +4442,17 @@
 </macros><?xml version="1.0" encoding="utf-8"?>
 <!--Created by: ManDaxi-->
 <macros>
+  <macro name="shield_arg_l_xenoflect_standard_01_mk1_macro" class="shieldgenerator">
+    <component ref="shield_arg_l_standard_01_mk2" />
+    <properties>
+      <identification name="{77770301,27604}" basename="{77770301,27601}" shortname="{77770301,27605}" makerrace="argon" description="{77770301,27602}" mk="1" />
+      <recharge max="800000" rate="2000" delay="0" />
+      <hull max="500000" threshold="0.2" />
+    </properties>
+  </macro>
+</macros><?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
   <macro name="shield_arg_m_prototype_standard_01_mk1_macro" class="shieldgenerator" alias="shield_arg_m_prototype_standard_02_mk1_macro">
     <component ref="shield_arg_m_standard_01_mk2" />
     <properties>
@@ -4403,6 +4514,28 @@
       <identification name="{77770301,98604}" basename="{77770301,98601}" shortname="{77770301,98605}" makerrace="argon" description="{77770301,98602}" mk="3" />
       <recharge max="9500" rate="70" delay="0.2" />
       <hull max="800" threshold="0.2" integrated="0" />
+    </properties>
+  </macro>
+</macros><?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
+  <macro name="shield_arg_m_xenoflect_standard_01_mk1_macro" class="shieldgenerator" alias="shield_arg_m_xenoflect_standard_02_mk1_macro">
+    <component ref="shield_arg_m_standard_01_mk2" />
+    <properties>
+      <identification name="{77770301,28604}" basename="{77770301,28601}" shortname="{77770301,28605}" makerrace="argon" description="{77770301,28602}" mk="1" />
+      <recharge max="500000" rate="500" delay="0.001" />
+      <hull max="80000" integrated="1" />
+    </properties>
+  </macro>
+</macros><?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
+  <macro name="shield_arg_m_xenoflect_standard_02_mk1_macro" class="shieldgenerator">
+    <component ref="shield_arg_m_standard_02_mk2" />
+    <properties>
+      <identification name="{77770301,28604}" basename="{77770301,28601}" shortname="{77770301,28605}" makerrace="argon" description="{77770301,28602}" mk="1" />
+      <recharge max="500000" rate="500" delay="0.001" />
+      <hull max="80000" threshold="0.2" integrated="0" />
     </properties>
   </macro>
 </macros><?xml version="1.0" encoding="utf-8"?>
@@ -4792,6 +4925,9 @@
 		<t id="55710">ARG</t>
 		<t id="55711">PAR</t>
 		<t id="55712">TEL</t>
+		<t id="55713">As a result of the ever present Xenon, a set of modified blueprints were sent to the Argon Federation by a freelancer named ManDaxi.\n\nThese special XenoBuster Weapons are extremely dangerous.\n\nTheir only intended use is to finally gain the upper hand in this war.</t>
+		<t id="55714">As a result of the ever present Xenon, a set of modified blueprints were sent to the Argon Federation by a freelancer named ManDaxi.\n\nThese special Xenoflect Shields are extremely effective and designed for true defense against Xenon attacks.\n\nTheir only intended use is to finally gain the upper hand in this war.</t>
+		
 	</page>
     <page id="77770101" title="PX4Engines" descr="Text for new Engines" voice="no">
 	    <!--ARG S ProtoEngine Mk1-->
@@ -5221,6 +5357,13 @@
 		<t id="99304">(M ProtoBolt Mk3){77770100,55706} {77770401,99301} {77770100,55703}</t>
 		<t id="99305">(ProtoBolt Mk3){77770401,99303} {77770100,55703}</t>
 		<t id="99306">ProtoBolt</t>
+		<!--M XenoBuster Mk1-->
+		<t id="29301">(XenoBuster Mk1){77770401,29303}</t>
+		<t id="29302">{77770100,55713}(This is a Project X XenoBuster Mk1 Bolt Weapon)</t>
+		<t id="29303">(XenoBuster){77770401,29306}</t>
+		<t id="29304">(M XenoBuster Mk1){77770100,55706} {77770401,29301} {77770100,55701}</t>
+		<t id="29305">(XenoBuster Mk1){77770401,29303} {77770100,55701}</t>
+		<t id="29306">XenoBuster</t>
 		<!--Large Sized Weapons-->
 		<!--Medium Sized Turrets-->
 		<!--M ARG ProtoBolt Turret Mk1-->
@@ -5244,6 +5387,13 @@
 		<t id="97204">(ARG M ProtoBolt Mk3){77770100,55710} {77770100,55706} {77770401,97201} {77770100,55703}</t>
 		<t id="97205">(ProtoBolt Mk3){77770401,97203} {77770100,55703}</t>
 		<t id="97206">ProtoBolt</t>
+		<!--M ARG XenoBuster Turret Mk1-->
+		<t id="27201">(XenoBuster Mk1){77770401,27203}</t>
+		<t id="27202">{77770100,55713}(This is a Project X XenoBuster Mk1 Bolt Turret Weapon)</t>
+		<t id="27203">(XenoBuster){77770401,27206}</t>
+		<t id="27204">(ARG M XenoBuster Mk1){77770100,55710} {77770100,55706} {77770401,27201} {77770100,55701}</t>
+		<t id="27205">(XenoBuster Mk1){77770401,27203} {77770100,55701}</t>
+		<t id="27206">XenoBuster</t>
 		<!--M PAR ProtoBolt Turret Mk1-->
 		<t id="99101">(ProtoBolt Mk1){77770401,99103}</t>
 		<t id="99102">{77770100,55704}(This is a Project X Prototype Mk1 Bolt Turret Weapon)</t>
@@ -5375,6 +5525,13 @@
 		<t id="98604">(ARG M ProtoShield Mk3){77770100,55710} {77770100,55706} {77770301,98601} {77770100,55703}</t>
 		<t id="98605">(ProtoShield Mk3){77770301,98603} {77770100,55703}</t>
 		<t id="98606">ProtoShield</t>
+		<!--ARG M Xenoflect Mk1-->
+		<t id="28601">(Xenoflect Mk1){77770301,28603}</t>
+		<t id="28602">{77770100,55714}(This is a Project X Xenoflect Mk1 Shield)</t>
+		<t id="28603">(Xenoflect){77770301,28606}</t>
+		<t id="28604">(ARG M Xenoflect Mk1){77770100,55710} {77770100,55706} {77770301,28601} {77770100,55701}</t>
+		<t id="28605">(Xenoflect Mk1){77770301,18603} {77770100,55701}</t>
+		<t id="28606">Xenoflect</t>
 		<!--PAR M ProtoShield Mk1-->
 		<t id="88801">(ProtoShield Mk1){77770301,88803}</t>
 		<t id="88802">{77770100,55704}(This is a Project X Prototype Mk1 Shield)</t>
@@ -5434,11 +5591,18 @@
 		<t id="97706">ProtoShield</t>
 		<!--ARG L ProtoShield Mk3-->
 		<t id="97601">(ProtoShield Mk3){77770301,97603}</t>
-		<t id="97602">{77770100,55704}(This is a Project X Prototype MK3 Shield)</t>
+		<t id="97602">{77770100,55704}(This is a Project X Prototype Mk3 Shield)</t>
 		<t id="97603">(Prototype){77770301,97606}</t>
 		<t id="97604">(ARG L ProtoShield Mk3){77770100,55710} {77770100,55707} {77770301,97601} {77770100,55703}</t>
 		<t id="97605">(ProtoShield Mk3){77770301,97603} {77770100,55703}</t>
 		<t id="97606">ProtoShield</t>
+		<!--ARG L Xenoflect Mk1-->
+		<t id="27601">(Xenoflect Mk1){77770301,27603}</t>
+		<t id="27602">{77770100,55714}(This is a Project X Xenoflect Mk1 Shield)</t>
+		<t id="27603">(Xenoflect){77770301,27606}</t>
+		<t id="27604">(ARG L Xenoflect Mk1){77770100,55710} {77770100,55707} {77770301,27601} {77770100,55701}</t>
+		<t id="27605">(Xenoflect Mk1){77770301,27603} {77770100,55701}</t>
+		<t id="27606">Xenoflect</t>
 		<!--PAR L ProtoShield Mk1-->
 		<t id="87801">(ProtoShield Mk1){77770301,87803}</t>
 		<t id="87802">{77770100,55704}(This is a Project X Prototype Mk1 Shield)</t>
@@ -5746,6 +5910,25 @@
 </macros><?xml version="1.0" encoding="utf-8"?>
 <!--Created by: ManDaxi-->
 <macros>
+  <macro name="bullet_gen_m_xenonbuster_gatling_01_mk1_macro" class="bullet">
+    <component ref="bullet_gen_m_gatling_01_mk2" />
+    <properties>
+      <ammunition value="308" reload="1" />
+      <bullet speed="5000" lifetime="7.5" amount="1" barrelamount="1" icon="weapon_gatling_mk2" timediff="0.021" angle="0.17" maxhits="2" ricochet="0.01" restitution="0.3" scale="0" attach="0" />
+      <heat value="22" />
+      <reload rate="18" />
+      <damage value="5000" repair="0" />
+      <effects>
+        <impact ref="impact_gen_m_gatling_01_mk1" inside="impact_gen_m_gatling_01_mk1_inside" />
+        <bigobjectimpact ref="impact_gen_m_gatling_01_mk1_bigobject" inside="impact_gen_m_gatling_01_mk1_bigobject_inside" />
+        <launch ref="muzzle_gen_m_gatling_01_mk1" />
+      </effects>
+      <weapon system="weapon_standard" />
+    </properties>
+  </macro>
+</macros><?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
   <macro name="bullet_gen_s_prototype_beam_01_mk1_macro" class="bullet">
     <component ref="bullet_gen_s_beam_01_mk2" />
     <properties>
@@ -5979,6 +6162,24 @@
 </macros><?xml version="1.0" encoding="utf-8"?>
 <!--Created by: ManDaxi-->
 <macros>
+  <macro name="bullet_gen_turret_m_xenonbuster_gatling_01_mk1_macro" class="bullet">
+    <component ref="bullet_gen_s_gatling_01_mk1" />
+    <properties>
+      <ammunition value="200" reload="1" />
+      <bullet speed="5000" lifetime="7.5" amount="1" barrelamount="2" icon="weapon_gatling_mk1" timediff="0.018" angle="0.18" maxhits="2" ricochet="0.01" restitution="0.3" scale="0" attach="0" />
+      <reload rate="13" />
+      <damage value="5000" repair="0" />
+      <effects>
+        <impact ref="impact_gen_s_gatling_01_mk1" inside="impact_gen_s_gatling_01_mk1_inside" />
+        <bigobjectimpact ref="impact_gen_s_gatling_01_mk1_bigobject" inside="impact_gen_s_gatling_01_mk1_bigobject_inside" />
+        <launch ref="muzzle_turret_gen_m_gatling_01_mk1" />
+      </effects>
+      <weapon system="turret_shortrange" />
+    </properties>
+  </macro>
+</macros><?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
   <macro name="turret_arg_l_prototype_beam_01_mk1_macro" class="turret">
     <component ref="turret_arg_l_beam_01_mk1" />
     <properties>
@@ -6148,6 +6349,32 @@
 </macros><?xml version="1.0" encoding="utf-8"?>
 <!--Created by: ManDaxi-->
 <macros>
+  <macro name="turret_arg_m_xenonbuster_gatling_01_mk1_macro" class="turret" alias="turret_arg_m_xenonbuster_gatling_02_mk1_macro">
+    <component ref="turret_arg_m_gatling_01_mk1" />
+    <properties>
+      <identification name="{77770401,27204}" basename="{77770401,27201}" shortname="{77770401,27205}" makerrace="argon" description="{77770401,27202}" mk="1" />
+      <bullet class="bullet_gen_turret_m_xenonbuster_gatling_01_mk1_macro" />
+      <rotationspeed max="200" />
+      <reload rate="0.80" time="0.80" />
+      <hull threshold="0.2" integrated="1" />
+    </properties>
+  </macro>
+</macros><?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
+  <macro name="turret_arg_m_xenonbuster_gatling_02_mk1_macro" class="turret">
+    <component ref="turret_arg_m_gatling_02_mk1" />
+    <properties>
+      <identification name="{77770401,27204}" basename="{77770401,27201}" shortname="{77770401,27205}" makerrace="argon" description="{77770401,27202}" mk="1" />
+      <bullet class="bullet_gen_turret_m_xenonbuster_gatling_01_mk1_macro" />
+      <rotationspeed max="200" />
+      <reload rate="0.80" time="0.80" />
+      <hull max="25000" threshold="0.2" integrated="0" />
+    </properties>
+  </macro>
+</macros><?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
   <macro name="weapon_gen_m_prototype_beam_01_mk1_macro" class="weapon">
     <component ref="weapon_gen_m_beam_01_mk2" />
     <properties>
@@ -6263,6 +6490,27 @@
       <rotationacceleration max="45.0" />
       <reload />
       <hull max="1701" hittable="0" />
+      <effects>
+        <firing start="startshooting_gen_m_gatling_01_mk1" stop="stopshooting_gen_m_gatling_01_mk1" />
+      </effects>
+      <sounds>
+        <firing ref="mg_firing" />
+      </sounds>
+    </properties>
+  </macro>
+</macros><?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
+  <macro name="weapon_gen_m_xenonbuster_gatling_01_mk1_macro" class="weapon">
+    <component ref="weapon_gen_m_gatling_01_mk2" />
+    <properties>
+      <identification name="{77770401,29304}" basename="{77770401,29301}" shortname="{77770401,29305}" description="{77770401,29302}" mk="1" />
+      <bullet class="bullet_gen_m_xenonbuster_gatling_01_mk1_macro" />
+      <heat overheat="50000" cooldelay="0.20" coolrate="7000" reenable="9000" />
+      <rotationspeed max="80.0" />
+      <rotationacceleration max="45.0" />
+      <reload />
+      <hull max="25000" hittable="0" />
       <effects>
         <firing start="startshooting_gen_m_gatling_01_mk1" stop="stopshooting_gen_m_gatling_01_mk1" />
       </effects>

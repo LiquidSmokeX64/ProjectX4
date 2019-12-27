@@ -22,6 +22,9 @@
 		<t id="55710">ARG</t>
 		<t id="55711">PAR</t>
 		<t id="55712">TEL</t>
+		<t id="55713">As a result of the ever present Xenon, a set of modified blueprints were sent to the Argon Federation by a freelancer named ManDaxi.\n\nThese special XenoBuster Weapons are extremely dangerous.\n\nTheir only intended use is to finally gain the upper hand in this war.</t>
+		<t id="55714">As a result of the ever present Xenon, a set of modified blueprints were sent to the Argon Federation by a freelancer named ManDaxi.\n\nThese special Xenoflect Shields are extremely effective and designed for true defense against Xenon attacks.\n\nTheir only intended use is to finally gain the upper hand in this war.</t>
+		
 	</page>
     <page id="77770101" title="PX4Engines" descr="Text for new Engines" voice="no">
 	    <!--ARG S ProtoEngine Mk1-->
@@ -451,6 +454,13 @@
 		<t id="99304">(M ProtoBolt Mk3){77770100,55706} {77770401,99301} {77770100,55703}</t>
 		<t id="99305">(ProtoBolt Mk3){77770401,99303} {77770100,55703}</t>
 		<t id="99306">ProtoBolt</t>
+		<!--M XenoBuster Mk1-->
+		<t id="29301">(XenoBuster Mk1){77770401,29303}</t>
+		<t id="29302">{77770100,55713}(This is a Project X XenoBuster Mk1 Bolt Weapon)</t>
+		<t id="29303">(XenoBuster){77770401,29306}</t>
+		<t id="29304">(M XenoBuster Mk1){77770100,55706} {77770401,29301} {77770100,55701}</t>
+		<t id="29305">(XenoBuster Mk1){77770401,29303} {77770100,55701}</t>
+		<t id="29306">XenoBuster</t>
 		<!--Large Sized Weapons-->
 		<!--Medium Sized Turrets-->
 		<!--M ARG ProtoBolt Turret Mk1-->
@@ -474,6 +484,13 @@
 		<t id="97204">(ARG M ProtoBolt Mk3){77770100,55710} {77770100,55706} {77770401,97201} {77770100,55703}</t>
 		<t id="97205">(ProtoBolt Mk3){77770401,97203} {77770100,55703}</t>
 		<t id="97206">ProtoBolt</t>
+		<!--M ARG XenoBuster Turret Mk1-->
+		<t id="27201">(XenoBuster Mk1){77770401,27203}</t>
+		<t id="27202">{77770100,55713}(This is a Project X XenoBuster Mk1 Bolt Turret Weapon)</t>
+		<t id="27203">(XenoBuster){77770401,27206}</t>
+		<t id="27204">(ARG M XenoBuster Mk1){77770100,55710} {77770100,55706} {77770401,27201} {77770100,55701}</t>
+		<t id="27205">(XenoBuster Mk1){77770401,27203} {77770100,55701}</t>
+		<t id="27206">XenoBuster</t>
 		<!--M PAR ProtoBolt Turret Mk1-->
 		<t id="99101">(ProtoBolt Mk1){77770401,99103}</t>
 		<t id="99102">{77770100,55704}(This is a Project X Prototype Mk1 Bolt Turret Weapon)</t>
@@ -605,6 +622,13 @@
 		<t id="98604">(ARG M ProtoShield Mk3){77770100,55710} {77770100,55706} {77770301,98601} {77770100,55703}</t>
 		<t id="98605">(ProtoShield Mk3){77770301,98603} {77770100,55703}</t>
 		<t id="98606">ProtoShield</t>
+		<!--ARG M Xenoflect Mk1-->
+		<t id="28601">(Xenoflect Mk1){77770301,28603}</t>
+		<t id="28602">{77770100,55714}(This is a Project X Xenoflect Mk1 Shield)</t>
+		<t id="28603">(Xenoflect){77770301,28606}</t>
+		<t id="28604">(ARG M Xenoflect Mk1){77770100,55710} {77770100,55706} {77770301,28601} {77770100,55701}</t>
+		<t id="28605">(Xenoflect Mk1){77770301,18603} {77770100,55701}</t>
+		<t id="28606">Xenoflect</t>
 		<!--PAR M ProtoShield Mk1-->
 		<t id="88801">(ProtoShield Mk1){77770301,88803}</t>
 		<t id="88802">{77770100,55704}(This is a Project X Prototype Mk1 Shield)</t>
@@ -664,11 +688,18 @@
 		<t id="97706">ProtoShield</t>
 		<!--ARG L ProtoShield Mk3-->
 		<t id="97601">(ProtoShield Mk3){77770301,97603}</t>
-		<t id="97602">{77770100,55704}(This is a Project X Prototype MK3 Shield)</t>
+		<t id="97602">{77770100,55704}(This is a Project X Prototype Mk3 Shield)</t>
 		<t id="97603">(Prototype){77770301,97606}</t>
 		<t id="97604">(ARG L ProtoShield Mk3){77770100,55710} {77770100,55707} {77770301,97601} {77770100,55703}</t>
 		<t id="97605">(ProtoShield Mk3){77770301,97603} {77770100,55703}</t>
 		<t id="97606">ProtoShield</t>
+		<!--ARG L Xenoflect Mk1-->
+		<t id="27601">(Xenoflect Mk1){77770301,27603}</t>
+		<t id="27602">{77770100,55714}(This is a Project X Xenoflect Mk1 Shield)</t>
+		<t id="27603">(Xenoflect){77770301,27606}</t>
+		<t id="27604">(ARG L Xenoflect Mk1){77770100,55710} {77770100,55707} {77770301,27601} {77770100,55701}</t>
+		<t id="27605">(Xenoflect Mk1){77770301,27603} {77770100,55701}</t>
+		<t id="27606">Xenoflect</t>
 		<!--PAR L ProtoShield Mk1-->
 		<t id="87801">(ProtoShield Mk1){77770301,87803}</t>
 		<t id="87802">{77770100,55704}(This is a Project X Prototype Mk1 Shield)</t>

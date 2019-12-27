@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created by: ManDaxi-->
+<macros>
+  <macro name="weapon_gen_m_xenonbuster_gatling_01_mk1_macro" class="weapon">
+    <component ref="weapon_gen_m_gatling_01_mk2" />
+    <properties>
+      <identification name="{77770401,29304}" basename="{77770401,29301}" shortname="{77770401,29305}" description="{77770401,29302}" mk="1" />
+      <bullet class="bullet_gen_m_xenonbuster_gatling_01_mk1_macro" />
+      <heat overheat="50000" cooldelay="0.20" coolrate="7000" reenable="9000" />
+      <rotationspeed max="80.0" />
+      <rotationacceleration max="45.0" />
+      <reload />
+      <hull max="25000" hittable="0" />
+      <effects>
+        <firing start="startshooting_gen_m_gatling_01_mk1" stop="stopshooting_gen_m_gatling_01_mk1" />
+      </effects>
+      <sounds>
+        <firing ref="mg_firing" />
+      </sounds>
+    </properties>
+  </macro>
+</macros>
