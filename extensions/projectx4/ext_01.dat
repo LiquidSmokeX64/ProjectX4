@@ -5530,7 +5530,7 @@
 		<t id="28602">{77770100,55714}(This is a Project X Xenoflect Mk1 Shield)</t>
 		<t id="28603">(Xenoflect){77770301,28606}</t>
 		<t id="28604">(ARG M Xenoflect Mk1){77770100,55710} {77770100,55706} {77770301,28601} {77770100,55701}</t>
-		<t id="28605">(Xenoflect Mk1){77770301,18603} {77770100,55701}</t>
+		<t id="28605">(Xenoflect Mk1){77770301,28603} {77770100,55701}</t>
 		<t id="28606">Xenoflect</t>
 		<!--PAR M ProtoShield Mk1-->
 		<t id="88801">(ProtoShield Mk1){77770301,88803}</t>
