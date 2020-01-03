@@ -94,17 +94,14 @@
 		<entry name="weapon_gen_m_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\general\medium\boltrepeater\weapon_gen_m_prototype_gatling_01_mk1_macro" />
 		<entry name="weapon_gen_m_prototype_gatling_01_mk2_macro" value="extensions\projectx4\weapon_macros\weapons\general\medium\boltrepeater\weapon_gen_m_prototype_gatling_01_mk2_macro" />
 		<entry name="weapon_gen_m_prototype_gatling_01_mk3_macro" value="extensions\projectx4\weapon_macros\weapons\general\medium\boltrepeater\weapon_gen_m_prototype_gatling_01_mk3_macro" />
-		<entry name="weapon_gen_m_xenonbuster_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\general\medium\boltrepeater\weapon_gen_m_xenonbuster_gatling_01_mk1_macro" />
 		<!--M BoltRepeaters Bullets-->
 		<entry name="bullet_gen_m_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\medium\boltrepeater\bullet_gen_m_prototype_gatling_01_mk1_macro" />
 		<entry name="bullet_gen_m_prototype_gatling_01_mk2_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\medium\boltrepeater\bullet_gen_m_prototype_gatling_01_mk2_macro" />
 		<entry name="bullet_gen_m_prototype_gatling_01_mk3_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\medium\boltrepeater\bullet_gen_m_prototype_gatling_01_mk3_macro" />
-		<entry name="bullet_gen_m_xenonbuster_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\medium\boltrepeater\bullet_gen_m_xenonbuster_gatling_01_mk1_macro" />
 		<!--M BoltRepeaters Turret Bullets-->
 		<entry name="bullet_gen_turret_m_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\turret\medium\boltrepeater\bullet_gen_turret_m_prototype_gatling_01_mk1_macro" />
 		<entry name="bullet_gen_turret_m_prototype_gatling_01_mk2_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\turret\medium\boltrepeater\bullet_gen_turret_m_prototype_gatling_01_mk2_macro" />
 		<entry name="bullet_gen_turret_m_prototype_gatling_01_mk3_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\turret\medium\boltrepeater\bullet_gen_turret_m_prototype_gatling_01_mk3_macro" />
-		<entry name="bullet_gen_turret_m_xenonbuster_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\turret\medium\boltrepeater\bullet_gen_turret_m_xenonbuster_gatling_01_mk1_macro" />
 		<!--ARG M BoltRepeaters Turret-->
 		<entry name="turret_arg_m_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_prototype_gatling_01_mk1_macro" />
 		<entry name="turret_arg_m_prototype_gatling_02_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_prototype_gatling_02_mk1_macro" />
@@ -112,8 +109,6 @@
 		<entry name="turret_arg_m_prototype_gatling_02_mk2_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_prototype_gatling_02_mk2_macro" />
 		<entry name="turret_arg_m_prototype_gatling_01_mk3_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_prototype_gatling_01_mk3_macro" />
 		<entry name="turret_arg_m_prototype_gatling_02_mk3_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_prototype_gatling_02_mk3_macro" />
-		<entry name="turret_arg_m_xenonbuster_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_xenonbuster_gatling_01_mk1_macro" />
-		<entry name="turret_arg_m_xenonbuster_gatling_02_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_xenonbuster_gatling_02_mk1_macro" />
 		<!--PAR M BoltRepeaters Turret-->
 		<entry name="turret_par_m_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\par\turret\medium\boltrepeater\turret_par_m_prototype_gatling_01_mk1_macro" />
 		<entry name="turret_par_m_prototype_gatling_02_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\par\turret\medium\boltrepeater\turret_par_m_prototype_gatling_02_mk1_macro" />

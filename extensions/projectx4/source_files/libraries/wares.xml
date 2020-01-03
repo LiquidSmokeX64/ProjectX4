@@ -1215,21 +1215,6 @@
 			<owner faction="paranid" />
 			<owner faction="teladi" />
 		</ware>
-		<ware id="weapon_gen_m_xenonbuster_gatling_01_mk1" name="{77770401,29304}" description="{77770401,29302}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
-			<price min="1000000" average="15000000" max="2000000" />
-				<production time="11" amount="1" method="default" name="{77770000,55702}">
-					<primary>
-						<ware ware="advancedelectronics" amount="100" />
-						<ware ware="energycells" amount="80" />
-						<ware ware="weaponcomponents" amount="80" />
-						<ware ware="smartchips" amount="90" />
-					</primary>
-				</production>
-			<component ref="weapon_gen_m_xenonbuster_gatling_01_mk1_macro" amount="1" />
-			<restriction licence="capitalequipment" />
-			<use threshold="0.95" />
-			<owner faction="argon" />
-		</ware>
 		<!-- Ship/Station Turret Prices -->
 		<ware id="turret_arg_m_prototype_gatling_01_mk1" name="{77770401,99204}" description="{77770401,99202}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
 			<price min="30000" average="32500" max="35000" />
@@ -1328,38 +1313,6 @@
 				</production>
 			<component ref="turret_arg_m_prototype_gatling_02_mk3_macro" amount="1" />
 			<restriction licence="militaryequipment" />
-			<use threshold="0.15" />
-			<owner faction="alliance" />
-			<owner faction="antigone" />
-			<owner faction="argon" />
-		</ware>
-		<ware id="turret_arg_m_xenonbuster_gatling_01_mk1" name="{77770401,27204}" description="{77770401,27202}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
-			<price min="5000000" average="5250000" max="5500000" />
-				<production time="11" amount="1" method="default" name="{77770000,55702}">
-					<primary>
-						<ware ware="advancedelectronics" amount="71" />
-						<ware ware="energycells" amount="51" />
-						<ware ware="turretcomponents" amount="81" />
-						<ware ware="smartchips" amount="83" />
-					</primary>
-				</production>
-			<component ref="turret_arg_m_xenonbuster_gatling_01_mk1_macro" amount="1" />
-			<restriction licence="capitolequipment" />
-			<use threshold="0.15" />
-			<owner faction="argon" />
-		</ware>
-		<ware id="turret_arg_m_xenonbuster_gatling_02_mk1" name="{77770401,27204}" description="{77770401,27202}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
-			<price min="5000000" average="5250000" max="5500000" />
-				<production time="11" amount="1" method="default" name="{77770000,55702}">
-					<primary>
-						<ware ware="advancedelectronics" amount="71" />
-						<ware ware="energycells" amount="51" />
-						<ware ware="turretcomponents" amount="81" />
-						<ware ware="smartchips" amount="83" />
-					</primary>
-				</production>
-			<component ref="turret_arg_m_xenonbuster_gatling_02_mk1_macro" amount="1" />
-			<restriction licence="capitolequipment" />
 			<use threshold="0.15" />
 			<owner faction="alliance" />
 			<owner faction="antigone" />

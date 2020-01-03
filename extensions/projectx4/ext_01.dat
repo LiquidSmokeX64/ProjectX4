@@ -968,17 +968,14 @@
 		<entry name="weapon_gen_m_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\general\medium\boltrepeater\weapon_gen_m_prototype_gatling_01_mk1_macro" />
 		<entry name="weapon_gen_m_prototype_gatling_01_mk2_macro" value="extensions\projectx4\weapon_macros\weapons\general\medium\boltrepeater\weapon_gen_m_prototype_gatling_01_mk2_macro" />
 		<entry name="weapon_gen_m_prototype_gatling_01_mk3_macro" value="extensions\projectx4\weapon_macros\weapons\general\medium\boltrepeater\weapon_gen_m_prototype_gatling_01_mk3_macro" />
-		<entry name="weapon_gen_m_xenonbuster_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\general\medium\boltrepeater\weapon_gen_m_xenonbuster_gatling_01_mk1_macro" />
 		<!--M BoltRepeaters Bullets-->
 		<entry name="bullet_gen_m_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\medium\boltrepeater\bullet_gen_m_prototype_gatling_01_mk1_macro" />
 		<entry name="bullet_gen_m_prototype_gatling_01_mk2_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\medium\boltrepeater\bullet_gen_m_prototype_gatling_01_mk2_macro" />
 		<entry name="bullet_gen_m_prototype_gatling_01_mk3_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\medium\boltrepeater\bullet_gen_m_prototype_gatling_01_mk3_macro" />
-		<entry name="bullet_gen_m_xenonbuster_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\medium\boltrepeater\bullet_gen_m_xenonbuster_gatling_01_mk1_macro" />
 		<!--M BoltRepeaters Turret Bullets-->
 		<entry name="bullet_gen_turret_m_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\turret\medium\boltrepeater\bullet_gen_turret_m_prototype_gatling_01_mk1_macro" />
 		<entry name="bullet_gen_turret_m_prototype_gatling_01_mk2_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\turret\medium\boltrepeater\bullet_gen_turret_m_prototype_gatling_01_mk2_macro" />
 		<entry name="bullet_gen_turret_m_prototype_gatling_01_mk3_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\turret\medium\boltrepeater\bullet_gen_turret_m_prototype_gatling_01_mk3_macro" />
-		<entry name="bullet_gen_turret_m_xenonbuster_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\projectiles\shipweapons\turret\medium\boltrepeater\bullet_gen_turret_m_xenonbuster_gatling_01_mk1_macro" />
 		<!--ARG M BoltRepeaters Turret-->
 		<entry name="turret_arg_m_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_prototype_gatling_01_mk1_macro" />
 		<entry name="turret_arg_m_prototype_gatling_02_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_prototype_gatling_02_mk1_macro" />
@@ -986,8 +983,6 @@
 		<entry name="turret_arg_m_prototype_gatling_02_mk2_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_prototype_gatling_02_mk2_macro" />
 		<entry name="turret_arg_m_prototype_gatling_01_mk3_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_prototype_gatling_01_mk3_macro" />
 		<entry name="turret_arg_m_prototype_gatling_02_mk3_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_prototype_gatling_02_mk3_macro" />
-		<entry name="turret_arg_m_xenonbuster_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_xenonbuster_gatling_01_mk1_macro" />
-		<entry name="turret_arg_m_xenonbuster_gatling_02_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\arg\turret\medium\boltrepeater\turret_arg_m_xenonbuster_gatling_02_mk1_macro" />
 		<!--PAR M BoltRepeaters Turret-->
 		<entry name="turret_par_m_prototype_gatling_01_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\par\turret\medium\boltrepeater\turret_par_m_prototype_gatling_01_mk1_macro" />
 		<entry name="turret_par_m_prototype_gatling_02_mk1_macro" value="extensions\projectx4\weapon_macros\weapons\par\turret\medium\boltrepeater\turret_par_m_prototype_gatling_02_mk1_macro" />
@@ -2552,21 +2547,6 @@
 			<owner faction="paranid" />
 			<owner faction="teladi" />
 		</ware>
-		<ware id="weapon_gen_m_xenonbuster_gatling_01_mk1" name="{77770401,29304}" description="{77770401,29302}" group="weapons" transport="equipment" volume="1" tags="equipment weapon">
-			<price min="1000000" average="15000000" max="2000000" />
-				<production time="11" amount="1" method="default" name="{77770000,55702}">
-					<primary>
-						<ware ware="advancedelectronics" amount="100" />
-						<ware ware="energycells" amount="80" />
-						<ware ware="weaponcomponents" amount="80" />
-						<ware ware="smartchips" amount="90" />
-					</primary>
-				</production>
-			<component ref="weapon_gen_m_xenonbuster_gatling_01_mk1_macro" amount="1" />
-			<restriction licence="capitalequipment" />
-			<use threshold="0.95" />
-			<owner faction="argon" />
-		</ware>
 		<!-- Ship/Station Turret Prices -->
 		<ware id="turret_arg_m_prototype_gatling_01_mk1" name="{77770401,99204}" description="{77770401,99202}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
 			<price min="30000" average="32500" max="35000" />
@@ -2665,38 +2645,6 @@
 				</production>
 			<component ref="turret_arg_m_prototype_gatling_02_mk3_macro" amount="1" />
 			<restriction licence="militaryequipment" />
-			<use threshold="0.15" />
-			<owner faction="alliance" />
-			<owner faction="antigone" />
-			<owner faction="argon" />
-		</ware>
-		<ware id="turret_arg_m_xenonbuster_gatling_01_mk1" name="{77770401,27204}" description="{77770401,27202}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
-			<price min="5000000" average="5250000" max="5500000" />
-				<production time="11" amount="1" method="default" name="{77770000,55702}">
-					<primary>
-						<ware ware="advancedelectronics" amount="71" />
-						<ware ware="energycells" amount="51" />
-						<ware ware="turretcomponents" amount="81" />
-						<ware ware="smartchips" amount="83" />
-					</primary>
-				</production>
-			<component ref="turret_arg_m_xenonbuster_gatling_01_mk1_macro" amount="1" />
-			<restriction licence="capitolequipment" />
-			<use threshold="0.15" />
-			<owner faction="argon" />
-		</ware>
-		<ware id="turret_arg_m_xenonbuster_gatling_02_mk1" name="{77770401,27204}" description="{77770401,27202}" group="turrets" transport="equipment" volume="1" tags="equipment turret">
-			<price min="5000000" average="5250000" max="5500000" />
-				<production time="11" amount="1" method="default" name="{77770000,55702}">
-					<primary>
-						<ware ware="advancedelectronics" amount="71" />
-						<ware ware="energycells" amount="51" />
-						<ware ware="turretcomponents" amount="81" />
-						<ware ware="smartchips" amount="83" />
-					</primary>
-				</production>
-			<component ref="turret_arg_m_xenonbuster_gatling_02_mk1_macro" amount="1" />
-			<restriction licence="capitolequipment" />
 			<use threshold="0.15" />
 			<owner faction="alliance" />
 			<owner faction="antigone" />
@@ -5357,13 +5305,6 @@
 		<t id="99304">(M ProtoBolt Mk3){77770100,55706} {77770401,99301} {77770100,55703}</t>
 		<t id="99305">(ProtoBolt Mk3){77770401,99303} {77770100,55703}</t>
 		<t id="99306">ProtoBolt</t>
-		<!--M XenoBuster Mk1-->
-		<t id="29301">(XenoBuster Mk1){77770401,29303}</t>
-		<t id="29302">{77770100,55713}(This is a Project X XenoBuster Mk1 Bolt Weapon)</t>
-		<t id="29303">(XenoBuster){77770401,29306}</t>
-		<t id="29304">(M XenoBuster Mk1){77770100,55706} {77770401,29301} {77770100,55701}</t>
-		<t id="29305">(XenoBuster Mk1){77770401,29303} {77770100,55701}</t>
-		<t id="29306">XenoBuster</t>
 		<!--Large Sized Weapons-->
 		<!--Medium Sized Turrets-->
 		<!--M ARG ProtoBolt Turret Mk1-->
@@ -5387,13 +5328,6 @@
 		<t id="97204">(ARG M ProtoBolt Mk3){77770100,55710} {77770100,55706} {77770401,97201} {77770100,55703}</t>
 		<t id="97205">(ProtoBolt Mk3){77770401,97203} {77770100,55703}</t>
 		<t id="97206">ProtoBolt</t>
-		<!--M ARG XenoBuster Turret Mk1-->
-		<t id="27201">(XenoBuster Mk1){77770401,27203}</t>
-		<t id="27202">{77770100,55713}(This is a Project X XenoBuster Mk1 Bolt Turret Weapon)</t>
-		<t id="27203">(XenoBuster){77770401,27206}</t>
-		<t id="27204">(ARG M XenoBuster Mk1){77770100,55710} {77770100,55706} {77770401,27201} {77770100,55701}</t>
-		<t id="27205">(XenoBuster Mk1){77770401,27203} {77770100,55701}</t>
-		<t id="27206">XenoBuster</t>
 		<!--M PAR ProtoBolt Turret Mk1-->
 		<t id="99101">(ProtoBolt Mk1){77770401,99103}</t>
 		<t id="99102">{77770100,55704}(This is a Project X Prototype Mk1 Bolt Turret Weapon)</t>
@@ -5910,25 +5844,6 @@
 </macros><?xml version="1.0" encoding="utf-8"?>
 <!--Created by: ManDaxi-->
 <macros>
-  <macro name="bullet_gen_m_xenonbuster_gatling_01_mk1_macro" class="bullet">
-    <component ref="bullet_gen_m_gatling_01_mk2" />
-    <properties>
-      <ammunition value="308" reload="1" />
-      <bullet speed="5000" lifetime="7.5" amount="1" barrelamount="1" icon="weapon_gatling_mk2" timediff="0.021" angle="0.17" maxhits="2" ricochet="0.01" restitution="0.3" scale="0" attach="0" />
-      <heat value="22" />
-      <reload rate="18" />
-      <damage value="5000" repair="0" />
-      <effects>
-        <impact ref="impact_gen_m_gatling_01_mk1" inside="impact_gen_m_gatling_01_mk1_inside" />
-        <bigobjectimpact ref="impact_gen_m_gatling_01_mk1_bigobject" inside="impact_gen_m_gatling_01_mk1_bigobject_inside" />
-        <launch ref="muzzle_gen_m_gatling_01_mk1" />
-      </effects>
-      <weapon system="weapon_standard" />
-    </properties>
-  </macro>
-</macros><?xml version="1.0" encoding="utf-8"?>
-<!--Created by: ManDaxi-->
-<macros>
   <macro name="bullet_gen_s_prototype_beam_01_mk1_macro" class="bullet">
     <component ref="bullet_gen_s_beam_01_mk2" />
     <properties>
@@ -6162,24 +6077,6 @@
 </macros><?xml version="1.0" encoding="utf-8"?>
 <!--Created by: ManDaxi-->
 <macros>
-  <macro name="bullet_gen_turret_m_xenonbuster_gatling_01_mk1_macro" class="bullet">
-    <component ref="bullet_gen_s_gatling_01_mk1" />
-    <properties>
-      <ammunition value="200" reload="1" />
-      <bullet speed="5000" lifetime="7.5" amount="1" barrelamount="2" icon="weapon_gatling_mk1" timediff="0.018" angle="0.18" maxhits="2" ricochet="0.01" restitution="0.3" scale="0" attach="0" />
-      <reload rate="13" />
-      <damage value="5000" repair="0" />
-      <effects>
-        <impact ref="impact_gen_s_gatling_01_mk1" inside="impact_gen_s_gatling_01_mk1_inside" />
-        <bigobjectimpact ref="impact_gen_s_gatling_01_mk1_bigobject" inside="impact_gen_s_gatling_01_mk1_bigobject_inside" />
-        <launch ref="muzzle_turret_gen_m_gatling_01_mk1" />
-      </effects>
-      <weapon system="turret_shortrange" />
-    </properties>
-  </macro>
-</macros><?xml version="1.0" encoding="utf-8"?>
-<!--Created by: ManDaxi-->
-<macros>
   <macro name="turret_arg_l_prototype_beam_01_mk1_macro" class="turret">
     <component ref="turret_arg_l_beam_01_mk1" />
     <properties>
@@ -6349,32 +6246,6 @@
 </macros><?xml version="1.0" encoding="utf-8"?>
 <!--Created by: ManDaxi-->
 <macros>
-  <macro name="turret_arg_m_xenonbuster_gatling_01_mk1_macro" class="turret" alias="turret_arg_m_xenonbuster_gatling_02_mk1_macro">
-    <component ref="turret_arg_m_gatling_01_mk1" />
-    <properties>
-      <identification name="{77770401,27204}" basename="{77770401,27201}" shortname="{77770401,27205}" makerrace="argon" description="{77770401,27202}" mk="1" />
-      <bullet class="bullet_gen_turret_m_xenonbuster_gatling_01_mk1_macro" />
-      <rotationspeed max="200" />
-      <reload rate="0.80" time="0.80" />
-      <hull threshold="0.2" integrated="1" />
-    </properties>
-  </macro>
-</macros><?xml version="1.0" encoding="utf-8"?>
-<!--Created by: ManDaxi-->
-<macros>
-  <macro name="turret_arg_m_xenonbuster_gatling_02_mk1_macro" class="turret">
-    <component ref="turret_arg_m_gatling_02_mk1" />
-    <properties>
-      <identification name="{77770401,27204}" basename="{77770401,27201}" shortname="{77770401,27205}" makerrace="argon" description="{77770401,27202}" mk="1" />
-      <bullet class="bullet_gen_turret_m_xenonbuster_gatling_01_mk1_macro" />
-      <rotationspeed max="200" />
-      <reload rate="0.80" time="0.80" />
-      <hull max="25000" threshold="0.2" integrated="0" />
-    </properties>
-  </macro>
-</macros><?xml version="1.0" encoding="utf-8"?>
-<!--Created by: ManDaxi-->
-<macros>
   <macro name="weapon_gen_m_prototype_beam_01_mk1_macro" class="weapon">
     <component ref="weapon_gen_m_beam_01_mk2" />
     <properties>
@@ -6490,27 +6361,6 @@
       <rotationacceleration max="45.0" />
       <reload />
       <hull max="1701" hittable="0" />
-      <effects>
-        <firing start="startshooting_gen_m_gatling_01_mk1" stop="stopshooting_gen_m_gatling_01_mk1" />
-      </effects>
-      <sounds>
-        <firing ref="mg_firing" />
-      </sounds>
-    </properties>
-  </macro>
-</macros><?xml version="1.0" encoding="utf-8"?>
-<!--Created by: ManDaxi-->
-<macros>
-  <macro name="weapon_gen_m_xenonbuster_gatling_01_mk1_macro" class="weapon">
-    <component ref="weapon_gen_m_gatling_01_mk2" />
-    <properties>
-      <identification name="{77770401,29304}" basename="{77770401,29301}" shortname="{77770401,29305}" description="{77770401,29302}" mk="1" />
-      <bullet class="bullet_gen_m_xenonbuster_gatling_01_mk1_macro" />
-      <heat overheat="50000" cooldelay="0.20" coolrate="7000" reenable="9000" />
-      <rotationspeed max="80.0" />
-      <rotationacceleration max="45.0" />
-      <reload />
-      <hull max="25000" hittable="0" />
       <effects>
         <firing start="startshooting_gen_m_gatling_01_mk1" stop="stopshooting_gen_m_gatling_01_mk1" />
       </effects>

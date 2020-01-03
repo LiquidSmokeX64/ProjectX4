@@ -454,13 +454,6 @@
 		<t id="99304">(M ProtoBolt Mk3){77770100,55706} {77770401,99301} {77770100,55703}</t>
 		<t id="99305">(ProtoBolt Mk3){77770401,99303} {77770100,55703}</t>
 		<t id="99306">ProtoBolt</t>
-		<!--M XenoBuster Mk1-->
-		<t id="29301">(XenoBuster Mk1){77770401,29303}</t>
-		<t id="29302">{77770100,55713}(This is a Project X XenoBuster Mk1 Bolt Weapon)</t>
-		<t id="29303">(XenoBuster){77770401,29306}</t>
-		<t id="29304">(M XenoBuster Mk1){77770100,55706} {77770401,29301} {77770100,55701}</t>
-		<t id="29305">(XenoBuster Mk1){77770401,29303} {77770100,55701}</t>
-		<t id="29306">XenoBuster</t>
 		<!--Large Sized Weapons-->
 		<!--Medium Sized Turrets-->
 		<!--M ARG ProtoBolt Turret Mk1-->
@@ -484,13 +477,6 @@
 		<t id="97204">(ARG M ProtoBolt Mk3){77770100,55710} {77770100,55706} {77770401,97201} {77770100,55703}</t>
 		<t id="97205">(ProtoBolt Mk3){77770401,97203} {77770100,55703}</t>
 		<t id="97206">ProtoBolt</t>
-		<!--M ARG XenoBuster Turret Mk1-->
-		<t id="27201">(XenoBuster Mk1){77770401,27203}</t>
-		<t id="27202">{77770100,55713}(This is a Project X XenoBuster Mk1 Bolt Turret Weapon)</t>
-		<t id="27203">(XenoBuster){77770401,27206}</t>
-		<t id="27204">(ARG M XenoBuster Mk1){77770100,55710} {77770100,55706} {77770401,27201} {77770100,55701}</t>
-		<t id="27205">(XenoBuster Mk1){77770401,27203} {77770100,55701}</t>
-		<t id="27206">XenoBuster</t>
 		<!--M PAR ProtoBolt Turret Mk1-->
 		<t id="99101">(ProtoBolt Mk1){77770401,99103}</t>
 		<t id="99102">{77770100,55704}(This is a Project X Prototype Mk1 Bolt Turret Weapon)</t>
